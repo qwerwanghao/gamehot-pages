@@ -111,12 +111,12 @@
     if (input) input.addEventListener("input", draw);
     draw();
   }
-  function modal(kind) {
+  function modal(kind, detail = "") {
     document.querySelector(".snapshot-modal")?.remove();
     const overlay = node("div", "snapshot-modal");
     const panel = node("div", "snapshot-modal-panel");
     panel.setAttribute("role", "dialog"); panel.setAttribute("aria-modal", "true");
-    const title = node("h2", "snapshot-modal-title", kind === "search" ? "搜索资讯" : kind === "filter" ? "选择分类" : "热度怎么算");
+    const title = node("h2", "snapshot-modal-title", kind === "search" ? "搜索资讯" : kind === "filter" ? "选择分类" : kind === "participants" ? "参与报道的来源" : "热度怎么算");
     const close = node("button", "snapshot-modal-close", "关闭"); close.type = "button";
     const top = node("div", "snapshot-modal-top"); top.append(title, close); panel.append(top);
     if (kind === "search") {
@@ -133,7 +133,7 @@
         group.append(link);
       }
       panel.append(group);
-    } else panel.append(node("p", "snapshot-caption", "热度按近期不同来源对同一事件的报道计算，较新的报道权重更高。"));
+    } else panel.append(node("p", "snapshot-caption", kind === "participants" ? (detail || "暂无来源名单") : "热度按近期不同来源对同一事件的报道计算，较新的报道权重更高。"));
     close.addEventListener("click", () => overlay.remove());
     overlay.addEventListener("click", (event) => { if (event.target === overlay) overlay.remove(); });
     overlay.append(panel); document.body.append(overlay);
@@ -177,6 +177,7 @@
     if (label === "搜索") { modal("search"); return; }
     if (label === "筛选") { modal("filter"); return; }
     if (label === "怎么算") { modal("heat"); return; }
+    if (/位参与者，查看名单/.test(label)) { event.preventDefault(); event.stopPropagation(); modal("participants", button.title); return; }
     if (label === "回到顶部") { window.scrollTo({ top: 0, behavior: "smooth" }); return; }
     if (label === "返回") { if (document.referrer.startsWith(location.origin)) history.back(); else location.href = root; return; }
     if (label === "我的") { location.href = url("more/"); return; }
@@ -187,7 +188,7 @@
       }); syncUnread(); return;
     }
     const section = button.closest('section[aria-label]');
-    if (section && button.hasAttribute("aria-expanded") && /^\d{4}-\d{2}-\d{2}$/.test(section.getAttribute("aria-label"))) {
+    if (section && section.firstElementChild?.contains(button) && button.hasAttribute("aria-expanded") && /^\d{4}-\d{2}-\d{2}$/.test(section.getAttribute("aria-label"))) {
       const open = button.getAttribute("aria-expanded") !== "true";
       section.querySelectorAll("button[aria-expanded]").forEach((b) => b.setAttribute("aria-expanded", String(open)));
       [...section.children].slice(1).forEach((child) => { child.hidden = !open; });
