@@ -1,143 +1,441 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel>
-<title>GAMEHOT 精选</title><link>https://qwerwanghao.github.io/gamehot-pages/</link><description>从全球 PC、主机和手游的官方公告与游戏媒体精选资讯，汇总同一事件的报道，每天 08:00 出一份日报。</description><language>zh-CN</language>
-<atom:link href="https://qwerwanghao.github.io/gamehot-pages/feed.xml" rel="self" type="application/rss+xml"/>
-<item>
-  <title>《沙丘：觉醒》推出离线模式，单机游玩全程无需联网</title><link>https://qwerwanghao.github.io/gamehot-pages/#item-ydl49owl9ppnpg58s0r6mr9fk</link>
-  <guid isPermaLink="false">GAMEHOT:ydl49owl9ppnpg58s0r6mr9fk</guid>
-  <pubDate>Sun, 15 Nov 2026 12:33:46 GMT</pubDate>
-  <description>Funcom 通过 Steam 公告宣布《沙丘：觉醒》正式支持完全离线游玩，创建和删除单人角色也不再需要联网。此前游戏已逐步转型：4 月 PvP 改为可选，9 月推出单人模式并重做 Landsraad 等终局系统；现在仍可点 Go Online 按钮回到多人玩法。12 月还将推出探索 Arrakis 冻结极地的全新扩展包。</description>
-</item>
-<item>
-  <title>黄仁勋辞去英伟达总裁、CEO 及董事职务，CFO Colette Kress 出任临时 CEO</title><link>https://qwerwanghao.github.io/gamehot-pages/#item-fs2ob0g4za9yq91t8v5iiw26n</link>
-  <guid isPermaLink="false">GAMEHOT:fs2ob0g4za9yq91t8v5iiw26n</guid>
-  <pubDate>Fri, 13 Nov 2026 08:12:50 GMT</pubDate>
-  <description>英伟达联合创始人黄仁勋宣布辞去总裁、CEO 和董事职务，报道称其辞职与《纽约时报》关于涉嫌婚外情的报道有关。EVP 兼 CFO Colette Kress 出任临时 CEO 至确定继任者，Harvey C. Jones 任董事会主席。黄仁勋被传唤至美国国会作证，公司称无理由认为国家安全或公司机密泄露但正在调查，FBI 也在进行独立调查，中国否认相关指控。</description>
-</item>
-<item>
-  <title>《杀戮尖塔2》推出迄今最大 beta 补丁 v0.113.0，加入首个新角色 The Fool 及两种新模式</title><link>https://qwerwanghao.github.io/gamehot-pages/#item-vi8xoyk314s62706od8ht0sqj</link>
-  <guid isPermaLink="false">GAMEHOT:vi8xoyk314s62706od8ht0sqj</guid>
-  <pubDate>Fri, 13 Nov 2026 15:02:10 GMT</pubDate>
-  <description>MegaCrit 发布《杀戮尖塔2》v0.113.0 beta 更新，加入发售以来首个新角色 The Fool（使用弓的乐手），以及 Blitz 和 Dread 两种新模式。该角色尚未定型，正式进入主分支前还将有大量内容与平衡调整；玩家需在 Steam 库中右键游戏进入属性选择 public-beta 分支体验，主分支也已同步此前 beta 的内容。</description>
-</item>
-<item>
-  <title>BLG 3比1击败 Gen.G 夺得《英雄联盟》S16 全球总决赛冠军</title><link>https://qwerwanghao.github.io/gamehot-pages/#item-fyibbx6nnqogix4q4iaxxf03a</link>
-  <guid isPermaLink="false">GAMEHOT:fyibbx6nnqogix4q4iaxxf03a</guid>
-  <pubDate>Sun, 15 Nov 2026 00:02:03 GMT</pubDate>
-  <description>哔哩哔哩电竞 BLG 在纽约布鲁克林巴克莱中心以 3 比 1 击败 LCK 赛区 Gen.G，首次夺得《英雄联盟》全球总决赛冠军，FMVP 为 Knight。半决赛 BLG 以 3:1 击败卫冕冠军 T1，终结其连续三年夺冠纪录，T1 首次在 S 赛五局三胜淘汰赛中输给 LPL 队伍。</description>
-</item>
-<item>
-  <title>《Fable》官方播客深入解析新实机演示，游戏定于2027年2月23日发售</title><link>https://qwerwanghao.github.io/gamehot-pages/#item-q1r02e5tay1rgjkw93iuctl36</link>
-  <guid isPermaLink="false">GAMEHOT:q1r02e5tay1rgjkw93iuctl36</guid>
-  <pubDate>Fri, 13 Nov 2026 19:13:42 GMT</pubDate>
-  <description>Xbox官方播客邀请Playground Games的Ralph Fulton解析为Xbox 25周年发布的《Fable》新实机片段，展示阿尔比恩中部魔法森林Deepwood的新区域与战斗。</description>
-</item>
-<item>
-  <title>《流放之路》Covens of Umbra 资料片正式上线，官方实时更新部署信息</title><link>https://qwerwanghao.github.io/gamehot-pages/#item-qtfiy1micrrbje43jk2kzhkp1</link>
-  <guid isPermaLink="false">GAMEHOT:qtfiy1micrrbje43jk2kzhkp1</guid>
-  <pubDate>Fri, 13 Nov 2026 19:07:06 GMT</pubDate>
-  <description>Grinding Gear Games 宣布《流放之路 1：Covens of Umbra》扩展包于 11 月 13 日上午（PST）正式上线，并将在论坛帖子中全天实时更新部署相关信息。官方已知悉并正在修复俄语客户端使用传送点时的崩溃问题，临时解决方法为切换其他语言；帖内玩家反馈了主机全球聊天故障、Win7 启动报错和登录排队等问题。</description>
-</item>
-<item>
-  <title>索尼公布 QSSR 将登陆《漫威蜘蛛侠2》《Control Resonant》等 6 款 PS5 游戏</title><link>https://qwerwanghao.github.io/gamehot-pages/#item-ryv081qhmy3y8xre4ihflahm0</link>
-  <guid isPermaLink="false">GAMEHOT:ryv081qhmy3y8xre4ihflahm0</guid>
-  <pubDate>Fri, 13 Nov 2026 14:00:16 GMT</pubDate>
-  <description>索尼宣布 Quick Spectral Super Resolution（QSSR）AI 超分辨率技术将在未来几周内陆续登陆多款 PS5 游戏。</description>
-</item>
-<item>
-  <title>Xbox 25周年纪念汇总：Wolfenstein 3 开发中、25款初代 Xbox 游戏登陆 PC</title><link>https://qwerwanghao.github.io/gamehot-pages/#item-et7g7oxo7lnfxg14hga99mczz</link>
-  <guid isPermaLink="false">GAMEHOT:et7g7oxo7lnfxg14hga99mczz</guid>
-  <pubDate>Fri, 13 Nov 2026 01:00:00 GMT</pubDate>
-  <description>Xbox 在西雅图 FanFest 公布25周年多项内容：MachineGames 的 Wolfenstein 3 正式进入开发，BJ Blazkowicz 与 Grace Walker 的配音演员回归。</description>
-</item>
-<item>
-  <title>《Path of Exile 1: Covens of Umbra》今日登陆 PC 与主机，Coven 赛季开启</title><link>https://qwerwanghao.github.io/gamehot-pages/#item-sfs3clgl67b7jx679rxduuelp</link>
-  <guid isPermaLink="false">GAMEHOT:sfs3clgl67b7jx679rxduuelp</guid>
-  <pubDate>Thu, 12 Nov 2026 23:36:17 GMT</pubDate>
-  <description>《Path of Exile 1: Covens of Umbra》于 2026 年 11 月 13 日太平洋时间上午 11:00 在 PC 和主机上线，服务器当日上午 9:00 停机并开始更新。官方提供 PC torrent 预下载，但该 GGPK 文件不适用于 Steam、Epic 客户端和 macOS；上线后可加入 Coven League，探索新终局内容。</description>
-</item>
-<item>
-  <title>《Once Human》第五赛季 Dissonance Resonance 11 月 18 日上线 PS5，加入四人协作巨物团本</title><link>https://qwerwanghao.github.io/gamehot-pages/#item-a0z4283902721imoo247u4lof</link>
-  <guid isPermaLink="false">GAMEHOT:a0z4283902721imoo247u4lof</guid>
-  <pubDate>Thu, 12 Nov 2026 23:00:19 GMT</pubDate>
-  <description>《Once Human》第五赛季 Dissonant Resonance 将于 11 月 18 日全球上线 PS5，免费游玩。</description>
-</item>
-<item>
-  <title>《皮克敏4》Nintendo Switch 2 Edition + Dandori Academy 现已推出</title><link>https://qwerwanghao.github.io/gamehot-pages/#item-xeb5yhz2kbwr3g08eh4kl2wom</link>
-  <guid isPermaLink="false">GAMEHOT:xeb5yhz2kbwr3g08eh4kl2wom</guid>
-  <pubDate>Thu, 12 Nov 2026 17:00:00 GMT</pubDate>
-  <description>任天堂宣布《皮克敏4》Nintendo Switch 2 Edition + Dandori Academy 现已推出，画面提升，并可通过 Switch 2 系统麦克风对伙伴 Oatchi 下语音指令。</description>
-</item>
-<item>
-  <title>任天堂公布黑色星期五促销，Switch 2 + 马力欧卡丁车世界同捆装降至 $499.99</title><link>https://qwerwanghao.github.io/gamehot-pages/#item-oeq1waxg00d5bwnwem9tjkju9</link>
-  <guid isPermaLink="false">GAMEHOT:oeq1waxg00d5bwnwem9tjkju9</guid>
-  <pubDate>Thu, 12 Nov 2026 17:00:00 GMT</pubDate>
-  <description>任天堂公布黑色星期五促销。</description>
-</item>
-<item>
-  <title>《堡垒之夜》第7章 Treasure Hunters 赛季11月1日开启，联动《海贼王》草帽一伙</title><link>https://qwerwanghao.github.io/gamehot-pages/#item-l1g61dlst8te4zkoq38622r0f</link>
-  <guid isPermaLink="false">GAMEHOT:l1g61dlst8te4zkoq38622r0f</guid>
-  <pubDate>Thu, 12 Nov 2026 17:00:00 GMT</pubDate>
-  <description>《堡垒之夜》第7章 Treasure Hunters 赛季于11月1日开启，玩家可在骷髅形状的新岛屿上与《海贼王》草帽一伙相遇，使用海贼王能力并搜寻隐藏宝藏。</description>
-</item>
-<item>
-  <title>Steam 成就集功能与新版成就页面向全部用户推出</title><link>https://qwerwanghao.github.io/gamehot-pages/#item-atkuewdj2smz912e8a94d24b7</link>
-  <guid isPermaLink="false">GAMEHOT:atkuewdj2smz912e8a94d24b7</guid>
-  <pubDate>Wed, 11 Nov 2026 21:58:18 GMT</pubDate>
-  <description>Steam 向全部用户发布包含成就集与新版成就页面的成就更新。成就集支持查看每组进度、将成就关联到 DLC 单独成组，新增成就不影响已完成状态，开发者还可将不可再获取的成就归档或停用。成就页整合全局进度、详情与统计数据，扩展搜索筛选，并可与最多 3 位好友比较成就进度。</description>
-</item>
-<item>
-  <title>Steam 客户端 11 月 11 日更新推出成就套装功能</title><link>https://qwerwanghao.github.io/gamehot-pages/#item-pgj9do15twlpguri3u8bsqwbt</link>
-  <guid isPermaLink="false">GAMEHOT:pgj9do15twlpguri3u8bsqwbt</guid>
-  <pubDate>Wed, 11 Nov 2026 21:58:00 GMT</pubDate>
-  <description>Steam 发布 11 月 11 日客户端更新，新增成就套装功能，可将本体与 DLC 成就分组整理，已完成的套装在新套装加入后保持完成状态。更新还改进了 Steam 启动性能、通知设置和 Big Picture 模式的聊天与游戏邀请展示，并修复云端同步误报冲突、内存泄漏等多项问题。</description>
-</item>
-<item>
-  <title>Steam 客户端稳定通道更新推出：新增成就集合与远程畅玩 HDR 改进</title><link>https://qwerwanghao.github.io/gamehot-pages/#item-cfhl0npddehg66klmer69at5u</link>
-  <guid isPermaLink="false">GAMEHOT:cfhl0npddehg66klmer69at5u</guid>
-  <pubDate>Wed, 11 Nov 2026 21:57:41 GMT</pubDate>
-  <description>Valve 在稳定通道推出 Steam 客户端更新，引入 Steam 成就集合，可对基础游戏和 DLC 成就进行整理、分组与归档，且不影响游戏进度。远程畅玩对 HDR 支持大幅翻新，新增自动/开启/关闭设置并在 Steam Deck OLED 重新启用 HDR，同时加入 GameInput v4 支持、好友邀请小部件和多项稳定性修复。</description>
-</item>
-<item>
-  <title>《塞尔达传说：时之笛》Nintendo Switch 2 版首发四天全球销量超520万份</title><link>https://qwerwanghao.github.io/gamehot-pages/#item-ds4swguya465lwprufrevjgj7</link>
-  <guid isPermaLink="false">GAMEHOT:ds4swguya465lwprufrevjgj7</guid>
-  <pubDate>Wed, 11 Nov 2026 17:00:00 GMT</pubDate>
-  <description>任天堂公布，《塞尔达传说：时之笛》Nintendo Switch 2 版于11月5日全球发售后四天内全球销量超过520万份，成为任天堂发行游戏中在美国及全球最快的 Switch 2 游戏。</description>
-</item>
-<item>
-  <title>PlayStation Plus 11月游戏目录公布，《Death Stranding 2: On the Beach》《人中之龙8外传 Pirates in Hawaii》等11月17日起可玩</title><link>https://qwerwanghao.github.io/gamehot-pages/#item-grwsvr2vadszbnm5ne1b6pcqk</link>
-  <guid isPermaLink="false">GAMEHOT:grwsvr2vadszbnm5ne1b6pcqk</guid>
-  <pubDate>Wed, 11 Nov 2026 10:29:04 GMT</pubDate>
-  <description>PlayStation官方公布11月PlayStation Plus游戏目录，《Death Stranding 2: On the Beach》《人中之龙8外传 Pirates in Hawaii》《勇者斗恶龙III HD-2D Remake》《Atomfall》《Trepang2》《MotoGP 26》《Hell Let Loose》《Cricket 26》等将入库。</description>
-</item>
-<item>
-  <title>《失落星船：马拉松》12月8日推出「共生」更新，新增PvE远征与3v3死斗模式</title><link>https://qwerwanghao.github.io/gamehot-pages/#item-gjah2oufsu4lmfm2b8b6a9ogo</link>
-  <guid isPermaLink="false">GAMEHOT:gjah2oufsu4lmfm2b8b6a9ogo</guid>
-  <pubDate>Wed, 11 Nov 2026 02:40:53 GMT</pubDate>
-  <description>Bungie公布《失落星船：马拉松》「共生」更新将于12月8日上线，带来全新PvE「远征」模式、3对3团队死斗（测试版）、社交空间「灵薄狱」、主教跑者外壳，以及V17火焰喷射器与左轮手枪「独行侠」两把新武器。「边界」区域扩展出地下洞穴与水库等空间，并加入新敌人「蜱虫女王」。12月8日至15日开放公开试玩周，游戏现已登陆PS5并支持跨平台游玩与跨平台存档。</description>
-</item>
-<item>
-  <title>《荒野乱斗》2026年11月更新：平衡性调整、Ranked 大型重做、新角色 Thunder Frogs、Rey 和 Ruby 上线</title><link>https://qwerwanghao.github.io/gamehot-pages/#item-jqarl88bxnijzw77t2rauzmjp</link>
-  <guid isPermaLink="false">GAMEHOT:jqarl88bxnijzw77t2rauzmjp</guid>
-  <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
-  <description>Supercell 于2026年11月11日通过维护推出《荒野乱斗》更新，包含一轮针对 Vince、Chester、Lou、Mr. P 等角色的平衡调整，官方称临近 World Finals 故改动幅度较轻。</description>
-</item>
-<item>
-  <title>《The Outer Worlds 2》首部DLC Side Effects Guaranteed 12月2日上线</title><link>https://qwerwanghao.github.io/gamehot-pages/#item-qusmux3vctrc69m9zr6cs9z0b</link>
-  <guid isPermaLink="false">GAMEHOT:qusmux3vctrc69m9zr6cs9z0b</guid>
-  <pubDate>Tue, 10 Nov 2026 18:00:31 GMT</pubDate>
-  <description>《The Outer Worlds 2》公布首部DLC Side Effects Guaranteed，12月2日发售，是两部分故事扩展的第一部。DLC包含新故事地区Elysium Valley、5把新武器、等级上限提升到36、新perk与flaw、20首新歌的Sub Rosa电台，还可在主菜单用27级预置角色直接进入；同步更新加入随时重洗角色点数功能，第二部扩展计划2027年春季推出。</description>
-</item>
-<item>
-  <title>Marathon 12月8日推出 Symbiosis 更新并开放免费试玩周</title><link>https://qwerwanghao.github.io/gamehot-pages/#item-hb50ubek0pab09goovz4bba3b</link>
-  <guid isPermaLink="false">GAMEHOT:hb50ubek0pab09goovz4bba3b</guid>
-  <pubDate>Tue, 10 Nov 2026 14:00:00 GMT</pubDate>
-  <description>Bungie 宣布 Marathon 下一个更新 Symbiosis 将于12月8日上线，包含第一阶段常驻 PvE 模式 Expedition、新 Bishop shell、更新后的 Perimeter 地图等新内容。</description>
-</item>
-<item>
-  <title>Steam 新增 Steam Deck 游戏平均帧率数据展示</title><link>https://qwerwanghao.github.io/gamehot-pages/#item-ji3tc0dl32njplwh1ri8tfy45</link>
-  <guid isPermaLink="false">GAMEHOT:ji3tc0dl32njplwh1ri8tfy45</guid>
-  <pubDate>Tue, 10 Nov 2026 00:38:00 GMT</pubDate>
-  <description>Steam 于 11 月 11 日更新上线 Steam Deck 游戏平均帧率数据，覆盖数千款已做兼容性评级（已验证、可玩、不支持）的游戏，可在商店页 Steam Deck 兼容性详情和 Steam 客户端测试版库中查看。数据来自同意匿名提供帧率信息的玩家，并附帧率直方图展示卡顿频率；仅统计默认帧率上限（OLED 90fps、LCD 60fps）的数据，官方表示这是向更多设备提供帧率数据的第一步。</description>
-</item>
-</channel></rss>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>GAMEHOT — 精选</title>
+    <link>https://qwerwanghao.github.io/gamehot-pages/</link>
+    <description>最新 50 条 GAMEHOT 精选摘要，保留标题、站内阅读与原文入口；需要阅读器内全文可改订 /feed/full.xml。</description>
+    <language>zh-CN</language>
+    <atom:link href="https://qwerwanghao.github.io/gamehot-pages/feed.xml" rel="self" type="application/rss+xml" />
+    <ttl>30</ttl>
+    <generator>GAMEHOT (https://qwerwanghao.github.io/gamehot-pages/agent)</generator>
+    <item>
+      <title><![CDATA[《沙丘：觉醒》推出离线模式，单机游玩全程无需联网]]></title>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/ydl49owl9ppnpg58s0r6mr9fk</link>
+      <description><![CDATA[<p>Funcom 通过 Steam 公告宣布《沙丘：觉醒》正式支持完全离线游玩，创建和删除单人角色也不再需要联网。此前游戏已逐步转型：4 月 PvP 改为可选，9 月推出单人模式并重做 Landsraad 等终局系统；现在仍可点 Go Online 按钮回到多人玩法。12 月还将推出探索 Arrakis 冻结极地的全新扩展包。</p>
+<p>🔗 <a href="https://www.pcgamer.com/games/survival-crafting/former-survival-mmo-dune-awakening-can-now-be-played-without-requiring-an-internet-connection-at-any-point-as-its-much-requested-offline-mode-arrives/">阅读原文</a></p>
+<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/ydl49owl9ppnpg58s0r6mr9fk">https://qwerwanghao.github.io/gamehot-pages/items/ydl49owl9ppnpg58s0r6mr9fk</a></p>]]></description>
+      <category>更新与 DLC</category>
+      <pubDate>Sun, 15 Nov 2026 12:33:46 GMT</pubDate>
+      <guid isPermaLink="false">ydl49owl9ppnpg58s0r6mr9fk</guid>
+      <author>noreply@localhost (PC Gamer)</author>
+    </item>
+    <item>
+      <title><![CDATA[BLG 3比1击败 Gen.G 夺得《英雄联盟》S16 全球总决赛冠军]]></title>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/fyibbx6nnqogix4q4iaxxf03a</link>
+      <description><![CDATA[<p>哔哩哔哩电竞 BLG 在纽约布鲁克林巴克莱中心以 3 比 1 击败 LCK 赛区 Gen.G，首次夺得《英雄联盟》全球总决赛冠军，FMVP 为 Knight。半决赛 BLG 以 3:1 击败卫冕冠军 T1，终结其连续三年夺冠纪录，T1 首次在 S 赛五局三胜淘汰赛中输给 LPL 队伍。</p>
+<p>🔗 <a href="https://www.gcores.com/articles/222372">阅读原文</a></p>
+<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/fyibbx6nnqogix4q4iaxxf03a">https://qwerwanghao.github.io/gamehot-pages/items/fyibbx6nnqogix4q4iaxxf03a</a></p>]]></description>
+      <category>行业动态</category>
+      <pubDate>Sun, 15 Nov 2026 00:02:03 GMT</pubDate>
+      <guid isPermaLink="false">fyibbx6nnqogix4q4iaxxf03a</guid>
+      <author>noreply@localhost (机核)</author>
+    </item>
+    <item>
+      <title><![CDATA[《Fable》官方播客深入解析新实机演示，游戏定于2027年2月23日发售]]></title>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/q1r02e5tay1rgjkw93iuctl36</link>
+      <description><![CDATA[<p>Xbox官方播客邀请Playground Games的Ralph Fulton解析为Xbox 25周年发布的《Fable》新实机片段，展示阿尔比恩中部魔法森林Deepwood的新区域与战斗。</p>
+<p>🔗 <a href="https://news.xbox.com/en-us/2026/11/13/fable-deep-dive-into-new-gameplay-with-playground-games-official-xbox-podcast/">阅读原文</a></p>
+<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/q1r02e5tay1rgjkw93iuctl36">https://qwerwanghao.github.io/gamehot-pages/items/q1r02e5tay1rgjkw93iuctl36</a></p>]]></description>
+      <category>评测</category>
+      <pubDate>Fri, 13 Nov 2026 19:13:42 GMT</pubDate>
+      <guid isPermaLink="false">q1r02e5tay1rgjkw93iuctl36</guid>
+      <author>noreply@localhost (Xbox Wire)</author>
+    </item>
+    <item>
+      <title><![CDATA[《流放之路》Covens of Umbra 资料片正式上线，官方实时更新部署信息]]></title>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/qtfiy1micrrbje43jk2kzhkp1</link>
+      <description><![CDATA[<p>Grinding Gear Games 宣布《流放之路 1：Covens of Umbra》扩展包于 11 月 13 日上午（PST）正式上线，并将在论坛帖子中全天实时更新部署相关信息。官方已知悉并正在修复俄语客户端使用传送点时的崩溃问题，临时解决方法为切换其他语言；帖内玩家反馈了主机全球聊天故障、Win7 启动报错和登录排队等问题。</p>
+<p>🔗 <a href="https://www.pathofexile.com/forum/view-thread/4014263">阅读原文</a></p>
+<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/qtfiy1micrrbje43jk2kzhkp1">https://qwerwanghao.github.io/gamehot-pages/items/qtfiy1micrrbje43jk2kzhkp1</a></p>]]></description>
+      <category>更新与 DLC</category>
+      <pubDate>Fri, 13 Nov 2026 19:07:06 GMT</pubDate>
+      <guid isPermaLink="false">qtfiy1micrrbje43jk2kzhkp1</guid>
+      <author>noreply@localhost (Path of Exile News)</author>
+    </item>
+    <item>
+      <title><![CDATA[《杀戮尖塔2》推出迄今最大 beta 补丁 v0.113.0，加入首个新角色 The Fool 及两种新模式]]></title>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/vi8xoyk314s62706od8ht0sqj</link>
+      <description><![CDATA[<p>MegaCrit 发布《杀戮尖塔2》v0.113.0 beta 更新，加入发售以来首个新角色 The Fool（使用弓的乐手），以及 Blitz 和 Dread 两种新模式。该角色尚未定型，正式进入主分支前还将有大量内容与平衡调整；玩家需在 Steam 库中右键游戏进入属性选择 public-beta 分支体验，主分支也已同步此前 beta 的内容。</p>
+<p>🔗 <a href="https://www.eurogamer.net/slay-the-spire-2-biggest-update-new-character-the-fool">阅读原文</a></p>
+<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/vi8xoyk314s62706od8ht0sqj">https://qwerwanghao.github.io/gamehot-pages/items/vi8xoyk314s62706od8ht0sqj</a></p>]]></description>
+      <category>更新与 DLC</category>
+      <pubDate>Fri, 13 Nov 2026 15:02:10 GMT</pubDate>
+      <guid isPermaLink="false">vi8xoyk314s62706od8ht0sqj</guid>
+      <author>noreply@localhost (Eurogamer)</author>
+    </item>
+    <item>
+      <title><![CDATA[索尼公布 QSSR 将登陆《漫威蜘蛛侠2》《Control Resonant》等 6 款 PS5 游戏]]></title>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/ryv081qhmy3y8xre4ihflahm0</link>
+      <description><![CDATA[<p>索尼宣布 Quick Spectral Super Resolution（QSSR）AI 超分辨率技术将在未来几周内陆续登陆多款 PS5 游戏。</p>
+<p>🔗 <a href="https://blog.playstation.com/2026/11/13/qssr-arrives-in-marvels-spider-man-2-control-resonant-the-finals-arc-raiders-and-hell-let-loose-vietnam/">阅读原文</a></p>
+<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/ryv081qhmy3y8xre4ihflahm0">https://qwerwanghao.github.io/gamehot-pages/items/ryv081qhmy3y8xre4ihflahm0</a></p>]]></description>
+      <category>更新与 DLC</category>
+      <pubDate>Fri, 13 Nov 2026 14:00:16 GMT</pubDate>
+      <guid isPermaLink="false">ryv081qhmy3y8xre4ihflahm0</guid>
+      <author>noreply@localhost (PlayStation.Blog)</author>
+    </item>
+    <item>
+      <title><![CDATA[黄仁勋辞去英伟达总裁、CEO 及董事职务，CFO Colette Kress 出任临时 CEO]]></title>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/fs2ob0g4za9yq91t8v5iiw26n</link>
+      <description><![CDATA[<p>英伟达联合创始人黄仁勋宣布辞去总裁、CEO 和董事职务，报道称其辞职与《纽约时报》关于涉嫌婚外情的报道有关。EVP 兼 CFO Colette Kress 出任临时 CEO 至确定继任者，Harvey C. Jones 任董事会主席。黄仁勋被传唤至美国国会作证，公司称无理由认为国家安全或公司机密泄露但正在调查，FBI 也在进行独立调查，中国否认相关指控。</p>
+<p>🔗 <a href="https://www.gamesindustry.biz/nvidias-jensen-huang-resigns-as-ceo-amid-reports-of-affairs-with-alleged-chinese-spy-and-two-employees">阅读原文</a></p>
+<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/fs2ob0g4za9yq91t8v5iiw26n">https://qwerwanghao.github.io/gamehot-pages/items/fs2ob0g4za9yq91t8v5iiw26n</a></p>]]></description>
+      <category>行业动态</category>
+      <pubDate>Fri, 13 Nov 2026 08:12:50 GMT</pubDate>
+      <guid isPermaLink="false">fs2ob0g4za9yq91t8v5iiw26n</guid>
+      <author>noreply@localhost (GamesIndustry.biz)</author>
+    </item>
+    <item>
+      <title><![CDATA[Xbox 25周年纪念汇总：Wolfenstein 3 开发中、25款初代 Xbox 游戏登陆 PC]]></title>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/et7g7oxo7lnfxg14hga99mczz</link>
+      <description><![CDATA[<p>Xbox 在西雅图 FanFest 公布25周年多项内容：MachineGames 的 Wolfenstein 3 正式进入开发，BJ Blazkowicz 与 Grace Walker 的配音演员回归。</p>
+<p>🔗 <a href="https://news.xbox.com/en-us/2026/11/12/xbox-25th-anniversary-news-recap/">阅读原文</a></p>
+<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/et7g7oxo7lnfxg14hga99mczz">https://qwerwanghao.github.io/gamehot-pages/items/et7g7oxo7lnfxg14hga99mczz</a></p>]]></description>
+      <category>新作与发售</category>
+      <pubDate>Fri, 13 Nov 2026 01:00:00 GMT</pubDate>
+      <guid isPermaLink="false">et7g7oxo7lnfxg14hga99mczz</guid>
+      <author>noreply@localhost (Xbox Wire)</author>
+    </item>
+    <item>
+      <title><![CDATA[《Path of Exile 1: Covens of Umbra》今日登陆 PC 与主机，Coven 赛季开启]]></title>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/sfs3clgl67b7jx679rxduuelp</link>
+      <description><![CDATA[<p>《Path of Exile 1: Covens of Umbra》于 2026 年 11 月 13 日太平洋时间上午 11:00 在 PC 和主机上线，服务器当日上午 9:00 停机并开始更新。官方提供 PC torrent 预下载，但该 GGPK 文件不适用于 Steam、Epic 客户端和 macOS；上线后可加入 Coven League，探索新终局内容。</p>
+<p>🔗 <a href="https://www.pathofexile.com/forum/view-thread/4014085">阅读原文</a></p>
+<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/sfs3clgl67b7jx679rxduuelp">https://qwerwanghao.github.io/gamehot-pages/items/sfs3clgl67b7jx679rxduuelp</a></p>]]></description>
+      <category>新作与发售</category>
+      <pubDate>Thu, 12 Nov 2026 23:36:17 GMT</pubDate>
+      <guid isPermaLink="false">sfs3clgl67b7jx679rxduuelp</guid>
+      <author>noreply@localhost (Path of Exile News)</author>
+    </item>
+    <item>
+      <title><![CDATA[《Once Human》第五赛季 Dissonance Resonance 11 月 18 日上线 PS5，加入四人协作巨物团本]]></title>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/a0z4283902721imoo247u4lof</link>
+      <description><![CDATA[<p>《Once Human》第五赛季 Dissonant Resonance 将于 11 月 18 日全球上线 PS5，免费游玩。</p>
+<p>🔗 <a href="https://blog.playstation.com/2026/11/12/once-human-season-5-gameplay-showcases-co-op-colossus-boss-battle-live-november-18/">阅读原文</a></p>
+<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/a0z4283902721imoo247u4lof">https://qwerwanghao.github.io/gamehot-pages/items/a0z4283902721imoo247u4lof</a></p>]]></description>
+      <category>更新与 DLC</category>
+      <pubDate>Thu, 12 Nov 2026 23:00:19 GMT</pubDate>
+      <guid isPermaLink="false">a0z4283902721imoo247u4lof</guid>
+      <author>noreply@localhost (PlayStation.Blog)</author>
+    </item>
+    <item>
+      <title><![CDATA[《皮克敏4》Nintendo Switch 2 Edition + Dandori Academy 现已推出]]></title>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/xeb5yhz2kbwr3g08eh4kl2wom</link>
+      <description><![CDATA[<p>任天堂宣布《皮克敏4》Nintendo Switch 2 Edition + Dandori Academy 现已推出，画面提升，并可通过 Switch 2 系统麦克风对伙伴 Oatchi 下语音指令。</p>
+<p>🔗 <a href="https://www.nintendo.com/us/whatsnew/see-whats-sprouting-in-pikmin-4-nintendo-switch-2-edition-dandori-academy-available-now/">阅读原文</a></p>
+<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/xeb5yhz2kbwr3g08eh4kl2wom">https://qwerwanghao.github.io/gamehot-pages/items/xeb5yhz2kbwr3g08eh4kl2wom</a></p>]]></description>
+      <category>更新与 DLC</category>
+      <pubDate>Thu, 12 Nov 2026 17:00:00 GMT</pubDate>
+      <guid isPermaLink="false">xeb5yhz2kbwr3g08eh4kl2wom</guid>
+      <author>noreply@localhost (Nintendo What&apos;s New)</author>
+    </item>
+    <item>
+      <title><![CDATA[任天堂公布黑色星期五促销，Switch 2 + 马力欧卡丁车世界同捆装降至 $499.99]]></title>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/oeq1waxg00d5bwnwem9tjkju9</link>
+      <description><![CDATA[<p>任天堂公布黑色星期五促销。</p>
+<p>🔗 <a href="https://www.nintendo.com/us/whatsnew/nintendo-announces-black-friday-offers-to-help-spread-joy-this-holiday-season/">阅读原文</a></p>
+<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/oeq1waxg00d5bwnwem9tjkju9">https://qwerwanghao.github.io/gamehot-pages/items/oeq1waxg00d5bwnwem9tjkju9</a></p>]]></description>
+      <category>平台与优惠</category>
+      <pubDate>Thu, 12 Nov 2026 17:00:00 GMT</pubDate>
+      <guid isPermaLink="false">oeq1waxg00d5bwnwem9tjkju9</guid>
+      <author>noreply@localhost (Nintendo What&apos;s New)</author>
+    </item>
+    <item>
+      <title><![CDATA[《堡垒之夜》第7章 Treasure Hunters 赛季11月1日开启，联动《海贼王》草帽一伙]]></title>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/l1g61dlst8te4zkoq38622r0f</link>
+      <description><![CDATA[<p>《堡垒之夜》第7章 Treasure Hunters 赛季于11月1日开启，玩家可在骷髅形状的新岛屿上与《海贼王》草帽一伙相遇，使用海贼王能力并搜寻隐藏宝藏。</p>
+<p>🔗 <a href="https://www.nintendo.com/us/whatsnew/set-off-on-a-great-adventure-with-the-straw-hat-crew-in-fortnite-chapter-7-treasure-hunters/">阅读原文</a></p>
+<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/l1g61dlst8te4zkoq38622r0f">https://qwerwanghao.github.io/gamehot-pages/items/l1g61dlst8te4zkoq38622r0f</a></p>]]></description>
+      <category>更新与 DLC</category>
+      <pubDate>Thu, 12 Nov 2026 17:00:00 GMT</pubDate>
+      <guid isPermaLink="false">l1g61dlst8te4zkoq38622r0f</guid>
+      <author>noreply@localhost (Nintendo What&apos;s New)</author>
+    </item>
+    <item>
+      <title><![CDATA[Steam 成就集功能与新版成就页面向全部用户推出]]></title>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/atkuewdj2smz912e8a94d24b7</link>
+      <description><![CDATA[<p>Steam 向全部用户发布包含成就集与新版成就页面的成就更新。成就集支持查看每组进度、将成就关联到 DLC 单独成组，新增成就不影响已完成状态，开发者还可将不可再获取的成就归档或停用。成就页整合全局进度、详情与统计数据，扩展搜索筛选，并可与最多 3 位好友比较成就进度。</p>
+<p>🔗 <a href="https://steamcommunity.com/games/593110/announcements/detail/685269908095762672">阅读原文</a></p>
+<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/atkuewdj2smz912e8a94d24b7">https://qwerwanghao.github.io/gamehot-pages/items/atkuewdj2smz912e8a94d24b7</a></p>]]></description>
+      <category>更新与 DLC</category>
+      <pubDate>Wed, 11 Nov 2026 21:58:18 GMT</pubDate>
+      <guid isPermaLink="false">atkuewdj2smz912e8a94d24b7</guid>
+      <author>noreply@localhost (Steam 官方公告)</author>
+    </item>
+    <item>
+      <title><![CDATA[Steam 客户端 11 月 11 日更新推出成就套装功能]]></title>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/pgj9do15twlpguri3u8bsqwbt</link>
+      <description><![CDATA[<p>Steam 发布 11 月 11 日客户端更新，新增成就套装功能，可将本体与 DLC 成就分组整理，已完成的套装在新套装加入后保持完成状态。更新还改进了 Steam 启动性能、通知设置和 Big Picture 模式的聊天与游戏邀请展示，并修复云端同步误报冲突、内存泄漏等多项问题。</p>
+<p>🔗 <a href="https://steamcommunity.com/games/593110/announcements/detail/678515036155543748">阅读原文</a></p>
+<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/pgj9do15twlpguri3u8bsqwbt">https://qwerwanghao.github.io/gamehot-pages/items/pgj9do15twlpguri3u8bsqwbt</a></p>]]></description>
+      <category>更新与 DLC</category>
+      <pubDate>Wed, 11 Nov 2026 21:58:00 GMT</pubDate>
+      <guid isPermaLink="false">pgj9do15twlpguri3u8bsqwbt</guid>
+      <author>noreply@localhost (Steam 官方公告)</author>
+    </item>
+    <item>
+      <title><![CDATA[Steam 客户端稳定通道更新推出：新增成就集合与远程畅玩 HDR 改进]]></title>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/cfhl0npddehg66klmer69at5u</link>
+      <description><![CDATA[<p>Valve 在稳定通道推出 Steam 客户端更新，引入 Steam 成就集合，可对基础游戏和 DLC 成就进行整理、分组与归档，且不影响游戏进度。远程畅玩对 HDR 支持大幅翻新，新增自动/开启/关闭设置并在 Steam Deck OLED 重新启用 HDR，同时加入 GameInput v4 支持、好友邀请小部件和多项稳定性修复。</p>
+<p>🔗 <a href="https://steamcommunity.com/games/1675200/announcements/detail/687522235410284742">阅读原文</a></p>
+<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/cfhl0npddehg66klmer69at5u">https://qwerwanghao.github.io/gamehot-pages/items/cfhl0npddehg66klmer69at5u</a></p>]]></description>
+      <category>更新与 DLC</category>
+      <pubDate>Wed, 11 Nov 2026 21:57:41 GMT</pubDate>
+      <guid isPermaLink="false">cfhl0npddehg66klmer69at5u</guid>
+      <author>noreply@localhost (Steam Deck 更新)</author>
+    </item>
+    <item>
+      <title><![CDATA[《塞尔达传说：时之笛》Nintendo Switch 2 版首发四天全球销量超520万份]]></title>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/ds4swguya465lwprufrevjgj7</link>
+      <description><![CDATA[<p>任天堂公布，《塞尔达传说：时之笛》Nintendo Switch 2 版于11月5日全球发售后四天内全球销量超过520万份，成为任天堂发行游戏中在美国及全球最快的 Switch 2 游戏。</p>
+<p>🔗 <a href="https://www.nintendo.com/us/whatsnew/the-legend-of-zelda-ocarina-of-time-for-nintendo-switch-2-sells-over-5-2-million-units-worldwide-in-first-four-days/">阅读原文</a></p>
+<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/ds4swguya465lwprufrevjgj7">https://qwerwanghao.github.io/gamehot-pages/items/ds4swguya465lwprufrevjgj7</a></p>]]></description>
+      <category>行业动态</category>
+      <pubDate>Wed, 11 Nov 2026 17:00:00 GMT</pubDate>
+      <guid isPermaLink="false">ds4swguya465lwprufrevjgj7</guid>
+      <author>noreply@localhost (Nintendo What&apos;s New)</author>
+    </item>
+    <item>
+      <title><![CDATA[PlayStation Plus 11月游戏目录公布，《Death Stranding 2: On the Beach》《人中之龙8外传 Pirates in Hawaii》等11月17日起可玩]]></title>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/grwsvr2vadszbnm5ne1b6pcqk</link>
+      <description><![CDATA[<p>PlayStation官方公布11月PlayStation Plus游戏目录，《Death Stranding 2: On the Beach》《人中之龙8外传 Pirates in Hawaii》《勇者斗恶龙III HD-2D Remake》《Atomfall》《Trepang2》《MotoGP 26》《Hell Let Loose》《Cricket 26》等将入库。</p>
+<p>🔗 <a href="https://blog.zh-hant.playstation.com/2026/11/11/20261111-psplus/">阅读原文</a></p>
+<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/grwsvr2vadszbnm5ne1b6pcqk">https://qwerwanghao.github.io/gamehot-pages/items/grwsvr2vadszbnm5ne1b6pcqk</a></p>]]></description>
+      <category>平台与优惠</category>
+      <pubDate>Wed, 11 Nov 2026 10:29:04 GMT</pubDate>
+      <guid isPermaLink="false">grwsvr2vadszbnm5ne1b6pcqk</guid>
+      <author>noreply@localhost (PlayStation.Blog 繁體中文)</author>
+    </item>
+    <item>
+      <title><![CDATA[《失落星船：马拉松》12月8日推出「共生」更新，新增PvE远征与3v3死斗模式]]></title>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/gjah2oufsu4lmfm2b8b6a9ogo</link>
+      <description><![CDATA[<p>Bungie公布《失落星船：马拉松》「共生」更新将于12月8日上线，带来全新PvE「远征」模式、3对3团队死斗（测试版）、社交空间「灵薄狱」、主教跑者外壳，以及V17火焰喷射器与左轮手枪「独行侠」两把新武器。「边界」区域扩展出地下洞穴与水库等空间，并加入新敌人「蜱虫女王」。12月8日至15日开放公开试玩周，游戏现已登陆PS5并支持跨平台游玩与跨平台存档。</p>
+<p>🔗 <a href="https://blog.zh-hant.playstation.com/2026/11/11/20261111-marathon/">阅读原文</a></p>
+<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/gjah2oufsu4lmfm2b8b6a9ogo">https://qwerwanghao.github.io/gamehot-pages/items/gjah2oufsu4lmfm2b8b6a9ogo</a></p>]]></description>
+      <category>更新与 DLC</category>
+      <pubDate>Wed, 11 Nov 2026 02:40:53 GMT</pubDate>
+      <guid isPermaLink="false">gjah2oufsu4lmfm2b8b6a9ogo</guid>
+      <author>noreply@localhost (PlayStation.Blog 繁體中文)</author>
+    </item>
+    <item>
+      <title><![CDATA[《荒野乱斗》2026年11月更新：平衡性调整、Ranked 大型重做、新角色 Thunder Frogs、Rey 和 Ruby 上线]]></title>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/jqarl88bxnijzw77t2rauzmjp</link>
+      <description><![CDATA[<p>Supercell 于2026年11月11日通过维护推出《荒野乱斗》更新，包含一轮针对 Vince、Chester、Lou、Mr. P 等角色的平衡调整，官方称临近 World Finals 故改动幅度较轻。</p>
+<p>🔗 <a href="https://supercell.com/brawlstars/en/blog/game-updates/release-notes-november-2026/">阅读原文</a></p>
+<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/jqarl88bxnijzw77t2rauzmjp">https://qwerwanghao.github.io/gamehot-pages/items/jqarl88bxnijzw77t2rauzmjp</a></p>]]></description>
+      <category>更新与 DLC</category>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">jqarl88bxnijzw77t2rauzmjp</guid>
+      <author>noreply@localhost (荒野乱斗官方博客)</author>
+    </item>
+    <item>
+      <title><![CDATA[《The Outer Worlds 2》首部DLC Side Effects Guaranteed 12月2日上线]]></title>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/qusmux3vctrc69m9zr6cs9z0b</link>
+      <description><![CDATA[<p>《The Outer Worlds 2》公布首部DLC Side Effects Guaranteed，12月2日发售，是两部分故事扩展的第一部。DLC包含新故事地区Elysium Valley、5把新武器、等级上限提升到36、新perk与flaw、20首新歌的Sub Rosa电台，还可在主菜单用27级预置角色直接进入；同步更新加入随时重洗角色点数功能，第二部扩展计划2027年春季推出。</p>
+<p>🔗 <a href="https://blog.playstation.com/2026/11/10/the-outer-worlds-2s-first-dlc-arrives-december-2/">阅读原文</a></p>
+<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/qusmux3vctrc69m9zr6cs9z0b">https://qwerwanghao.github.io/gamehot-pages/items/qusmux3vctrc69m9zr6cs9z0b</a></p>]]></description>
+      <category>更新与 DLC</category>
+      <pubDate>Tue, 10 Nov 2026 18:00:31 GMT</pubDate>
+      <guid isPermaLink="false">qusmux3vctrc69m9zr6cs9z0b</guid>
+      <author>noreply@localhost (PlayStation.Blog)</author>
+    </item>
+    <item>
+      <title><![CDATA[Marathon 12月8日推出 Symbiosis 更新并开放免费试玩周]]></title>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/hb50ubek0pab09goovz4bba3b</link>
+      <description><![CDATA[<p>Bungie 宣布 Marathon 下一个更新 Symbiosis 将于12月8日上线，包含第一阶段常驻 PvE 模式 Expedition、新 Bishop shell、更新后的 Perimeter 地图等新内容。</p>
+<p>🔗 <a href="https://www.bungie.net/7/en/News/Article/symbiosis_open_play_week_crew_up">阅读原文</a></p>
+<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/hb50ubek0pab09goovz4bba3b">https://qwerwanghao.github.io/gamehot-pages/items/hb50ubek0pab09goovz4bba3b</a></p>]]></description>
+      <category>更新与 DLC</category>
+      <pubDate>Tue, 10 Nov 2026 14:00:00 GMT</pubDate>
+      <guid isPermaLink="false">hb50ubek0pab09goovz4bba3b</guid>
+      <author>noreply@localhost (Bungie News)</author>
+    </item>
+    <item>
+      <title><![CDATA[Steam 新增 Steam Deck 游戏平均帧率数据展示]]></title>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/ji3tc0dl32njplwh1ri8tfy45</link>
+      <description><![CDATA[<p>Steam 于 11 月 11 日更新上线 Steam Deck 游戏平均帧率数据，覆盖数千款已做兼容性评级（已验证、可玩、不支持）的游戏，可在商店页 Steam Deck 兼容性详情和 Steam 客户端测试版库中查看。数据来自同意匿名提供帧率信息的玩家，并附帧率直方图展示卡顿频率；仅统计默认帧率上限（OLED 90fps、LCD 60fps）的数据，官方表示这是向更多设备提供帧率数据的第一步。</p>
+<p>🔗 <a href="https://steamcommunity.com/games/593110/announcements/detail/685269801333948420">阅读原文</a></p>
+<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/ji3tc0dl32njplwh1ri8tfy45">https://qwerwanghao.github.io/gamehot-pages/items/ji3tc0dl32njplwh1ri8tfy45</a></p>]]></description>
+      <category>平台与优惠</category>
+      <pubDate>Tue, 10 Nov 2026 00:38:00 GMT</pubDate>
+      <guid isPermaLink="false">ji3tc0dl32njplwh1ri8tfy45</guid>
+      <author>noreply@localhost (Steam 官方公告)</author>
+    </item>
+    <item>
+      <title><![CDATA[《GTA6》11月10日开放PS5预先下载，需预留212GB空间]]></title>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/xm336rn11tmkvw5lq85qoqxk4</link>
+      <description><![CDATA[<p>PlayStation官方公布《Grand Theft Auto VI》将于11月19日登陆PS5，预购玩家可自当地时间11月10日午夜起预先下载。建议预留在PS5上至少212GB的存储空间，终极版预购含专属载具、武器和服饰奖励，临近发售还将公布更多消息。</p>
+<p>🔗 <a href="https://blog.zh-hant.playstation.com/2026/11/06/20261106-gta/">阅读原文</a></p>
+<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/xm336rn11tmkvw5lq85qoqxk4">https://qwerwanghao.github.io/gamehot-pages/items/xm336rn11tmkvw5lq85qoqxk4</a></p>]]></description>
+      <category>新作与发售</category>
+      <pubDate>Fri, 06 Nov 2026 05:47:11 GMT</pubDate>
+      <guid isPermaLink="false">xm336rn11tmkvw5lq85qoqxk4</guid>
+      <author>noreply@localhost (PlayStation.Blog 繁體中文)</author>
+    </item>
+    <item>
+      <title><![CDATA[《Helldivers 2》推出剧毒虫族变种，虫族洞穴扩展至更多生态环境]]></title>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/getn4q4g2ezh3nfadjqaw4xr1</link>
+      <description><![CDATA[<p>《Helldivers 2》官方公告新增剧毒虫族变种，包括行动迅速、啃咬带毒的剧毒清扫虫，以及体型庞大、会喷吐蛛网使玩家无法冲刺的剧毒呕吐虫。虫族洞穴将出现在银河更多生态环境中，中毒状态分为轻度和重度两级，可通过治疗剂解除。</p>
+<p>🔗 <a href="https://blog.zh-hant.playstation.com/2026/11/04/20261104-helldivers2/">阅读原文</a></p>
+<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/getn4q4g2ezh3nfadjqaw4xr1">https://qwerwanghao.github.io/gamehot-pages/items/getn4q4g2ezh3nfadjqaw4xr1</a></p>]]></description>
+      <category>更新与 DLC</category>
+      <pubDate>Wed, 04 Nov 2026 02:00:00 GMT</pubDate>
+      <guid isPermaLink="false">getn4q4g2ezh3nfadjqaw4xr1</guid>
+      <author>noreply@localhost (PlayStation.Blog 繁體中文)</author>
+    </item>
+    <item>
+      <title><![CDATA[任天堂开发者访谈第24期第4部分：谈《塞尔达传说：时之笛》Switch 2重制版的音乐与声音设计]]></title>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/yt0c3t90rf1jnuj9cc4bm9a32</link>
+      <description><![CDATA[<p>任天堂发布《塞尔达传说：时之笛》开发者访谈第4部分，这款Nintendo Switch 2独占游戏将于11月5日（周四）发售。访谈中开发者介绍游戏收录超过150首背景音乐并以完整管弦乐录制，部分曲目参考原版N64音源忠实重现声音，还支持陶笛语音识别吹奏和5.1声道环绕声。配音采用隐藏声优姓名的盲选试音，其中一位入选者正是28年前N64版为同一角色配音的原声优。</p>
+<p>🔗 <a href="https://www.nintendo.com/us/whatsnew/ask-the-developer-vol-24-the-legend-of-zelda-ocarina-of-time-part-4/">阅读原文</a></p>
+<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/yt0c3t90rf1jnuj9cc4bm9a32">https://qwerwanghao.github.io/gamehot-pages/items/yt0c3t90rf1jnuj9cc4bm9a32</a></p>]]></description>
+      <category>评测</category>
+      <pubDate>Mon, 02 Nov 2026 17:00:00 GMT</pubDate>
+      <guid isPermaLink="false">yt0c3t90rf1jnuj9cc4bm9a32</guid>
+      <author>noreply@localhost (Nintendo What&apos;s New)</author>
+    </item>
+    <item>
+      <title><![CDATA[任天堂开发者访谈第24期第3部分：《塞尔达传说 时之笛》Switch 2 版现代化改动详解]]></title>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/nnrgd4gzgvmurgptjf3ihf38h</link>
+      <description><![CDATA[<p>任天堂《Ask the Developer》第24期第3部分采访《塞尔达传说 时之笛》开发团队，该 Switch 2 独占游戏将于11月5日发售。</p>
+<p>🔗 <a href="https://www.nintendo.com/us/whatsnew/ask-the-developer-vol-24-the-legend-of-zelda-ocarina-of-time-part-3/">阅读原文</a></p>
+<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/nnrgd4gzgvmurgptjf3ihf38h">https://qwerwanghao.github.io/gamehot-pages/items/nnrgd4gzgvmurgptjf3ihf38h</a></p>]]></description>
+      <category>评测</category>
+      <pubDate>Mon, 02 Nov 2026 17:00:00 GMT</pubDate>
+      <guid isPermaLink="false">nnrgd4gzgvmurgptjf3ihf38h</guid>
+      <author>noreply@localhost (Nintendo What&apos;s New)</author>
+    </item>
+    <item>
+      <title><![CDATA[任天堂《塞尔达传说：时之笛》Switch 2 重制版开发者访谈第2部分：画面可变、体验不变]]></title>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/g18za3lm0oq9x8sn5shaumyx6</link>
+      <description><![CDATA[<p>任天堂在《问问开发者》第24期第2部分中，由《塞尔达传说：时之笛》重制版核心开发成员（总监HokWai Ng、美术总监Aya Shida等）讲述开发思路，该作为 Nintendo Switch 2 独占游戏，11月5日发售。</p>
+<p>🔗 <a href="https://www.nintendo.com/us/whatsnew/ask-the-developer-vol-24-the-legend-of-zelda-ocarina-of-time-part-2/">阅读原文</a></p>
+<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/g18za3lm0oq9x8sn5shaumyx6">https://qwerwanghao.github.io/gamehot-pages/items/g18za3lm0oq9x8sn5shaumyx6</a></p>]]></description>
+      <category>评测</category>
+      <pubDate>Mon, 02 Nov 2026 17:00:00 GMT</pubDate>
+      <guid isPermaLink="false">g18za3lm0oq9x8sn5shaumyx6</guid>
+      <author>noreply@localhost (Nintendo What&apos;s New)</author>
+    </item>
+    <item>
+      <title><![CDATA[任天堂宣布11月1日为皮克敏日，《皮克敏4》Switch 2版+Dandori Academy 11月12日发售]]></title>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/c213ul3t4biaqlsj896a31i8w</link>
+      <description><![CDATA[<p>任天堂举办皮克敏日直面会，宣布11月1日为皮克敏日，《皮克敏4》Nintendo Switch 2 Edition + Dandori Academy 将于11月12日独占登陆 Nintendo Switch 2，同日稍晚在 eShop 开放免费试玩版，含 Sun-Speckled Terrace 主线开头区域和 Dandori Academy 两个关卡。</p>
+<p>🔗 <a href="https://www.nintendo.com/us/whatsnew/nintendo-declares-november-1-pikmin-day-in-recognition-of-all-things-pikmin/">阅读原文</a></p>
+<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/c213ul3t4biaqlsj896a31i8w">https://qwerwanghao.github.io/gamehot-pages/items/c213ul3t4biaqlsj896a31i8w</a></p>]]></description>
+      <category>更新与 DLC</category>
+      <pubDate>Mon, 02 Nov 2026 17:00:00 GMT</pubDate>
+      <guid isPermaLink="false">c213ul3t4biaqlsj896a31i8w</guid>
+      <author>noreply@localhost (Nintendo What&apos;s New)</author>
+    </item>
+    <item>
+      <title><![CDATA[Bungie 社区更新说明 Destiny 2 内容回填进度与未来规划]]></title>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/uv8jvxlfzz05gpozcq4rj8u33</link>
+      <description><![CDATA[<p>Bungie 发布社区更新，介绍 Destiny 2 已下架内容（unvaulting）的恢复进展及 Destiny 未来规划。首批恢复将包含 Red War、Forsaken、Curse of Osiris、Warmind 战役及其 Strikes、Raid 与 Menagerie 活动；目前处于预制作验证阶段，预计持续到 1 月或 2 月，之后完整移植约需 12 个月。</p>
+<p>🔗 <a href="https://www.bungie.net/7/en/News/Article/bungiecommunityupdate_10_27">阅读原文</a></p>
+<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/uv8jvxlfzz05gpozcq4rj8u33">https://qwerwanghao.github.io/gamehot-pages/items/uv8jvxlfzz05gpozcq4rj8u33</a></p>]]></description>
+      <category>更新与 DLC</category>
+      <pubDate>Thu, 29 Oct 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">uv8jvxlfzz05gpozcq4rj8u33</guid>
+      <author>noreply@localhost (Bungie News)</author>
+    </item>
+    <item>
+      <title><![CDATA[任天堂新一期 Indie World 公布 Witchbrook、Tenjutsu 等多款独立游戏登陆 Switch 2 与 Switch]]></title>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/lccuiwlgxwrfd7h1y5fczzsr4</link>
+      <description><![CDATA[<p>任天堂发布新一期 Indie World Showcase，集中公布多款将于今年至 2027 年登陆 Nintendo Switch 2 和 Nintendo Switch 的独立游戏，包括 Witchbrook（1月28日发售）、Slime Rancher 2（2027年1月）、Tenjutsu、City of None 等。</p>
+<p>🔗 <a href="https://www.nintendo.com/us/whatsnew/new-indie-world-showcase-features-cozy-and-chaotic-fun-for-nintendo-switch-2-and-nintendo-switch/">阅读原文</a></p>
+<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/lccuiwlgxwrfd7h1y5fczzsr4">https://qwerwanghao.github.io/gamehot-pages/items/lccuiwlgxwrfd7h1y5fczzsr4</a></p>]]></description>
+      <category>新作与发售</category>
+      <pubDate>Wed, 28 Oct 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">lccuiwlgxwrfd7h1y5fczzsr4</guid>
+      <author>noreply@localhost (Nintendo What&apos;s New)</author>
+    </item>
+    <item>
+      <title><![CDATA[《我的世界》登陆 Nintendo Switch 2，支持 Vibrant Visuals 并可免费升级]]></title>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/xtbhg5ilhnnddod00p1om5lht</link>
+      <description><![CDATA[<p>任天堂宣布 Minecraft 现已在 Nintendo Switch 2 上发售，集成 Vibrant Visuals 支持，含方向光照、体积雾、动态阴影及任天堂独占的 Super Mario Mash-Up Pack。</p>
+<p>🔗 <a href="https://www.nintendo.com/us/whatsnew/experience-vibrant-visuals-in-minecraft-for-nintendo-switch-2/">阅读原文</a></p>
+<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/xtbhg5ilhnnddod00p1om5lht">https://qwerwanghao.github.io/gamehot-pages/items/xtbhg5ilhnnddod00p1om5lht</a></p>]]></description>
+      <category>新作与发售</category>
+      <pubDate>Tue, 27 Oct 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">xtbhg5ilhnnddod00p1om5lht</guid>
+      <author>noreply@localhost (Nintendo What&apos;s New)</author>
+    </item>
+    <item>
+      <title><![CDATA[Steam 个人日历结束实验阶段成为商店正式功能]]></title>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/jbl1jyxxb754wq6v7ga4xpsyd</link>
+      <description><![CDATA[<p>Steam 更新后，个人日历功能从 Steam Lab 转正，可在商店主页或 store.steampowered.com/personalcalendar 查看。</p>
+<p>🔗 <a href="https://steamcommunity.com/games/593110/announcements/detail/710037059469839719">阅读原文</a></p>
+<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/jbl1jyxxb754wq6v7ga4xpsyd">https://qwerwanghao.github.io/gamehot-pages/items/jbl1jyxxb754wq6v7ga4xpsyd</a></p>]]></description>
+      <category>更新与 DLC</category>
+      <pubDate>Fri, 23 Oct 2026 20:10:32 GMT</pubDate>
+      <guid isPermaLink="false">jbl1jyxxb754wq6v7ga4xpsyd</guid>
+      <author>noreply@localhost (Steam 官方公告)</author>
+    </item>
+    <item>
+      <title><![CDATA[《使命召唤：现代战争4》现已登陆 Nintendo Switch 2]]></title>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/h75fuec43y4c3fcrojszcr1sy</link>
+      <description><![CDATA[<p>任天堂官方宣布《使命召唤：现代战争4》现已登陆 Nintendo Switch 2，系列时隔多年重返任天堂平台。游戏包含战役、多人联机和 DMZ 三种模式，多人模式首发提供 12 张全新 6v6 地图以及支持载具作战的大规模地图。多人模式和 DMZ 需要 Nintendo Switch Online 会员订阅，新玩家和用过试用资格的玩家均可再次领取 7 天免费试用。</p>
+<p>🔗 <a href="https://www.nintendo.com/us/whatsnew/call-of-duty-r-modern-warfare-r-4-is-out-now-for-nintendo-switch-2-stay-frosty/">阅读原文</a></p>
+<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/h75fuec43y4c3fcrojszcr1sy">https://qwerwanghao.github.io/gamehot-pages/items/h75fuec43y4c3fcrojszcr1sy</a></p>]]></description>
+      <category>新作与发售</category>
+      <pubDate>Fri, 23 Oct 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">h75fuec43y4c3fcrojszcr1sy</guid>
+      <author>noreply@localhost (Nintendo What&apos;s New)</author>
+    </item>
+    <item>
+      <title><![CDATA[荒野乱斗10月26日开启#CreatorCoffins活动，支持创作者赢Brawl-O-Ween奖励]]></title>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/h8dhwhdlycovfxowrqq1wds0m</link>
+      <description><![CDATA[<p>荒野乱斗公布#CreatorCoffins社区活动，10月26日至29日玩家在社交媒体搜索#CreatorCoffins获取创作者代码并输入，即可通过完成每日任务解锁游戏内奖励和限定Brawl-O-Ween Coffin Box Pin。每日任务于08:00 UTC刷新，代码一经输入锁定4天不可更改；创作者将收到含4具密封棺材的实体礼包，社区达成目标后解锁开棺直播，但棺内奖品仅归创作者所有。</p>
+<p>🔗 <a href="https://supercell.com/brawlstars/en/blog/community/creatorcoffins-earn-rewards-by-supporting-your-favorite-creator/">阅读原文</a></p>
+<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/h8dhwhdlycovfxowrqq1wds0m">https://qwerwanghao.github.io/gamehot-pages/items/h8dhwhdlycovfxowrqq1wds0m</a></p>]]></description>
+      <category>更新与 DLC</category>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">h8dhwhdlycovfxowrqq1wds0m</guid>
+      <author>noreply@localhost (荒野乱斗官方博客)</author>
+    </item>
+    <item>
+      <title><![CDATA[Nintendo Switch Sports Resort 现已推出，为 Switch 2 独占并包含 12 项体感运动]]></title>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/g4jwfv5sb3n86yrypliorj8um</link>
+      <description><![CDATA[<p>任天堂宣布 Nintendo Switch Sports Resort 已可供游玩，为 Nintendo Switch 2 独占。</p>
+<p>🔗 <a href="https://www.nintendo.com/us/whatsnew/grab-your-headband-and-get-ready-to-move-in-nintendo-switch-sports-resort/">阅读原文</a></p>
+<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/g4jwfv5sb3n86yrypliorj8um">https://qwerwanghao.github.io/gamehot-pages/items/g4jwfv5sb3n86yrypliorj8um</a></p>]]></description>
+      <category>新作与发售</category>
+      <pubDate>Thu, 22 Oct 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">g4jwfv5sb3n86yrypliorj8um</guid>
+      <author>noreply@localhost (Nintendo What&apos;s New)</author>
+    </item>
+    <item>
+      <title><![CDATA[《生化危机》系列登陆Nintendo Switch 2，官方盘点可玩游戏名单]]></title>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/oho6z1lyek8ql2jz3sqm6qvbp</link>
+      <description><![CDATA[<p>任天堂官方介绍，Resident Evil 2 Deluxe Edition、Resident Evil 3和Resident Evil 4 Gold Edition三款作品刚登陆Nintendo Switch 2，并整理了可在Switch 2或Nintendo Switch上游玩的系列游戏完整名单，供玩家参考选购。</p>
+<p>🔗 <a href="https://www.nintendo.com/us/whatsnew/heres-every-resident-evil-game-available-for-nintendo-switch-2-or-nintendo-switch/">阅读原文</a></p>
+<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/oho6z1lyek8ql2jz3sqm6qvbp">https://qwerwanghao.github.io/gamehot-pages/items/oho6z1lyek8ql2jz3sqm6qvbp</a></p>]]></description>
+      <category>新作与发售</category>
+      <pubDate>Mon, 19 Oct 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">oho6z1lyek8ql2jz3sqm6qvbp</guid>
+      <author>noreply@localhost (Nintendo What&apos;s New)</author>
+    </item>
+    <item>
+      <title><![CDATA[《荒野乱斗》联动多邻国活动开启，9月30日结束]]></title>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/fpqrzemadm80rlc2a23kskb6f</link>
+      <description><![CDATA[<p>《荒野乱斗》公布与多邻国的联动活动，持续至9月30日，分两阶段。第一阶段在教室完成社区玩法目标赢奖励，第二阶段全员被罚留堂，需完成更换游戏语言等任务才能逃脱。活动还推出 Duo Boss Fight 模式，玩家需与队友合作答题，但 Duo 最终会失去耐心并发起攻击。</p>
+<p>🔗 <a href="https://supercell.com/brawlstars/en/blog/community/brawl-stars-x-duolingo/">阅读原文</a></p>
+<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/fpqrzemadm80rlc2a23kskb6f">https://qwerwanghao.github.io/gamehot-pages/items/fpqrzemadm80rlc2a23kskb6f</a></p>]]></description>
+      <category>更新与 DLC</category>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">fpqrzemadm80rlc2a23kskb6f</guid>
+      <author>noreply@localhost (荒野乱斗官方博客)</author>
+    </item>
+    <item>
+      <title><![CDATA[荒野乱斗 2026 世界总决赛公布赛制，11 月 20 日至 22 日在东京举行]]></title>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/y9nyu8kdc52di82rfunu7uba7</link>
+      <description><![CDATA[<p>荒野乱斗官方公布 2026 World Finals 赛制，赛事于 11 月 20 日至 22 日在东京体育馆举行，12 支队伍争夺 100 万美元奖金池。周五为 8 队 GSL 小组赛，周六和周日为 8 队双败淘汰季后赛，总决赛采用 BO7 且胜者组队伍以 1-0 领先开局。</p>
+<p>🔗 <a href="https://supercell.com/brawlstars/en/blog/esports/brawl-stars-world-finals-format/">阅读原文</a></p>
+<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/y9nyu8kdc52di82rfunu7uba7">https://qwerwanghao.github.io/gamehot-pages/items/y9nyu8kdc52di82rfunu7uba7</a></p>]]></description>
+      <category>行业动态</category>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">y9nyu8kdc52di82rfunu7uba7</guid>
+      <author>noreply@localhost (荒野乱斗官方博客)</author>
+    </item>
+  </channel>
+</rss>

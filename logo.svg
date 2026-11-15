@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="GAMEHOT">
-  <rect width="512" height="512" rx="116" fill="#13191c"/>
-  <path fill="#2ce2e8" d="M177 164h158c40 0 70 26 81 65l22 76c8 26-5 50-27 57-15 5-29 1-40-11l-54-55H195l-54 55c-11 12-25 16-40 11-22-7-35-31-27-57l22-76c11-39 41-65 81-65Z"/>
-  <path d="M163 205v57m-28-28h56" fill="none" stroke="#13191c" stroke-linecap="round" stroke-width="18"/>
-  <circle cx="347" cy="215" r="13" fill="#13191c"/>
-  <circle cx="372" cy="241" r="13" fill="#13191c"/>
-</svg>
