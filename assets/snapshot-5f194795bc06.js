@@ -70,6 +70,111 @@
     if (item.reason) article.append(node("p", "snapshot-result-reason", `推荐理由：${item.reason}`));
     return article;
   }
+  async function searchCollection() {
+    const page = document.querySelector("main > div > div.pb-6");
+    const results = page?.querySelector("[data-search-results]");
+    const status = page?.querySelector("[data-search-status]");
+    const desktop = page?.querySelector("#site-search");
+    if (!page || !results || !status || !desktop) return collection("search");
+
+    const mobileForm = node("form", "snapshot-mobile-search");
+    mobileForm.method = "get"; mobileForm.action = url("search/"); mobileForm.setAttribute("role", "search");
+    const mobile = node("input", "snapshot-search-input");
+    mobile.type = "search"; mobile.name = "q"; mobile.placeholder = "搜索标题、摘要或来源";
+    mobile.setAttribute("aria-label", "搜索标题和摘要");
+    mobileForm.append(mobile); page.querySelector("header[data-phone-bar]")?.after(mobileForm);
+
+    let entries, feed;
+    try {
+      [entries, feed] = await Promise.all([
+        index(),
+        fetch(url("search-feed.json"), { credentials: "omit" }).then((r) => {
+          if (!r.ok) throw new Error("Search rows unavailable");
+          return r.json();
+        }),
+      ]);
+    } catch { status.textContent = "资讯暂时无法加载，请稍后刷新。"; return; }
+
+    const params = new URL(location.href).searchParams;
+    let query = params.get("q") || "";
+    const category = params.get("category") || "";
+    const firstParty = params.get("channel") === "firstParty";
+    const heading = page.querySelector("h1");
+    const nav = page.querySelector('nav[aria-label="筛选"]');
+    const filterLinks = [...(nav?.querySelectorAll("a") || [])];
+    for (const link of filterLinks) {
+      const match = new URL(link.href).pathname.match(/\/filtered\/all\/([^/]+)\//);
+      link.dataset.searchFilter = match?.[1] || "";
+    }
+    const updateLinks = () => {
+      for (const link of filterLinks) {
+        const next = new URL(url("search/"));
+        if (query.trim()) next.searchParams.set("q", query.trim());
+        const key = link.dataset.searchFilter;
+        if (key === "first-party") next.searchParams.set("channel", "firstParty");
+        else if (key) next.searchParams.set("category", key);
+        link.href = next.href;
+        const active = firstParty ? key === "first-party" : key === category;
+        if (active) link.setAttribute("aria-current", "page"); else link.removeAttribute("aria-current");
+        link.classList.toggle("text-ink", active);
+        link.classList.toggle("text-ink-3", !active);
+        const indicator = link.querySelector(":scope > span.absolute");
+        if (indicator && !active) indicator.remove();
+        else if (!indicator && active) link.prepend(node("span", "absolute inset-0 rounded-full bg-surface shadow-[var(--shadow-thumb)] ring-1 ring-line dark:bg-raised"));
+      }
+    };
+    const available = new Set(entries.filter((entry) => entry.available).map((entry) => entry.id));
+    const draw = () => {
+      desktop.value = mobile.value = query;
+      if (heading) heading.textContent = query.trim() ? `搜索“${query.trim()}”` : "搜索";
+      updateLinks();
+      const words = query.trim().toLocaleLowerCase().split(/\s+/).filter(Boolean);
+      const matched = words.length ? entries.filter((item) => {
+        if (category && item.category !== category) return false;
+        if (firstParty && !item.firstParty) return false;
+        const text = [item.title, item.summary, item.source, item.reason, ...(item.tags || [])].filter(Boolean).join(" ").toLocaleLowerCase();
+        return words.every((word) => text.includes(word));
+      }) : [];
+      const days = new Map();
+      for (const item of matched) {
+        const day = item.day || "";
+        if (!days.has(day)) days.set(day, []);
+        days.get(day).push(item);
+      }
+      results.replaceChildren();
+      for (const [day, items] of days) {
+        const section = node("section");
+        section.setAttribute("aria-label", day);
+        if (feed.days[day]) {
+          // Fragments come from the site's own escaped, sanitized static reader pages.
+          const template = document.createElement("template"); template.innerHTML = feed.days[day];
+          section.append(template.content.cloneNode(true));
+          section.querySelectorAll(".num").forEach((count) => { count.textContent = String(items.length); });
+        }
+        const list = node("ol", "lg:pt-1");
+        for (const item of items) {
+          if (feed.cards[item.id]?.html) {
+            const template = document.createElement("template"); template.innerHTML = feed.cards[item.id].html;
+            list.append(template.content.cloneNode(true));
+          } else {
+            const row = node("li"); row.append(card(item, available)); list.append(row);
+          }
+        }
+        section.append(list); results.append(section);
+      }
+      status.textContent = query.trim() ? (matched.length ? `找到 ${matched.length} 条 · 搜索最近五页资讯` : "没有找到相关资讯，试试其他关键词。") : "输入关键词开始搜索。";
+      syncStars();
+    };
+    for (const input of [desktop, mobile]) input.addEventListener("input", () => {
+      query = input.value;
+      const next = new URL(location.href);
+      if (query.trim()) next.searchParams.set("q", query.trim()); else next.searchParams.delete("q");
+      history.replaceState(null, "", next);
+      draw();
+    });
+    for (const form of [desktop.form, mobileForm]) form?.addEventListener("submit", (event) => event.preventDefault());
+    draw();
+  }
   async function collection(view) {
     const main = document.querySelector("#main");
     if (!main) return;
@@ -126,10 +231,18 @@
       form.append(input, submit); panel.append(form); setTimeout(() => input.focus(), 0);
     } else if (kind === "filter") {
       const group = node("div", "snapshot-filter-list");
-      const allPage = location.pathname.includes("/all/") || location.pathname.includes("/filtered/all/");
+      const isSearch = document.body.dataset.snapshotView === "search";
+      const allPage = isSearch || location.pathname.includes("/all/") || location.pathname.includes("/filtered/all/");
       for (const [label, key] of [["全部", ""], ["一手", "first-party"], ["新作", "game-releases"], ["更新", "game-updates"], ["平台", "platform-offers"], ["行业", "industry"], ["攻略", "tip"], ["评测", "opinion"]]) {
         const link = node("a", "snapshot-filter-link", label);
-        link.href = url(key ? `filtered/${allPage ? "all" : "selected"}/${key}/` : (allPage ? "all/" : ""));
+        if (isSearch) {
+          const next = new URL(url("search/"));
+          const query = new URL(location.href).searchParams.get("q");
+          if (query) next.searchParams.set("q", query);
+          if (key === "first-party") next.searchParams.set("channel", "firstParty");
+          else if (key) next.searchParams.set("category", key);
+          link.href = next.href;
+        } else link.href = url(key ? `filtered/${allPage ? "all" : "selected"}/${key}/` : (allPage ? "all/" : ""));
         group.append(link);
       }
       panel.append(group);
@@ -137,6 +250,48 @@
     close.addEventListener("click", () => overlay.remove());
     overlay.addEventListener("click", (event) => { if (event.target === overlay) overlay.remove(); });
     overlay.append(panel); document.body.append(overlay);
+  }
+  const groupCache = new Map();
+  async function toggleGroup(button) {
+    const groupId = button.dataset.snapshotGroup;
+    const parent = button.parentElement;
+    const article = button.closest("article[data-item-id]");
+    if (!groupId || !parent || !article) return;
+    let panel = parent.querySelector(":scope > [data-snapshot-group-panel]");
+    if (panel) {
+      panel.hidden = !panel.hidden;
+      button.setAttribute("aria-expanded", String(!panel.hidden));
+      return;
+    }
+    panel = node("div", "snapshot-group-panel anim-collapse-in");
+    panel.dataset.snapshotGroupPanel = "";
+    panel.append(node("p", "snapshot-caption", "正在加载…"));
+    parent.append(panel); button.setAttribute("aria-expanded", "true");
+    try {
+      let request = groupCache.get(groupId);
+      if (!request) {
+        request = fetch(url(`groups/${encodeURIComponent(groupId)}.json`), { credentials: "omit" }).then((r) => {
+          if (!r.ok) throw new Error("Group unavailable");
+          return r.json();
+        });
+        groupCache.set(groupId, request);
+      }
+      const data = await request;
+      const others = data.reports.filter((report) => report.id !== article.dataset.itemId);
+      panel.replaceChildren();
+      if (!others.length) panel.append(node("p", "snapshot-caption", "暂无其他报道。"));
+      for (const report of others) {
+        const row = node("div", "snapshot-group-row"); row.dataset.itemId = report.id;
+        const source = node("span", "snapshot-group-source", report.source);
+        const title = node("a", "snapshot-group-title", report.title);
+        title.href = report.available ? url(`items/${encodeURIComponent(report.id)}/`) : report.original;
+        if (!report.available) { title.target = "_blank"; title.rel = "noopener noreferrer"; }
+        row.append(source, title); panel.append(row);
+      }
+    } catch {
+      groupCache.delete(groupId);
+      panel.remove(); button.setAttribute("aria-expanded", "false");
+    }
   }
   let unread = false;
   function syncUnread() {
@@ -149,13 +304,14 @@
   document.addEventListener("click", async (event) => {
     const link = event.target.closest("a[href]");
     if (link) {
-      const article = link.closest("article[data-item-id]");
+      const article = link.closest("[data-item-id]");
       if (article && link.href.includes("/items/")) {
         const seen = readItems(); seen.add(article.dataset.itemId); write(readKey, [...seen]);
       }
     }
     const button = event.target.closest("button");
     if (!button) return;
+    if (button.dataset.snapshotGroup) { event.preventDefault(); event.stopPropagation(); await toggleGroup(button); return; }
     if (button.getAttribute("role") === "radio" && modes[button.title]) { theme(modes[button.title]); return; }
     const label = button.getAttribute("aria-label") || button.title || button.textContent.trim();
     if (label === "收藏" || label === "取消收藏") {
@@ -190,7 +346,7 @@
     const section = button.closest('section[aria-label]');
     if (section && section.firstElementChild?.contains(button) && button.hasAttribute("aria-expanded") && /^\d{4}-\d{2}-\d{2}$/.test(section.getAttribute("aria-label"))) {
       const open = button.getAttribute("aria-expanded") !== "true";
-      section.querySelectorAll("button[aria-expanded]").forEach((b) => b.setAttribute("aria-expanded", String(open)));
+      section.firstElementChild.querySelectorAll("button[aria-expanded]").forEach((b) => b.setAttribute("aria-expanded", String(open)));
       [...section.children].slice(1).forEach((child) => { child.hidden = !open; });
     }
   });
@@ -201,5 +357,6 @@
     }
   });
   syncStars();
-  if (document.body.dataset.snapshotView) collection(document.body.dataset.snapshotView);
+  if (document.body.dataset.snapshotView === "search") searchCollection();
+  else if (document.body.dataset.snapshotView) collection(document.body.dataset.snapshotView);
 })();
