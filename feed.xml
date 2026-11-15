@@ -75,10 +75,10 @@
   <description>《堡垒之夜》第7章 Treasure Hunters 赛季于11月1日开启，玩家可在骷髅形状的新岛屿上与《海贼王》草帽一伙相遇，使用海贼王能力并搜寻隐藏宝藏。</description>
 </item>
 <item>
-  <title>Steam 成就集合与全新成就页面现已向所有用户推出</title><link>https://qwerwanghao.github.io/gamehot-pages/#item-atkuewdj2smz912e8a94d24b7</link>
+  <title>Steam 成就集功能向全体用户开放</title><link>https://qwerwanghao.github.io/gamehot-pages/#item-atkuewdj2smz912e8a94d24b7</link>
   <guid isPermaLink="false">GAMEHOT:atkuewdj2smz912e8a94d24b7</guid>
   <pubDate>Wed, 11 Nov 2026 21:58:18 GMT</pubDate>
-  <description>Steam 官方宣布，成就集合功能及改进后的成就页面已面向所有用户推出。成就集合提供各集合独立的进度条与奖杯，游戏新增成就或 DLC 成就不会破坏此前的全成就状态；成就页面整合了整体进度、全局统计、扩展搜索筛选，并支持与最多三名好友比较进度，弃用成就可以归档且已获得者可保留。</description>
+  <description>Steam 官方宣布成就集功能和全新成就页面向所有 Steam 用户开放。成就按组划分并各有进度条与奖杯，游戏新增成就或 DLC 成就不会破坏既有完成度；DLC 成就单独统计，开发者还可归档不可再获得的成就。成就页整合全局进度、Global Stats、搜索筛选，玩家最多可与三位好友对比成就进度。</description>
 </item>
 <item>
   <title>Steam 客户端稳定通道更新推出：新增成就集合与远程畅玩 HDR 改进</title><link>https://qwerwanghao.github.io/gamehot-pages/#item-cfhl0npddehg66klmer69at5u</link>
@@ -123,9 +123,9 @@
   <description>Bungie 宣布 Marathon 下一个更新 Symbiosis 将于12月8日上线，包含第一阶段常驻 PvE 模式 Expedition、新 Bishop shell、更新后的 Perimeter 地图等新内容。</description>
 </item>
 <item>
-  <title>Steam 商店上线 Steam Deck 游戏平均帧率数据</title><link>https://qwerwanghao.github.io/gamehot-pages/#item-ji3tc0dl32njplwh1ri8tfy45</link>
+  <title>Steam 上线 Steam Deck 游戏平均帧率数据</title><link>https://qwerwanghao.github.io/gamehot-pages/#item-ji3tc0dl32njplwh1ri8tfy45</link>
   <guid isPermaLink="false">GAMEHOT:ji3tc0dl32njplwh1ri8tfy45</guid>
   <pubDate>Tue, 10 Nov 2026 00:38:00 GMT</pubDate>
-  <description>Valve 宣布 Steam Deck 游戏平均帧率数据已在商店和 Steam 客户端向所有人开放，覆盖数千款已做 Deck 兼容性测试的游戏，入口在商店页面的 Deck 兼容性 &gt; 了解更多。数据来自选择加入的玩家，仅统计帧率限制为默认值（OLED 90FPS、LCD 60FPS）的设备，并配有帧率直方图；Valve 称未来计划扩展到 Steam Deck 以外的设备。</description>
+  <description>Steam 推出新功能，玩家现在可以在商店页面和客户端查看游戏在 Steam Deck 上的平均帧率。数据来自选择提供帧率信息的用户，覆盖经过 Deck 兼容性测试（Verified、Playable、Unsupported）的数千款游戏，并提供帧率直方图展示卡顿情况；官方表示这是向更多设备提供帧率数据的第一步。</description>
 </item>
 </channel></rss>
