@@ -75,10 +75,16 @@
   <description>《堡垒之夜》第7章 Treasure Hunters 赛季于11月1日开启，玩家可在骷髅形状的新岛屿上与《海贼王》草帽一伙相遇，使用海贼王能力并搜寻隐藏宝藏。</description>
 </item>
 <item>
-  <title>Steam 成就集功能向全体用户开放</title><link>https://qwerwanghao.github.io/gamehot-pages/#item-atkuewdj2smz912e8a94d24b7</link>
+  <title>Steam 成就集功能与新版成就页面向全部用户推出</title><link>https://qwerwanghao.github.io/gamehot-pages/#item-atkuewdj2smz912e8a94d24b7</link>
   <guid isPermaLink="false">GAMEHOT:atkuewdj2smz912e8a94d24b7</guid>
   <pubDate>Wed, 11 Nov 2026 21:58:18 GMT</pubDate>
-  <description>Steam 官方宣布成就集功能和全新成就页面向所有 Steam 用户开放。成就按组划分并各有进度条与奖杯，游戏新增成就或 DLC 成就不会破坏既有完成度；DLC 成就单独统计，开发者还可归档不可再获得的成就。成就页整合全局进度、Global Stats、搜索筛选，玩家最多可与三位好友对比成就进度。</description>
+  <description>Steam 向全部用户发布包含成就集与新版成就页面的成就更新。成就集支持查看每组进度、将成就关联到 DLC 单独成组，新增成就不影响已完成状态，开发者还可将不可再获取的成就归档或停用。成就页整合全局进度、详情与统计数据，扩展搜索筛选，并可与最多 3 位好友比较成就进度。</description>
+</item>
+<item>
+  <title>Steam 客户端 11 月 11 日更新推出成就套装功能</title><link>https://qwerwanghao.github.io/gamehot-pages/#item-pgj9do15twlpguri3u8bsqwbt</link>
+  <guid isPermaLink="false">GAMEHOT:pgj9do15twlpguri3u8bsqwbt</guid>
+  <pubDate>Wed, 11 Nov 2026 21:58:00 GMT</pubDate>
+  <description>Steam 发布 11 月 11 日客户端更新，新增成就套装功能，可将本体与 DLC 成就分组整理，已完成的套装在新套装加入后保持完成状态。更新还改进了 Steam 启动性能、通知设置和 Big Picture 模式的聊天与游戏邀请展示，并修复云端同步误报冲突、内存泄漏等多项问题。</description>
 </item>
 <item>
   <title>Steam 客户端稳定通道更新推出：新增成就集合与远程畅玩 HDR 改进</title><link>https://qwerwanghao.github.io/gamehot-pages/#item-cfhl0npddehg66klmer69at5u</link>
@@ -123,9 +129,9 @@
   <description>Bungie 宣布 Marathon 下一个更新 Symbiosis 将于12月8日上线，包含第一阶段常驻 PvE 模式 Expedition、新 Bishop shell、更新后的 Perimeter 地图等新内容。</description>
 </item>
 <item>
-  <title>Steam 上线 Steam Deck 游戏平均帧率数据</title><link>https://qwerwanghao.github.io/gamehot-pages/#item-ji3tc0dl32njplwh1ri8tfy45</link>
+  <title>Steam 新增 Steam Deck 游戏平均帧率数据展示</title><link>https://qwerwanghao.github.io/gamehot-pages/#item-ji3tc0dl32njplwh1ri8tfy45</link>
   <guid isPermaLink="false">GAMEHOT:ji3tc0dl32njplwh1ri8tfy45</guid>
   <pubDate>Tue, 10 Nov 2026 00:38:00 GMT</pubDate>
-  <description>Steam 推出新功能，玩家现在可以在商店页面和客户端查看游戏在 Steam Deck 上的平均帧率。数据来自选择提供帧率信息的用户，覆盖经过 Deck 兼容性测试（Verified、Playable、Unsupported）的数千款游戏，并提供帧率直方图展示卡顿情况；官方表示这是向更多设备提供帧率数据的第一步。</description>
+  <description>Steam 于 11 月 11 日更新上线 Steam Deck 游戏平均帧率数据，覆盖数千款已做兼容性评级（已验证、可玩、不支持）的游戏，可在商店页 Steam Deck 兼容性详情和 Steam 客户端测试版库中查看。数据来自同意匿名提供帧率信息的玩家，并附帧率直方图展示卡顿频率；仅统计默认帧率上限（OLED 90fps、LCD 60fps）的数据，官方表示这是向更多设备提供帧率数据的第一步。</description>
 </item>
 </channel></rss>
