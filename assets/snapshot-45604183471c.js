@@ -221,7 +221,7 @@
     const overlay = node("div", "snapshot-modal");
     const panel = node("div", "snapshot-modal-panel");
     panel.setAttribute("role", "dialog"); panel.setAttribute("aria-modal", "true");
-    const title = node("h2", "snapshot-modal-title", kind === "search" ? "搜索资讯" : kind === "filter" ? "选择分类" : kind === "participants" ? "参与报道的来源" : "热度怎么算");
+    const title = node("h2", "snapshot-modal-title", kind === "search" ? "搜索资讯" : kind === "filter" ? "选择分类" : kind === "participants" ? "参与报道的来源" : kind === "outline" ? detail : "热度怎么算");
     const close = node("button", "snapshot-modal-close", "关闭"); close.type = "button";
     const top = node("div", "snapshot-modal-top"); top.append(title, close); panel.append(top);
     if (kind === "search") {
@@ -229,6 +229,22 @@
       const input = node("input", "snapshot-search-input"); input.type = "search"; input.name = "q"; input.placeholder = "搜索标题、摘要或来源"; input.setAttribute("aria-label", "搜索标题和摘要");
       const submit = node("button", "snapshot-submit", "搜索"); submit.type = "submit";
       form.append(input, submit); panel.append(form); setTimeout(() => input.focus(), 0);
+    } else if (kind === "outline") {
+      overlay.classList.add("snapshot-outline-sheet");
+      const list = node("ol", "snapshot-outline-list");
+      const reportStart = document.querySelector("main #report-start");
+      const headings = reportStart ? [reportStart, ...document.querySelectorAll('main section[id^="s-"]')] : [...document.querySelectorAll("main h2[id], main h3[id]")];
+      for (const element of headings) {
+        const id = element.id;
+        const text = element === reportStart ? "头版" : (element.matches("section") ? element.querySelector("h2, h3")?.textContent : element.textContent)?.trim();
+        if (!id || !text) continue;
+        const row = node("li");
+        const link = node("a", "snapshot-outline-link", text);
+        link.href = `#${encodeURIComponent(id)}`;
+        link.addEventListener("click", () => overlay.remove());
+        row.append(link); list.append(row);
+      }
+      if (list.children.length) panel.append(list); else panel.append(node("p", "snapshot-caption", "暂无目录。"));
     } else if (kind === "filter") {
       const group = node("div", "snapshot-filter-list");
       const isSearch = document.body.dataset.snapshotView === "search";
@@ -331,6 +347,7 @@
       return;
     }
     if (label === "搜索") { modal("search"); return; }
+    if (label === "本期目录" || label === "目录") { modal("outline", label); return; }
     if (label === "筛选") { modal("filter"); return; }
     if (label === "怎么算") { modal("heat"); return; }
     if (/位参与者，查看名单/.test(label)) { event.preventDefault(); event.stopPropagation(); modal("participants", button.title); return; }

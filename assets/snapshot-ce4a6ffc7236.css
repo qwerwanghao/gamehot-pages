@@ -32,5 +32,9 @@
 .snapshot-group-source { width: 108px; flex: none; overflow: hidden; color: var(--ink-4); text-overflow: ellipsis; white-space: nowrap; }
 .snapshot-group-title { min-width: 0; overflow: hidden; color: var(--ink-2); text-overflow: ellipsis; white-space: nowrap; }
 .snapshot-group-title:hover { color: var(--accent); }
+.snapshot-outline-list { max-height: 65vh; overflow-y: auto; margin-top: 12px; }
+.snapshot-outline-link { display: flex; min-height: 48px; align-items: center; padding: 8px; border-radius: 8px; color: var(--ink-2); text-decoration: none; }
+.snapshot-outline-link:hover { background: var(--bg-sunk); color: var(--accent); }
+@media (max-width: 699px) { .snapshot-outline-sheet { align-items: end; padding: 0; } .snapshot-outline-sheet .snapshot-modal-panel { width: 100%; border-radius: 18px 18px 0 0; padding-bottom: calc(20px + env(safe-area-inset-bottom)); } }
 @media (max-width: 699px) { .snapshot-page { padding-top: 20px; } .snapshot-result-card { padding: 14px 0; border-width: 0 0 1px; border-radius: 0; background: transparent; } }
 @media (max-width: 1023px) { .snapshot-mobile-search { display: block; margin: 12px 0; } }
