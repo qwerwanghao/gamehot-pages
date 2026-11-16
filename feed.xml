@@ -163,25 +163,14 @@
       <author>noreply@localhost (Nintendo What&apos;s New)</author>
     </item>
     <item>
-      <title><![CDATA[Steam 成就集功能与新版成就页面向全部用户推出]]></title>
+      <title><![CDATA[Steam 成就套装与新成就页面向所有用户开放]]></title>
       <link>https://qwerwanghao.github.io/gamehot-pages/items/atkuewdj2smz912e8a94d24b7</link>
-      <description><![CDATA[<p>Steam 向全部用户发布包含成就集与新版成就页面的成就更新。成就集支持查看每组进度、将成就关联到 DLC 单独成组，新增成就不影响已完成状态，开发者还可将不可再获取的成就归档或停用。成就页整合全局进度、详情与统计数据，扩展搜索筛选，并可与最多 3 位好友比较成就进度。</p>
+      <description><![CDATA[<p>Steam 官方宣布成就更新（包括成就套装和重新设计的新成就页面）现已向所有用户开放。成就套装为每个成就组提供独立进度条和奖杯，新增成就不会取消已完成的成就或游戏完成状态；成就可以关联到 DLC 并有独立于本体的进度；开发者可归档或移除不再可用的成就，同时保留已获得玩家的进度。新成就页面整合游戏总进度、各套装进度、全局统计以及改进的搜索与筛选，玩家还可与最多三名好友比较成就进度。</p>
 <p>🔗 <a href="https://steamcommunity.com/games/593110/announcements/detail/685269908095762672">阅读原文</a></p>
 <p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/atkuewdj2smz912e8a94d24b7">https://qwerwanghao.github.io/gamehot-pages/items/atkuewdj2smz912e8a94d24b7</a></p>]]></description>
-      <category>更新与 DLC</category>
+      <category>平台与优惠</category>
       <pubDate>Wed, 11 Nov 2026 21:58:18 GMT</pubDate>
       <guid isPermaLink="false">atkuewdj2smz912e8a94d24b7</guid>
-      <author>noreply@localhost (Steam 官方公告)</author>
-    </item>
-    <item>
-      <title><![CDATA[Steam 客户端 11 月 11 日更新推出成就套装功能]]></title>
-      <link>https://qwerwanghao.github.io/gamehot-pages/items/pgj9do15twlpguri3u8bsqwbt</link>
-      <description><![CDATA[<p>Steam 发布 11 月 11 日客户端更新，新增成就套装功能，可将本体与 DLC 成就分组整理，已完成的套装在新套装加入后保持完成状态。更新还改进了 Steam 启动性能、通知设置和 Big Picture 模式的聊天与游戏邀请展示，并修复云端同步误报冲突、内存泄漏等多项问题。</p>
-<p>🔗 <a href="https://steamcommunity.com/games/593110/announcements/detail/678515036155543748">阅读原文</a></p>
-<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/pgj9do15twlpguri3u8bsqwbt">https://qwerwanghao.github.io/gamehot-pages/items/pgj9do15twlpguri3u8bsqwbt</a></p>]]></description>
-      <category>更新与 DLC</category>
-      <pubDate>Wed, 11 Nov 2026 21:58:00 GMT</pubDate>
-      <guid isPermaLink="false">pgj9do15twlpguri3u8bsqwbt</guid>
       <author>noreply@localhost (Steam 官方公告)</author>
     </item>
     <item>
@@ -251,9 +240,9 @@
       <author>noreply@localhost (Bungie News)</author>
     </item>
     <item>
-      <title><![CDATA[Steam 新增 Steam Deck 游戏平均帧率数据展示]]></title>
+      <title><![CDATA[Steam 商店和客户端上线 Steam Deck 游戏平均帧率数据]]></title>
       <link>https://qwerwanghao.github.io/gamehot-pages/items/ji3tc0dl32njplwh1ri8tfy45</link>
-      <description><![CDATA[<p>Steam 于 11 月 11 日更新上线 Steam Deck 游戏平均帧率数据，覆盖数千款已做兼容性评级（已验证、可玩、不支持）的游戏，可在商店页 Steam Deck 兼容性详情和 Steam 客户端测试版库中查看。数据来自同意匿名提供帧率信息的玩家，并附帧率直方图展示卡顿频率；仅统计默认帧率上限（OLED 90fps、LCD 60fps）的数据，官方表示这是向更多设备提供帧率数据的第一步。</p>
+      <description><![CDATA[<p>Steam 更新后在商店和客户端中展示游戏在 Steam Deck 上的平均帧率，数据来自自愿提供帧率信息的用户，覆盖已通过兼容性测试的游戏，发布时有数千款游戏具备该数据。游戏商店页在 Steam Deck 兼容性信息窗口提供详情，还新增可展开的帧率直方图，按百分比展示各帧率样本分布及卡顿情况；目前可在 Steam 客户端测试版中查看。</p>
 <p>🔗 <a href="https://steamcommunity.com/games/593110/announcements/detail/685269801333948420">阅读原文</a></p>
 <p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/ji3tc0dl32njplwh1ri8tfy45">https://qwerwanghao.github.io/gamehot-pages/items/ji3tc0dl32njplwh1ri8tfy45</a></p>]]></description>
       <category>平台与优惠</category>
@@ -359,17 +348,6 @@
       <pubDate>Tue, 27 Oct 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="false">xtbhg5ilhnnddod00p1om5lht</guid>
       <author>noreply@localhost (Nintendo What&apos;s New)</author>
-    </item>
-    <item>
-      <title><![CDATA[Steam 个人日历结束实验阶段成为商店正式功能]]></title>
-      <link>https://qwerwanghao.github.io/gamehot-pages/items/jbl1jyxxb754wq6v7ga4xpsyd</link>
-      <description><![CDATA[<p>Steam 更新后，个人日历功能从 Steam Lab 转正，可在商店主页或 store.steampowered.com/personalcalendar 查看。</p>
-<p>🔗 <a href="https://steamcommunity.com/games/593110/announcements/detail/710037059469839719">阅读原文</a></p>
-<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/jbl1jyxxb754wq6v7ga4xpsyd">https://qwerwanghao.github.io/gamehot-pages/items/jbl1jyxxb754wq6v7ga4xpsyd</a></p>]]></description>
-      <category>更新与 DLC</category>
-      <pubDate>Fri, 23 Oct 2026 20:10:32 GMT</pubDate>
-      <guid isPermaLink="false">jbl1jyxxb754wq6v7ga4xpsyd</guid>
-      <author>noreply@localhost (Steam 官方公告)</author>
     </item>
     <item>
       <title><![CDATA[《使命召唤：现代战争4》现已登陆 Nintendo Switch 2]]></title>
