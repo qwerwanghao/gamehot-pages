@@ -185,6 +185,17 @@
       <author>noreply@localhost (IGN)</author>
     </item>
     <item>
+      <title><![CDATA[Discord 新 Rust 客户端将为 Linux 带来 overlay 等此前缺失的功能]]></title>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/bzlkococgqcuorxc7wlsi5f7n</link>
+      <description><![CDATA[<p>Discord 正用 Rust 重写客户端以取代 Electron，CTO Stanislav Vishnevskiy 表示新架构可带来更多跨平台功能对齐，Linux 将获得 overlay 等此前仅 Windows 可用的功能，macOS 也将获得。新客户端启动更快、占用内存更少，移动端保留原生 UI 并通过 Rust 与桌面共享应用代码，官方称希望尽快开放用户测试。</p>
+<p>🔗 <a href="https://www.gamingonlinux.com/2026/11/discords-upcoming-new-rust-client-will-bring-some-missing-features-to-linux/">阅读原文</a></p>
+<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/bzlkococgqcuorxc7wlsi5f7n">https://qwerwanghao.github.io/gamehot-pages/items/bzlkococgqcuorxc7wlsi5f7n</a></p>]]></description>
+      <category>行业动态</category>
+      <pubDate>Mon, 16 Nov 2026 14:57:41 GMT</pubDate>
+      <guid isPermaLink="false">bzlkococgqcuorxc7wlsi5f7n</guid>
+      <author>noreply@localhost (GamingOnLinux)</author>
+    </item>
+    <item>
       <title><![CDATA[《潜渊症潜水员》×《Core Keeper》11月30日推出免费双向联动更新]]></title>
       <link>https://qwerwanghao.github.io/gamehot-pages/items/jkifc3uk1sf5chhlzuqdhylek</link>
       <description><![CDATA[<p>MINTROCKET、Pugstorm 和 Fireshine Games 公布《DAVE THE DIVER》与《Core Keeper》的双向联动更新，11月30日上线且免费。DAVE THE DIVER 侧为 Core Keeper 风格战斗小游戏，可获香辣鱼饵护符和收藏手办；Core Keeper 侧加入商人 Cobra、宠物、寿司店家具和潜水枪等内容，更新游戏即可解锁，激活后永久保留。</p>
@@ -546,17 +557,6 @@
       <pubDate>Mon, 16 Nov 2026 11:17:18 GMT</pubDate>
       <guid isPermaLink="false">ix4i2dmfc2yo9j34dqsuqo7r6</guid>
       <author>noreply@localhost (Video Games Chronicle)</author>
-    </item>
-    <item>
-      <title><![CDATA[GTA 6 解锁时间指南：11月19日零点全球上线，Xbox One 需依赖云游戏]]></title>
-      <link>https://qwerwanghao.github.io/gamehot-pages/items/xp05bfsxav7q4y7n0uov05p50</link>
-      <description><![CDATA[<p>GTA 6 将于11月19日在 Xbox Series X、Xbox Series S 和 PS5 发售，全球各地于当地零时解锁。作者整理了按 UTC 换算的各时区解锁时间，提醒换区到新西兰可提前游玩但违反 Xbox 服务条款。</p>
-<p>🔗 <a href="https://www.purexbox.com/guides/gta-6-release-times-all-the-key-details-xbox-players-need-to-know">阅读原文</a></p>
-<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/xp05bfsxav7q4y7n0uov05p50">https://qwerwanghao.github.io/gamehot-pages/items/xp05bfsxav7q4y7n0uov05p50</a></p>]]></description>
-      <category>攻略</category>
-      <pubDate>Mon, 16 Nov 2026 11:00:00 GMT</pubDate>
-      <guid isPermaLink="false">xp05bfsxav7q4y7n0uov05p50</guid>
-      <author>noreply@localhost (Pure Xbox)</author>
     </item>
   </channel>
 </rss>
