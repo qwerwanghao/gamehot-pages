@@ -9,6 +9,28 @@
     <ttl>30</ttl>
     <generator>GAMEHOT (https://qwerwanghao.github.io/gamehot-pages/agent)</generator>
     <item>
+      <title><![CDATA[Xbox 黑五促销11月19日开启，超2000款游戏最高80%折扣]]></title>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/d1hd1rxe5gia1wjen6uhoqwxs</link>
+      <description><![CDATA[<p>Xbox 官方宣布黑五促销于11月19日9 PM PST开启，持续至12月2日，涵盖超过2000款Xbox和PC游戏及部分配件，最高80%折扣。11月23日起追加新优惠，Design Lab 手柄85折并免费刻字，三星电视捆绑活动附赠 Nano 手柄和新用户两个月 Game Pass Ultimate。折扣仅限美国区，各地区优惠以当地商店为准。</p>
+<p>🔗 <a href="https://news.xbox.com/en-us/2026/11/16/xbox-black-friday-sale-2026/">阅读原文</a></p>
+<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/d1hd1rxe5gia1wjen6uhoqwxs">https://qwerwanghao.github.io/gamehot-pages/items/d1hd1rxe5gia1wjen6uhoqwxs</a></p>]]></description>
+      <category>平台与优惠</category>
+      <pubDate>Mon, 16 Nov 2026 23:57:43 GMT</pubDate>
+      <guid isPermaLink="false">d1hd1rxe5gia1wjen6uhoqwxs</guid>
+      <author>noreply@localhost (Xbox Wire)</author>
+    </item>
+    <item>
+      <title><![CDATA[AMD 提交 Linux 内核补丁为 Zen 6 异构 CPU 引入容量感知调度]]></title>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/jdogr1s1x2tx36q9sxkapm5hu</link>
+      <description><![CDATA[<p>AMD 向 Linux 内核提交补丁系列，为异构 CPU 加入容量感知调度（CAS），让调度器识别每个核心的性能差异并合理分配任务。补丁 1 通过 amd-pstate 导出各核心非对称容量，默认在支持的硬件上启用，可用 amd_cas=disable 参数关闭；补丁 2 让 amd-hfi 在 CAS 生效时退让。</p>
+<p>🔗 <a href="https://www.techpowerup.com/354915/linux-kernel-gets-amd-capacity-aware-scheduling-for-zen-6-heterogeneous-cpu-architectures">阅读原文</a></p>
+<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/jdogr1s1x2tx36q9sxkapm5hu">https://qwerwanghao.github.io/gamehot-pages/items/jdogr1s1x2tx36q9sxkapm5hu</a></p>]]></description>
+      <category>行业动态</category>
+      <pubDate>Mon, 16 Nov 2026 23:41:59 GMT</pubDate>
+      <guid isPermaLink="false">jdogr1s1x2tx36q9sxkapm5hu</guid>
+      <author>noreply@localhost (TechPowerUp News)</author>
+    </item>
+    <item>
       <title><![CDATA[2022年泄露GTA VI的Lapsus$黑客Arion Kurtaj认罪，将于11月23日量刑]]></title>
       <link>https://qwerwanghao.github.io/gamehot-pages/items/zgfyo7wg25zluvmofb9a9e8ui</link>
       <description><![CDATA[<p>Lapsus$成员Arion Kurtaj于周一认罪，他曾在2022年泄露90段GTA VI视频，并入侵Rockstar Games、Uber、Revolut等公司。CPS称其2021年入侵BT/EE，2022年保释期间用酒店电视Wi-Fi和Firestick继续作案，2023年12月因自闭症被判送入安全医院，今年1月被认为适合受审后转入监狱，量刑定于11月23日。</p>
@@ -18,6 +40,17 @@
       <pubDate>Mon, 16 Nov 2026 23:35:58 GMT</pubDate>
       <guid isPermaLink="false">zgfyo7wg25zluvmofb9a9e8ui</guid>
       <author>noreply@localhost (The Verge 游戏)</author>
+    </item>
+    <item>
+      <title><![CDATA[《High Roller Penny》公布 2027 年 1 月 12 日发售，登陆 PC Steam]]></title>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/rfmopesvvu1pmw0lexdlbr4hc</link>
+      <description><![CDATA[<p>Kniv Studio 宣布，柏青哥风格的 roguelike 游戏《High Roller Penny》将于 2027 年 1 月 12 日通过 Steam 登陆 PC。游戏中玩家投球撞击弹珠台得分、完成配额以生存，可购买强力钉子与球构建组合，并与各具技巧的对手赌博。游戏支持英语、日语、韩语和简体中文。</p>
+<p>🔗 <a href="https://www.gematsu.com/2026/11/high-roller-penny-launches-january-12-2027">阅读原文</a></p>
+<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/rfmopesvvu1pmw0lexdlbr4hc">https://qwerwanghao.github.io/gamehot-pages/items/rfmopesvvu1pmw0lexdlbr4hc</a></p>]]></description>
+      <category>新作与发售</category>
+      <pubDate>Mon, 16 Nov 2026 23:27:21 GMT</pubDate>
+      <guid isPermaLink="false">rfmopesvvu1pmw0lexdlbr4hc</guid>
+      <author>noreply@localhost (Gematsu)</author>
     </item>
     <item>
       <title><![CDATA[GTA 6 公布新截图与 The Weather Channel 联动预报 展示 Leonida 动态天气系统]]></title>
@@ -524,39 +557,6 @@
       <pubDate>Mon, 16 Nov 2026 16:45:23 GMT</pubDate>
       <guid isPermaLink="false">sc6oy83x3be8sb10en25vi9b7</guid>
       <author>noreply@localhost (Video Games Chronicle)</author>
-    </item>
-    <item>
-      <title><![CDATA[NBA 2K27 第三赛季 11 月 27 日上线，联动 GTA 6 推出 Vice City 主题内容]]></title>
-      <link>https://qwerwanghao.github.io/gamehot-pages/items/wofv815b1rc76i04j4rcnr344</link>
-      <description><![CDATA[<p>NBA 2K27 第三赛季更新将于 11 月 27 日上线，整个赛季围绕 Rockstar Games 的 GTA 6 联动展开。更新加入 Vice City 主题公园区域、GTA 主题奖励通行证外观，以及与 Rockstar 合作的 Miami Heat 球衣；11 月 18 日 Miami Heat 将以 Vice City Heat 名义进行一场常规赛。</p>
-<p>🔗 <a href="https://www.ign.com/articles/nba-2k27-is-adding-vice-city-gta-6-themed-cosmetics-and-much-more-as-part-of-massive-rockstar-games-collaboration">阅读原文</a></p>
-<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/wofv815b1rc76i04j4rcnr344">https://qwerwanghao.github.io/gamehot-pages/items/wofv815b1rc76i04j4rcnr344</a></p>]]></description>
-      <category>更新与 DLC</category>
-      <pubDate>Mon, 16 Nov 2026 16:45:15 GMT</pubDate>
-      <guid isPermaLink="false">wofv815b1rc76i04j4rcnr344</guid>
-      <author>noreply@localhost (IGN)</author>
-    </item>
-    <item>
-      <title><![CDATA[GTA 6 发售前夕：顶级内容创作者如何备战首发]]></title>
-      <link>https://qwerwanghao.github.io/gamehot-pages/items/ijg05lz6foajy0ryrianqxrx1</link>
-      <description><![CDATA[<p>IGN 采访多位头部主播与 YouTuber，报道 GTA 6 发售前内容创作者的备战情况。Rockstar 未提前向任何创作者提供完整游戏，连曾受邀到 Rockstar North 提前看游戏的 TGG（232 万订阅）也没拿到，所有创作者将同步盲玩。</p>
-<p>🔗 <a href="https://www.ign.com/articles/this-is-akin-to-a-moon-landing-how-gamings-top-content-creators-are-preparing-for-gta-6s-launch-and-beyond">阅读原文</a></p>
-<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/ijg05lz6foajy0ryrianqxrx1">https://qwerwanghao.github.io/gamehot-pages/items/ijg05lz6foajy0ryrianqxrx1</a></p>]]></description>
-      <category>评测</category>
-      <pubDate>Mon, 16 Nov 2026 16:44:23 GMT</pubDate>
-      <guid isPermaLink="false">ijg05lz6foajy0ryrianqxrx1</guid>
-      <author>noreply@localhost (IGN)</author>
-    </item>
-    <item>
-      <title><![CDATA[GTA+ 订阅限时加入 NBA 2K27，GTA 6 预购附赠一个月会员]]></title>
-      <link>https://qwerwanghao.github.io/gamehot-pages/items/b2wz2gwgbhnmvacfp5r2x1jyn</link>
-      <description><![CDATA[<p>Rockstar 的 GTA+ 订阅将在 2026 年 11 月 27 日至 2027 年 1 月 15 日期间加入 NBA 2K27 标准版完整可玩版本。所有 GTA 6 预购均附赠一个月 GTA+ 会员码，可留到该时段兑换；注意试用期结束后会自动续订，需手动关闭自动续费。</p>
-<p>🔗 <a href="https://www.pushsquare.com/news/2026/11/gta-6-subscription-will-include-nba-2k27-for-free-on-ps5">阅读原文</a></p>
-<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/b2wz2gwgbhnmvacfp5r2x1jyn">https://qwerwanghao.github.io/gamehot-pages/items/b2wz2gwgbhnmvacfp5r2x1jyn</a></p>]]></description>
-      <category>平台与优惠</category>
-      <pubDate>Mon, 16 Nov 2026 16:30:00 GMT</pubDate>
-      <guid isPermaLink="false">b2wz2gwgbhnmvacfp5r2x1jyn</guid>
-      <author>noreply@localhost (Push Square)</author>
     </item>
   </channel>
 </rss>
