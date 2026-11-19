@@ -9,9 +9,64 @@
     <ttl>30</ttl>
     <generator>GAMEHOT (https://qwerwanghao.github.io/gamehot-pages/agent)</generator>
     <item>
-      <title><![CDATA[EGS 限免：《Contractor: The Clean Up Part II》换区限时领取]]></title>
+      <title><![CDATA[Steam客户端Beta 11月18日更新优化启动性能，可能破坏部分UI模组]]></title>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/udx8amqerfsq5txj29m4gob5y</link>
+      <description><![CDATA[<p>Valve发布Steam客户端Beta（11月18日）更新，进一步改进启动性能，使UI更快显示，并包含多项修复。因内部构建工具变更，几乎所有CSS类名发生改变，Valve罕见提示第三方UI模组作者和用户需要更新适配。</p>
+<p>🔗 <a href="https://www.gamingonlinux.com/2026/11/steam-client-beta-november-18-gets-even-more-startup-improvements-may-break-some-ui-mods/">阅读原文</a></p>
+<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/udx8amqerfsq5txj29m4gob5y">https://qwerwanghao.github.io/gamehot-pages/items/udx8amqerfsq5txj29m4gob5y</a></p>]]></description>
+      <category>更新与 DLC</category>
+      <pubDate>Thu, 19 Nov 2026 08:44:43 GMT</pubDate>
+      <guid isPermaLink="false">udx8amqerfsq5txj29m4gob5y</guid>
+      <author>noreply@localhost (GamingOnLinux)</author>
+    </item>
+    <item>
+      <title><![CDATA[Humble Bundle 推出 Cover Operations 与 Better With Friends 两个新游戏捆绑包]]></title>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/neo6w0j74g3g9xftx2qp22ga5</link>
+      <description><![CDATA[<p>Humble Bundle 上线两个新捆绑包：Cover Operations: Stealth Bundle 主打潜行动作，分三档，Tier 1 为 £7.59 / $10.00。</p>
+<p>🔗 <a href="https://www.gamingonlinux.com/2026/11/get-some-co-op-games-and-stealth-action-in-two-new-humble-bundles/">阅读原文</a></p>
+<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/neo6w0j74g3g9xftx2qp22ga5">https://qwerwanghao.github.io/gamehot-pages/items/neo6w0j74g3g9xftx2qp22ga5</a></p>]]></description>
+      <category>平台与硬件</category>
+      <pubDate>Thu, 19 Nov 2026 08:18:57 GMT</pubDate>
+      <guid isPermaLink="false">neo6w0j74g3g9xftx2qp22ga5</guid>
+      <author>noreply@localhost (GamingOnLinux)</author>
+    </item>
+    <item>
+      <title><![CDATA[《GTA6》序章露西亞回憶有分歧路線演出，可甩開通緝但會被染色球暗算]]></title>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/v0bbzbo6f28g6t0yv83gkjajl</link>
+      <description><![CDATA[<p>Rockstar Games《GTA6》序章以露西亞入獄回憶敘事，设计了三种不同演出结果，由玩家行为决定，并教学抢劫流程与警方通緝系统。玩家可翻墙甩开首波追緝进入逃跑演出，但返回现场时处于「二星通緝」，包内染色球数十秒后自动引爆，导致露西亞被发现、踉跄并遭大量警察围捕。无论结果如何最终都会衔接主线，被捕前可用「从检查点重试」反复尝试。</p>
+<p>🔗 <a href="https://www.4gamers.com.tw/news/detail/83407/grand-theft-auto-vi-opening-robbery-branches">阅读原文</a></p>
+<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/v0bbzbo6f28g6t0yv83gkjajl">https://qwerwanghao.github.io/gamehot-pages/items/v0bbzbo6f28g6t0yv83gkjajl</a></p>]]></description>
+      <category>评测与分析</category>
+      <pubDate>Thu, 19 Nov 2026 08:09:49 GMT</pubDate>
+      <guid isPermaLink="false">v0bbzbo6f28g6t0yv83gkjajl</guid>
+      <author>noreply@localhost (4Gamers)</author>
+    </item>
+    <item>
+      <title><![CDATA[Mesa 26.3.1 发布，为 AMD、Intel 等 Linux 图形驱动修复大量 bug]]></title>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/h899lmcl0e58eqdr2o21zi5pb</link>
+      <description><![CDATA[<p>Linux 开源图形驱动 Mesa 发布 26.3.1 bug 修复版本，涵盖 AMD 和 Intel 驱动的大量问题。其中 RADV 修复了 VK_EXT_descriptor_heap 扩展导致 FSR 4.1 负载性能下降的问题，还解决了《Dragon&apos;s Dogma 2 Dark Arisen》阴影故障、OpenMW 着色器画面损坏等。</p>
+<p>🔗 <a href="https://www.gamingonlinux.com/2026/11/mesa-26-3-1-released-with-numerous-bug-fixes-for-linux-graphics-drivers/">阅读原文</a></p>
+<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/h899lmcl0e58eqdr2o21zi5pb">https://qwerwanghao.github.io/gamehot-pages/items/h899lmcl0e58eqdr2o21zi5pb</a></p>]]></description>
+      <category>更新与 DLC</category>
+      <pubDate>Thu, 19 Nov 2026 08:07:02 GMT</pubDate>
+      <guid isPermaLink="false">h899lmcl0e58eqdr2o21zi5pb</guid>
+      <author>noreply@localhost (GamingOnLinux)</author>
+    </item>
+    <item>
+      <title><![CDATA[NAND Flash报价单月下跌20%，SSD价格明年有望松动]]></title>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/cmwn84umd5l1gtzc0jls0nbrn</link>
+      <description><![CDATA[<p>据《首尔经济日报》取得的Bank of America市场报告，因消费市场需求下滑与长江存储扩产，消费级SSD所需NAND Flash报价单月下跌20%，采购合约价也降5-10%。报道指出明年SSD价格可能缓步下降，但AI服务器需求旺盛，工业级报价本季预计再涨15-20%；若厂商将TLC产能转向工业用途，消费市场或逐步被QLC SSD占据。DDR内存在HBM需求支撑下价格仍将维持高位。</p>
+<p>🔗 <a href="https://www.4gamers.com.tw/news/detail/83406/ssd-nand-flash-price-drop">阅读原文</a></p>
+<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/cmwn84umd5l1gtzc0jls0nbrn">https://qwerwanghao.github.io/gamehot-pages/items/cmwn84umd5l1gtzc0jls0nbrn</a></p>]]></description>
+      <category>行业动态</category>
+      <pubDate>Thu, 19 Nov 2026 07:49:20 GMT</pubDate>
+      <guid isPermaLink="false">cmwn84umd5l1gtzc0jls0nbrn</guid>
+      <author>noreply@localhost (4Gamers)</author>
+    </item>
+    <item>
+      <title><![CDATA[EGS 限免：Vault Games《Contractor: The Clean Up Part II》需换区至美国限时领取，12 月 2 日截止]]></title>
       <link>https://qwerwanghao.github.io/gamehot-pages/items/ra47hxvl5a0qhhibrzeq8uv57</link>
-      <description><![CDATA[<p>Vault Games 开发的重机具清理模拟游戏《Contractor: The Clean Up Part II》现于 Epic Games Store 限时免费，需换区至美国等地并登录 Epic 账号领取后永久保存。免费期限至 12 月 2 日截止。游戏中玩家驾驶推土机、运输车等重型机具清理拆除现场的瓦砾与建筑废弃物，无时间限制，可按自己节奏作业。</p>
+      <description><![CDATA[<p>Vault Games 开发的重机具清理模拟游戏《Contractor: The Clean Up Part II》正在 Epic Games Store 限时免费，玩家需换区至美国等地并登录 Epic 账号领取，方可永久保存。活动由开发者自行推出，不会出现在商店首页，持续至 12 月 2 日。游戏无时间限制与任务压力，玩家驾驶推土机、运输车等重机具清理拆除现场的废墟。</p>
 <p>🔗 <a href="https://www.4gamers.com.tw/news/detail/83404/contractor-the-clean-up-part-ii-is-free-on-egs-but-need-vpn">阅读原文</a></p>
 <p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/ra47hxvl5a0qhhibrzeq8uv57">https://qwerwanghao.github.io/gamehot-pages/items/ra47hxvl5a0qhhibrzeq8uv57</a></p>]]></description>
       <category>平台与硬件</category>
@@ -502,61 +557,6 @@
       <pubDate>Thu, 19 Nov 2026 01:25:35 GMT</pubDate>
       <guid isPermaLink="false">moxtdz14zukbkiyu5dbnz1rhl</guid>
       <author>noreply@localhost (IGN 中国)</author>
-    </item>
-    <item>
-      <title><![CDATA[《光与影：33号远征队》首席编剧Jennifer Svedberg-Yen已离开Sandfall]]></title>
-      <link>https://qwerwanghao.github.io/gamehot-pages/items/ioqcm9f670e6ok9el00obex2w</link>
-      <description><![CDATA[<p>《光与影：33号远征队》叙事负责人、首席编剧Jennifer Svedberg-Yen已于7月离开Sandfall，转向为游戏行业提供故事咨询，并正设立一项基金推动游戏叙事设计、培养新编剧人才。</p>
-<p>🔗 <a href="https://www.ign.com.cn/clair-obscur-expedition-33/64140/guang-yu-ying-33hao-yuan-zheng-dui-shou-xi-bian-ju-yi-chi-kai-sandfall">阅读原文</a></p>
-<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/ioqcm9f670e6ok9el00obex2w">https://qwerwanghao.github.io/gamehot-pages/items/ioqcm9f670e6ok9el00obex2w</a></p>]]></description>
-      <category>行业动态</category>
-      <pubDate>Thu, 19 Nov 2026 01:15:47 GMT</pubDate>
-      <guid isPermaLink="false">ioqcm9f670e6ok9el00obex2w</guid>
-      <author>noreply@localhost (IGN 中国)</author>
-    </item>
-    <item>
-      <title><![CDATA[HLE 官宣上单 Zeus 合约到期离队，回归 T1 传闻升温]]></title>
-      <link>https://qwerwanghao.github.io/gamehot-pages/items/icpzxmd057ep064p7930o30ox</link>
-      <description><![CDATA[<p>LCK 战队韩华生命电竞（HLE）宣布上单选手 Zeus（崔祐齐）合约正式结束。Zeus 在 2025 年随队拿下 LCK Cup 和 First Stand 冠军，2026 年再夺 MSI 冠军。</p>
-<p>🔗 <a href="https://www.4gamers.com.tw/news/detail/83396/zeus-leaves-hanwha-life-esports-contract-ends">阅读原文</a></p>
-<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/icpzxmd057ep064p7930o30ox">https://qwerwanghao.github.io/gamehot-pages/items/icpzxmd057ep064p7930o30ox</a></p>]]></description>
-      <category>行业动态</category>
-      <pubDate>Thu, 19 Nov 2026 01:12:48 GMT</pubDate>
-      <guid isPermaLink="false">icpzxmd057ep064p7930o30ox</guid>
-      <author>noreply@localhost (4Gamers)</author>
-    </item>
-    <item>
-      <title><![CDATA[Rockstar总裁Sam Houser罕见发表声明庆祝《GTA6》全球发售]]></title>
-      <link>https://qwerwanghao.github.io/gamehot-pages/items/g1h0tjy84jaqqqb3uslzv7ky9</link>
-      <description><![CDATA[<p>随着《GTA6》全球发售，Rockstar总裁兼联合创始人Sam Houser通过分享给IGN评测者的声明罕见发声，庆祝发售并称期待在未来许多年继续与玩家分享这些体验。声明提到《GTA》重返雷奥奈达和现代罪恶都市，强调故事如何收尾由玩家塑造。文中指出Rockstar尚未公布下一版《GTA Online》，而现有《GTA Online》自2013年推出以来已收入约50亿美元。</p>
-<p>🔗 <a href="https://www.ign.com.cn/grand-theft-auto-6/64139/rockstarzong-cai-sam-houserhan-jian-fa-biao-sheng-ming-qing-zhu-gta6-fa-shou">阅读原文</a></p>
-<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/g1h0tjy84jaqqqb3uslzv7ky9">https://qwerwanghao.github.io/gamehot-pages/items/g1h0tjy84jaqqqb3uslzv7ky9</a></p>]]></description>
-      <category>新作与发售</category>
-      <pubDate>Thu, 19 Nov 2026 01:01:28 GMT</pubDate>
-      <guid isPermaLink="false">g1h0tjy84jaqqqb3uslzv7ky9</guid>
-      <author>noreply@localhost (IGN 中国)</author>
-    </item>
-    <item>
-      <title><![CDATA[GTA+ 预购奖励含免费一个月，提醒记得关闭 PS5 自动续订]]></title>
-      <link>https://qwerwanghao.github.io/gamehot-pages/items/j7tyqlo93sombmwc3swbqo2we</link>
-      <description><![CDATA[<p>GTA 6 所有预购都附赠一个月 GTA+，含免费载具、车库和更高售价等游戏内奖励，但免费期结束后会自动续订，按 $7.99/£6.99/€7.99 每月扣费。文章给出了 PS5 关闭自动续订的步骤：在主界面进入 PS Store 的 Subscriptions，选择 GTA+ 并按 Cancel Subscription，取消后仍可完整使用免费月，之后也可重新开通。</p>
-<p>🔗 <a href="https://www.pushsquare.com/news/2026/11/new-gta-6-players-be-careful-when-claiming-your-gtaplus-pre-order-bonus">阅读原文</a></p>
-<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/j7tyqlo93sombmwc3swbqo2we">https://qwerwanghao.github.io/gamehot-pages/items/j7tyqlo93sombmwc3swbqo2we</a></p>]]></description>
-      <category>攻略</category>
-      <pubDate>Thu, 19 Nov 2026 01:00:00 GMT</pubDate>
-      <guid isPermaLink="false">j7tyqlo93sombmwc3swbqo2we</guid>
-      <author>noreply@localhost (Push Square)</author>
-    </item>
-    <item>
-      <title><![CDATA[Rogue动作游戏《恸哭幽光》Steam版延期至12月1日发售，折扣调整为八折]]></title>
-      <link>https://qwerwanghao.github.io/gamehot-pages/items/e3nhkjd430azf4kiufz5bg9si</link>
-      <description><![CDATA[<p>FURYU CORPORATION 宣布 Rogue 动作游戏《恸哭幽光》Steam 版延期至12月1日发售，原因是 V社审核积压超出通常周期，团队已提前约一个月提交审核申请。Switch 2版和 PS5版已发售，团队正修复已确认的问题，Steam 版将包含多项优化与调整，原定九折改为八折，并计划近期公开一篇含正式体验版剧透的全新短篇故事。</p>
-<p>🔗 <a href="https://www.gcores.com/articles/222514">阅读原文</a></p>
-<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/e3nhkjd430azf4kiufz5bg9si">https://qwerwanghao.github.io/gamehot-pages/items/e3nhkjd430azf4kiufz5bg9si</a></p>]]></description>
-      <category>新作与发售</category>
-      <pubDate>Thu, 19 Nov 2026 01:00:00 GMT</pubDate>
-      <guid isPermaLink="false">e3nhkjd430azf4kiufz5bg9si</guid>
-      <author>noreply@localhost (机核)</author>
     </item>
   </channel>
 </rss>
