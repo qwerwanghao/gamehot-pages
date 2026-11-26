@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>GAMEHOT &#x6708;&#x62a5;</title>
+    <link>https://qwerwanghao.github.io/gamehot-pages/monthly/</link>
+    <description>GAMEHOT &#x6bcf;&#x6708; 1 &#x65e5; 10:30&#xff08;&#x5317;&#x4eac;&#x65f6;&#x95f4;&#xff09;&#x53d1;&#x5e03;&#x7684;&#x6708;&#x62a5;&#xff1a;&#x4ece;&#x4e0a;&#x4e2a;&#x6708;&#x6bcf;&#x5929;&#x7684;&#x65e5;&#x62a5;&#x91cc;&#x9009;&#x51fa;&#x7684;&#x5927;&#x4e8b;&#xff0c;&#x6309;&#x680f;&#x76ee;&#x5206;&#x597d;&#xff0c;&#x9644;&#x603b;&#x8ff0;&#xff1b;&#x4fdd;&#x7559;&#x6700;&#x8fd1; 12 &#x671f;&#x3002;</description>
+    <language>zh-CN</language>
+    <atom:link href="https://qwerwanghao.github.io/gamehot-pages/feed/monthly.xml" rel="self" type="application/rss+xml"/>
+    <ttl>360</ttl>
+    <generator>GAMEHOT</generator>
+
+  </channel>
+</rss>

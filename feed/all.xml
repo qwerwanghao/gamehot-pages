@@ -1,562 +1,562 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>GAMEHOT — 全部游戏动态</title>
-    <link>https://qwerwanghao.github.io/gamehot-pages/all</link>
-    <description>最近 7 天公开动态，按真实发布时间倒序；不含未审内容、低相关条目、40 分以下条目和已合并重复条目。</description>
+    <title>GAMEHOT &#x2014; &#x5168;&#x90e8;&#x6e38;&#x620f;&#x52a8;&#x6001;</title>
+    <link>https://qwerwanghao.github.io/gamehot-pages/all/</link>
+    <description>&#x6700;&#x8fd1; 7 &#x5929;&#x516c;&#x5f00;&#x52a8;&#x6001;&#xff0c;&#x6309;&#x771f;&#x5b9e;&#x53d1;&#x5e03;&#x65f6;&#x95f4;&#x5012;&#x5e8f;&#xff1b;&#x4e0d;&#x542b;&#x672a;&#x5ba1;&#x5185;&#x5bb9;&#x3001;&#x4f4e;&#x76f8;&#x5173;&#x6761;&#x76ee;&#x3001;40 &#x5206;&#x4ee5;&#x4e0b;&#x6761;&#x76ee;&#x548c;&#x5df2;&#x5408;&#x5e76;&#x91cd;&#x590d;&#x6761;&#x76ee;&#x3002;</description>
     <language>zh-CN</language>
-    <atom:link href="https://qwerwanghao.github.io/gamehot-pages/feed/all.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://qwerwanghao.github.io/gamehot-pages/feed/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>30</ttl>
-    <generator>GAMEHOT (https://qwerwanghao.github.io/gamehot-pages/agent)</generator>
+    <generator>GAMEHOT</generator>
+    <item>
+      <title><![CDATA[第三方在 Steam 举办「Games Without AI」活动：收录全程未使用 AI 开发的游戏]]></title>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/b60kvy8li2uhq4040hjhqjy6t/</link>
+      <description>&lt;p&gt;&#x7b2c;&#x4e09;&#x65b9;&#x7ec4;&#x7ec7;&#x5728; Steam &#x4e0a;&#x7ebf;&#x300c;Games Without AI&#x300d;&#x6d3b;&#x52a8;&#xff0c;&#x6536;&#x5f55;&#x5f00;&#x53d1;&#x4e2d;&#x5b8c;&#x5168;&#x907f;&#x5f00; AI &#x7684;&#x72ec;&#x7acb;&#x6e38;&#x620f;&#xff0c;&#x65f6;&#x95f4;&#x4e3a; 11 &#x6708; 25 &#x65e5;&#x81f3; 12 &#x6708; 6 &#x65e5;&#x3002;&#x6d3b;&#x52a8;&#x7531; Dev Land Marketing&#x3001;All Ages Of Geek &#x548c; Dark Cocooning &#x4e3b;&#x529e;&#xff0c;&#x81ea;&#x79f0;&#x7b5b;&#x9009;&#x8fc7;&#x7a0b;&#x8981;&#x6c42;&#x5f00;&#x53d1;&#x8005;&#x63d0;&#x4f9b;&#x672a;&#x7528; AI &#x7684;&#x8bc1;&#x660e;&#x5e76;&#x7ecf;&#x793e;&#x533a;&#x6295;&#x7968;&#x3002;&lt;/p&gt;
+&lt;p&gt;&#x1f517; &lt;a href=&quot;https://www.eurogamer.net/games-without-ai-steam-event&quot;&gt;&#x9605;&#x8bfb;&#x539f;&#x6587;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;via GAMEHOT &#xb7; &lt;a href=&quot;https://qwerwanghao.github.io/gamehot-pages/items/b60kvy8li2uhq4040hjhqjy6t/&quot;&gt;https://qwerwanghao.github.io/gamehot-pages/items/b60kvy8li2uhq4040hjhqjy6t/&lt;/a&gt;&lt;/p&gt;</description>
+      <category>&#x5e73;&#x53f0;&#x4e0e;&#x786c;&#x4ef6;</category>
+      <pubDate>Thu, 26 Nov 2026 12:22:30 GMT</pubDate>
+      <guid isPermaLink="false">b60kvy8li2uhq4040hjhqjy6t</guid>
+      <author>noreply@localhost (Eurogamer)</author>
+    </item>
+    <item>
+      <title><![CDATA[传 Ubisoft 全面推行生成式 AI：不用的团队需详细说明理由]]></title>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/jdn77h85624c09ww7nirhxas0/</link>
+      <description>&lt;p&gt;&#x636e; Vertical Slice &#x63f4;&#x5f15;&#x591a;&#x540d; Ubisoft &#x533f;&#x540d;&#x5728;&#x804c;&#x5458;&#x5de5;&#x7684;&#x8bf4;&#x6cd5;&#xff0c;&#x8fd9;&#x5bb6;&#x6cd5;&#x56fd;&#x53d1;&#x884c;&#x5546;&#x73b0;&#x8981;&#x6c42;&#x65b0;&#x9879;&#x76ee;&#x63d0;&#x6848;&#x8bf4;&#x660e;&#x751f;&#x6210;&#x5f0f; AI &#x5982;&#x4f55;&#x8f85;&#x52a9;&#x5f00;&#x53d1;&#xff0c;&#x4e0d;&#x60f3;&#x4f7f;&#x7528; AI &#x7684;&#x56e2;&#x961f;&#x987b;&#x5411;&#x4e0a;&#x5c42;&#x8be6;&#x7ec6;&#x89e3;&#x91ca;&#x7406;&#x7531;&#xff0c;&#x5426;&#x5219;&#x63d0;&#x6848;&#x96be;&#x4ee5;&#x901a;&#x8fc7;&#x3002;Ubisoft &#x5185;&#x90e8;&#x8bbe;&#x6709;&#x540d;&#x4e3a; Motherbrain &#x7684;&#x63a8;&#x8fdb;&#x751f;&#x6210;&#x5f0f; AI &#x4f7f;&#x7528;&#x7684;&#x90e8;&#x95e8;&#xff0c;&#x5b98;&#x65b9;&#x5e76;&#x672a;&#x660e;&#x6587;&#x5f3a;&#x5236;&#xff0c;&#x4f46;&#x90e8;&#x5206;&#x5458;&#x5de5;&#x611f;&#x5230;&#x88ab;&#x300c;&#x903c;&#x5165;&#x89d2;&#x843d;&#x300d;&#xff0c;&#x58eb;&#x6c14;&#x4f4e;&#x8ff7;&#x3002;&lt;/p&gt;
+&lt;p&gt;&#x1f517; &lt;a href=&quot;https://www.eurogamer.net/ubisoft-reportedly-goes-all-in-on-company-wide-generative-ai-use-and-if-developers-dont-want-to-use-it-they-have-to-explain-why-in-detail&quot;&gt;&#x9605;&#x8bfb;&#x539f;&#x6587;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;via GAMEHOT &#xb7; &lt;a href=&quot;https://qwerwanghao.github.io/gamehot-pages/items/jdn77h85624c09ww7nirhxas0/&quot;&gt;https://qwerwanghao.github.io/gamehot-pages/items/jdn77h85624c09ww7nirhxas0/&lt;/a&gt;&lt;/p&gt;</description>
+      <category>&#x884c;&#x4e1a;&#x52a8;&#x6001;</category>
+      <pubDate>Thu, 26 Nov 2026 12:15:40 GMT</pubDate>
+      <guid isPermaLink="false">jdn77h85624c09ww7nirhxas0</guid>
+      <author>noreply@localhost (Eurogamer)</author>
+    </item>
     <item>
       <title><![CDATA[NielsenIQ：GTA 6 英国首发期零售收入环比增长99%至1.42亿英镑]]></title>
-      <link>https://qwerwanghao.github.io/gamehot-pages/items/qnnceeo42kjg532s9blcfie44</link>
-      <description><![CDATA[<p>NielsenIQ数据显示，GTA 6英国三天首发期（11月19日至21日）零售收入环比增长99%至1.42亿英镑，实体盒装软件收入达4300万英镑，环比增409%。</p>
-<p>🔗 <a href="https://www.gamesindustry.biz/nielseniq-gta-6-boosts-uk-games-retail-revenue-by-99-to-142m-during-launch-period">阅读原文</a></p>
-<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/qnnceeo42kjg532s9blcfie44">https://qwerwanghao.github.io/gamehot-pages/items/qnnceeo42kjg532s9blcfie44</a></p>]]></description>
-      <category>行业动态</category>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/qnnceeo42kjg532s9blcfie44/</link>
+      <description>&lt;p&gt;NielsenIQ&#x6570;&#x636e;&#x663e;&#x793a;&#xff0c;GTA 6&#x82f1;&#x56fd;&#x4e09;&#x5929;&#x9996;&#x53d1;&#x671f;&#xff08;11&#x6708;19&#x65e5;&#x81f3;21&#x65e5;&#xff09;&#x96f6;&#x552e;&#x6536;&#x5165;&#x73af;&#x6bd4;&#x589e;&#x957f;99%&#x81f3;1.42&#x4ebf;&#x82f1;&#x9551;&#xff0c;&#x5b9e;&#x4f53;&#x76d2;&#x88c5;&#x8f6f;&#x4ef6;&#x6536;&#x5165;&#x8fbe;4300&#x4e07;&#x82f1;&#x9551;&#xff0c;&#x73af;&#x6bd4;&#x589e;409%&#x3002;&lt;/p&gt;
+&lt;p&gt;&#x1f517; &lt;a href=&quot;https://www.gamesindustry.biz/nielseniq-gta-6-boosts-uk-games-retail-revenue-by-99-to-142m-during-launch-period&quot;&gt;&#x9605;&#x8bfb;&#x539f;&#x6587;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;via GAMEHOT &#xb7; &lt;a href=&quot;https://qwerwanghao.github.io/gamehot-pages/items/qnnceeo42kjg532s9blcfie44/&quot;&gt;https://qwerwanghao.github.io/gamehot-pages/items/qnnceeo42kjg532s9blcfie44/&lt;/a&gt;&lt;/p&gt;</description>
+      <category>&#x884c;&#x4e1a;&#x52a8;&#x6001;</category>
       <pubDate>Thu, 26 Nov 2026 11:55:50 GMT</pubDate>
       <guid isPermaLink="false">qnnceeo42kjg532s9blcfie44</guid>
       <author>noreply@localhost (GamesIndustry.biz)</author>
     </item>
     <item>
       <title><![CDATA[ProtonPlus 0.6.9 更新：兼容层管理工具新增 Lutris、Faugus、Heroic Games 与 Bottles 游戏管理支持]]></title>
-      <link>https://qwerwanghao.github.io/gamehot-pages/items/qv0i7y764pxv6jqgflo94c0gy</link>
-      <description><![CDATA[<p>兼容层管理工具 ProtonPlus 发布 0.6.9 版本，新增对 Lutris、Faugus Launcher、Heroic Games Launcher 和 Bottles 的游戏管理支持，此前已支持 Steam。</p>
-<p>🔗 <a href="https://www.gamingonlinux.com/2026/11/compatibility-tool-manager-protonplus-adds-game-support-to-lutris-faugus-heroic-games-and-bottles/">阅读原文</a></p>
-<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/qv0i7y764pxv6jqgflo94c0gy">https://qwerwanghao.github.io/gamehot-pages/items/qv0i7y764pxv6jqgflo94c0gy</a></p>]]></description>
-      <category>更新与 DLC</category>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/qv0i7y764pxv6jqgflo94c0gy/</link>
+      <description>&lt;p&gt;&#x517c;&#x5bb9;&#x5c42;&#x7ba1;&#x7406;&#x5de5;&#x5177; ProtonPlus &#x53d1;&#x5e03; 0.6.9 &#x7248;&#x672c;&#xff0c;&#x65b0;&#x589e;&#x5bf9; Lutris&#x3001;Faugus Launcher&#x3001;Heroic Games Launcher &#x548c; Bottles &#x7684;&#x6e38;&#x620f;&#x7ba1;&#x7406;&#x652f;&#x6301;&#xff0c;&#x6b64;&#x524d;&#x5df2;&#x652f;&#x6301; Steam&#x3002;&lt;/p&gt;
+&lt;p&gt;&#x1f517; &lt;a href=&quot;https://www.gamingonlinux.com/2026/11/compatibility-tool-manager-protonplus-adds-game-support-to-lutris-faugus-heroic-games-and-bottles/&quot;&gt;&#x9605;&#x8bfb;&#x539f;&#x6587;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;via GAMEHOT &#xb7; &lt;a href=&quot;https://qwerwanghao.github.io/gamehot-pages/items/qv0i7y764pxv6jqgflo94c0gy/&quot;&gt;https://qwerwanghao.github.io/gamehot-pages/items/qv0i7y764pxv6jqgflo94c0gy/&lt;/a&gt;&lt;/p&gt;</description>
+      <category>&#x66f4;&#x65b0;&#x4e0e; DLC</category>
       <pubDate>Thu, 26 Nov 2026 11:48:53 GMT</pubDate>
       <guid isPermaLink="false">qv0i7y764pxv6jqgflo94c0gy</guid>
       <author>noreply@localhost (GamingOnLinux)</author>
     </item>
     <item>
       <title><![CDATA[“PlayStation 之父”久夛良木健称曾“暗中打算”推动微软开发 Xbox]]></title>
-      <link>https://qwerwanghao.github.io/gamehot-pages/items/jopx73ajiy1ynuiw8d8ly5zs0</link>
-      <description><![CDATA[<p>“PlayStation 之父”、前索尼互动娱乐董事长久夛良木健在英国 Middlesbrough 举办的 Game Republic New Horizons 活动上接受 The Game Business 采访时称，当年他拒绝微软免费硬盘与授权提议，是“暗中打算”促使微软进入游戏市场推出 Xbox。</p>
-<p>🔗 <a href="https://www.videogameschronicle.com/news/playstation-father-ken-kutaragi-claims-he-secretly-intended-to-convince-microsoft-to-make-xbox/">阅读原文</a></p>
-<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/jopx73ajiy1ynuiw8d8ly5zs0">https://qwerwanghao.github.io/gamehot-pages/items/jopx73ajiy1ynuiw8d8ly5zs0</a></p>]]></description>
-      <category>行业动态</category>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/jopx73ajiy1ynuiw8d8ly5zs0/</link>
+      <description>&lt;p&gt;&#x201c;PlayStation &#x4e4b;&#x7236;&#x201d;&#x3001;&#x524d;&#x7d22;&#x5c3c;&#x4e92;&#x52a8;&#x5a31;&#x4e50;&#x8463;&#x4e8b;&#x957f;&#x4e45;&#x591b;&#x826f;&#x6728;&#x5065;&#x5728;&#x82f1;&#x56fd; Middlesbrough &#x4e3e;&#x529e;&#x7684; Game Republic New Horizons &#x6d3b;&#x52a8;&#x4e0a;&#x63a5;&#x53d7; The Game Business &#x91c7;&#x8bbf;&#x65f6;&#x79f0;&#xff0c;&#x5f53;&#x5e74;&#x4ed6;&#x62d2;&#x7edd;&#x5fae;&#x8f6f;&#x514d;&#x8d39;&#x786c;&#x76d8;&#x4e0e;&#x6388;&#x6743;&#x63d0;&#x8bae;&#xff0c;&#x662f;&#x201c;&#x6697;&#x4e2d;&#x6253;&#x7b97;&#x201d;&#x4fc3;&#x4f7f;&#x5fae;&#x8f6f;&#x8fdb;&#x5165;&#x6e38;&#x620f;&#x5e02;&#x573a;&#x63a8;&#x51fa; Xbox&#x3002;&lt;/p&gt;
+&lt;p&gt;&#x1f517; &lt;a href=&quot;https://www.videogameschronicle.com/news/playstation-father-ken-kutaragi-claims-he-secretly-intended-to-convince-microsoft-to-make-xbox/&quot;&gt;&#x9605;&#x8bfb;&#x539f;&#x6587;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;via GAMEHOT &#xb7; &lt;a href=&quot;https://qwerwanghao.github.io/gamehot-pages/items/jopx73ajiy1ynuiw8d8ly5zs0/&quot;&gt;https://qwerwanghao.github.io/gamehot-pages/items/jopx73ajiy1ynuiw8d8ly5zs0/&lt;/a&gt;&lt;/p&gt;</description>
+      <category>&#x884c;&#x4e1a;&#x52a8;&#x6001;</category>
       <pubDate>Thu, 26 Nov 2026 11:40:47 GMT</pubDate>
       <guid isPermaLink="false">jopx73ajiy1ynuiw8d8ly5zs0</guid>
       <author>noreply@localhost (Video Games Chronicle)</author>
     </item>
     <item>
       <title><![CDATA[GTA 6 天气变化仍不明显 PS5 玩家分享安全模式清除缓存方法]]></title>
-      <link>https://qwerwanghao.github.io/gamehot-pages/items/hfyjttr7bhhxkbtkag7autshe</link>
-      <description><![CDATA[<p>PS5 玩家分享一个解决 GTA 6 天气变化不明显问题的方法，Rockstar 此前补丁修复天气多样性后部分玩家仍遇到问题。操作为关机后长按电源键进入安全模式，选择第六项并清除系统缓存，不会删除存档或已安装游戏。多位玩家称清缓存后立刻看到雨天或暴风雨效果，但作者提醒可能是安慰剂效应。</p>
-<p>🔗 <a href="https://www.ign.com/articles/ps5-workaround-weather-gta-6">阅读原文</a></p>
-<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/hfyjttr7bhhxkbtkag7autshe">https://qwerwanghao.github.io/gamehot-pages/items/hfyjttr7bhhxkbtkag7autshe</a></p>]]></description>
-      <category>攻略</category>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/hfyjttr7bhhxkbtkag7autshe/</link>
+      <description>&lt;p&gt;PS5 &#x73a9;&#x5bb6;&#x5206;&#x4eab;&#x4e00;&#x4e2a;&#x89e3;&#x51b3; GTA 6 &#x5929;&#x6c14;&#x53d8;&#x5316;&#x4e0d;&#x660e;&#x663e;&#x95ee;&#x9898;&#x7684;&#x65b9;&#x6cd5;&#xff0c;Rockstar &#x6b64;&#x524d;&#x8865;&#x4e01;&#x4fee;&#x590d;&#x5929;&#x6c14;&#x591a;&#x6837;&#x6027;&#x540e;&#x90e8;&#x5206;&#x73a9;&#x5bb6;&#x4ecd;&#x9047;&#x5230;&#x95ee;&#x9898;&#x3002;&#x64cd;&#x4f5c;&#x4e3a;&#x5173;&#x673a;&#x540e;&#x957f;&#x6309;&#x7535;&#x6e90;&#x952e;&#x8fdb;&#x5165;&#x5b89;&#x5168;&#x6a21;&#x5f0f;&#xff0c;&#x9009;&#x62e9;&#x7b2c;&#x516d;&#x9879;&#x5e76;&#x6e05;&#x9664;&#x7cfb;&#x7edf;&#x7f13;&#x5b58;&#xff0c;&#x4e0d;&#x4f1a;&#x5220;&#x9664;&#x5b58;&#x6863;&#x6216;&#x5df2;&#x5b89;&#x88c5;&#x6e38;&#x620f;&#x3002;&#x591a;&#x4f4d;&#x73a9;&#x5bb6;&#x79f0;&#x6e05;&#x7f13;&#x5b58;&#x540e;&#x7acb;&#x523b;&#x770b;&#x5230;&#x96e8;&#x5929;&#x6216;&#x66b4;&#x98ce;&#x96e8;&#x6548;&#x679c;&#xff0c;&#x4f46;&#x4f5c;&#x8005;&#x63d0;&#x9192;&#x53ef;&#x80fd;&#x662f;&#x5b89;&#x6170;&#x5242;&#x6548;&#x5e94;&#x3002;&lt;/p&gt;
+&lt;p&gt;&#x1f517; &lt;a href=&quot;https://www.ign.com/articles/ps5-workaround-weather-gta-6&quot;&gt;&#x9605;&#x8bfb;&#x539f;&#x6587;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;via GAMEHOT &#xb7; &lt;a href=&quot;https://qwerwanghao.github.io/gamehot-pages/items/hfyjttr7bhhxkbtkag7autshe/&quot;&gt;https://qwerwanghao.github.io/gamehot-pages/items/hfyjttr7bhhxkbtkag7autshe/&lt;/a&gt;&lt;/p&gt;</description>
+      <category>&#x653b;&#x7565;</category>
       <pubDate>Thu, 26 Nov 2026 11:26:17 GMT</pubDate>
       <guid isPermaLink="false">hfyjttr7bhhxkbtkag7autshe</guid>
       <author>noreply@localhost (IGN)</author>
     </item>
     <item>
       <title><![CDATA[《復活邪神 3 錯綜宿命》公开第三弹情报，介绍伙伴角色与进化的贸易及茨威格淘汰赛系统]]></title>
-      <link>https://qwerwanghao.github.io/gamehot-pages/items/k8r8a2wvos61e16djrysx8o41</link>
-      <description><![CDATA[<p>SQUARE ENIX 为重制版 RPG《復活邪神 3 錯綜宿命》释出第三弹情报，介绍伏尔布莱德、沃德、温蒂尼、哈曼、波士顿等伙伴角色，以及进化的贸易系统和茨威格淘汰赛。</p>
-<p>🔗 <a href="https://gnn.gamer.com.tw/detail.php?sn=315682">阅读原文</a></p>
-<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/k8r8a2wvos61e16djrysx8o41">https://qwerwanghao.github.io/gamehot-pages/items/k8r8a2wvos61e16djrysx8o41</a></p>]]></description>
-      <category>新作与发售</category>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/k8r8a2wvos61e16djrysx8o41/</link>
+      <description>&lt;p&gt;SQUARE ENIX &#x4e3a;&#x91cd;&#x5236;&#x7248; RPG&#x300a;&#x5fa9;&#x6d3b;&#x90aa;&#x795e; 3 &#x932f;&#x7d9c;&#x5bbf;&#x547d;&#x300b;&#x91ca;&#x51fa;&#x7b2c;&#x4e09;&#x5f39;&#x60c5;&#x62a5;&#xff0c;&#x4ecb;&#x7ecd;&#x4f0f;&#x5c14;&#x5e03;&#x83b1;&#x5fb7;&#x3001;&#x6c83;&#x5fb7;&#x3001;&#x6e29;&#x8482;&#x5c3c;&#x3001;&#x54c8;&#x66fc;&#x3001;&#x6ce2;&#x58eb;&#x987f;&#x7b49;&#x4f19;&#x4f34;&#x89d2;&#x8272;&#xff0c;&#x4ee5;&#x53ca;&#x8fdb;&#x5316;&#x7684;&#x8d38;&#x6613;&#x7cfb;&#x7edf;&#x548c;&#x8328;&#x5a01;&#x683c;&#x6dd8;&#x6c70;&#x8d5b;&#x3002;&lt;/p&gt;
+&lt;p&gt;&#x1f517; &lt;a href=&quot;https://gnn.gamer.com.tw/detail.php?sn=315682&quot;&gt;&#x9605;&#x8bfb;&#x539f;&#x6587;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;via GAMEHOT &#xb7; &lt;a href=&quot;https://qwerwanghao.github.io/gamehot-pages/items/k8r8a2wvos61e16djrysx8o41/&quot;&gt;https://qwerwanghao.github.io/gamehot-pages/items/k8r8a2wvos61e16djrysx8o41/&lt;/a&gt;&lt;/p&gt;</description>
+      <category>&#x65b0;&#x4f5c;&#x4e0e;&#x53d1;&#x552e;</category>
       <pubDate>Thu, 26 Nov 2026 11:24:00 GMT</pubDate>
       <guid isPermaLink="false">k8r8a2wvos61e16djrysx8o41</guid>
-      <author>noreply@localhost (巴哈姆特 GNN)</author>
+      <author>noreply@localhost (&#x5df4;&#x54c8;&#x59c6;&#x7279; GNN)</author>
     </item>
     <item>
       <title><![CDATA[《魔兽世界》Forever 热修补丁上线，增强德鲁伊、猎人与圣骑士并削弱 Revelation 附魔]]></title>
-      <link>https://qwerwanghao.github.io/gamehot-pages/items/k41h82t3sy0bfjzojatbx4gw4</link>
-      <description><![CDATA[<p>暴雪为《魔兽世界》Forever 发布热修补丁，现已在游戏中生效，重点改动包括平衡德鲁伊（平衡系多个天赋重做）、修复猎人宠物近战普攻暴击率为 0% 的错误、修复圣骑士审判刷新与驱邪术暴击问题。</p>
-<p>🔗 <a href="https://www.pcgamesn.com/world-of-warcraft/hotfix-patch-notes-revelation-nerf">阅读原文</a></p>
-<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/k41h82t3sy0bfjzojatbx4gw4">https://qwerwanghao.github.io/gamehot-pages/items/k41h82t3sy0bfjzojatbx4gw4</a></p>]]></description>
-      <category>更新与 DLC</category>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/k41h82t3sy0bfjzojatbx4gw4/</link>
+      <description>&lt;p&gt;&#x66b4;&#x96ea;&#x4e3a;&#x300a;&#x9b54;&#x517d;&#x4e16;&#x754c;&#x300b;Forever &#x53d1;&#x5e03;&#x70ed;&#x4fee;&#x8865;&#x4e01;&#xff0c;&#x73b0;&#x5df2;&#x5728;&#x6e38;&#x620f;&#x4e2d;&#x751f;&#x6548;&#xff0c;&#x91cd;&#x70b9;&#x6539;&#x52a8;&#x5305;&#x62ec;&#x5e73;&#x8861;&#x5fb7;&#x9c81;&#x4f0a;&#xff08;&#x5e73;&#x8861;&#x7cfb;&#x591a;&#x4e2a;&#x5929;&#x8d4b;&#x91cd;&#x505a;&#xff09;&#x3001;&#x4fee;&#x590d;&#x730e;&#x4eba;&#x5ba0;&#x7269;&#x8fd1;&#x6218;&#x666e;&#x653b;&#x66b4;&#x51fb;&#x7387;&#x4e3a; 0% &#x7684;&#x9519;&#x8bef;&#x3001;&#x4fee;&#x590d;&#x5723;&#x9a91;&#x58eb;&#x5ba1;&#x5224;&#x5237;&#x65b0;&#x4e0e;&#x9a71;&#x90aa;&#x672f;&#x66b4;&#x51fb;&#x95ee;&#x9898;&#x3002;&lt;/p&gt;
+&lt;p&gt;&#x1f517; &lt;a href=&quot;https://www.pcgamesn.com/world-of-warcraft/hotfix-patch-notes-revelation-nerf&quot;&gt;&#x9605;&#x8bfb;&#x539f;&#x6587;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;via GAMEHOT &#xb7; &lt;a href=&quot;https://qwerwanghao.github.io/gamehot-pages/items/k41h82t3sy0bfjzojatbx4gw4/&quot;&gt;https://qwerwanghao.github.io/gamehot-pages/items/k41h82t3sy0bfjzojatbx4gw4/&lt;/a&gt;&lt;/p&gt;</description>
+      <category>&#x66f4;&#x65b0;&#x4e0e; DLC</category>
       <pubDate>Thu, 26 Nov 2026 11:18:25 GMT</pubDate>
       <guid isPermaLink="false">k41h82t3sy0bfjzojatbx4gw4</guid>
       <author>noreply@localhost (PCGamesN)</author>
     </item>
     <item>
       <title><![CDATA[《EA Sports FC 27》用 AI 加入已故解说员 John Motson 的声音]]></title>
-      <link>https://qwerwanghao.github.io/gamehot-pages/items/ctiwwi9rqogop5t78n1ndatcb</link>
-      <description><![CDATA[<p>EA 于今日为《EA Sports FC 27》加入 2023 年去世的解说员 John Motson 的声音，结合旧录音和 AI 制作，这是该系列首次为已故解说员加入配音。</p>
-<p>🔗 <a href="https://www.nintendolife.com/news/2026/11/ea-sports-fc-27-is-using-ai-to-add-the-voice-of-late-commentator-john-motson">阅读原文</a></p>
-<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/ctiwwi9rqogop5t78n1ndatcb">https://qwerwanghao.github.io/gamehot-pages/items/ctiwwi9rqogop5t78n1ndatcb</a></p>]]></description>
-      <category>更新与 DLC</category>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/ctiwwi9rqogop5t78n1ndatcb/</link>
+      <description>&lt;p&gt;EA &#x4e8e;&#x4eca;&#x65e5;&#x4e3a;&#x300a;EA Sports FC 27&#x300b;&#x52a0;&#x5165; 2023 &#x5e74;&#x53bb;&#x4e16;&#x7684;&#x89e3;&#x8bf4;&#x5458; John Motson &#x7684;&#x58f0;&#x97f3;&#xff0c;&#x7ed3;&#x5408;&#x65e7;&#x5f55;&#x97f3;&#x548c; AI &#x5236;&#x4f5c;&#xff0c;&#x8fd9;&#x662f;&#x8be5;&#x7cfb;&#x5217;&#x9996;&#x6b21;&#x4e3a;&#x5df2;&#x6545;&#x89e3;&#x8bf4;&#x5458;&#x52a0;&#x5165;&#x914d;&#x97f3;&#x3002;&lt;/p&gt;
+&lt;p&gt;&#x1f517; &lt;a href=&quot;https://www.nintendolife.com/news/2026/11/ea-sports-fc-27-is-using-ai-to-add-the-voice-of-late-commentator-john-motson&quot;&gt;&#x9605;&#x8bfb;&#x539f;&#x6587;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;via GAMEHOT &#xb7; &lt;a href=&quot;https://qwerwanghao.github.io/gamehot-pages/items/ctiwwi9rqogop5t78n1ndatcb/&quot;&gt;https://qwerwanghao.github.io/gamehot-pages/items/ctiwwi9rqogop5t78n1ndatcb/&lt;/a&gt;&lt;/p&gt;</description>
+      <category>&#x66f4;&#x65b0;&#x4e0e; DLC</category>
       <pubDate>Thu, 26 Nov 2026 11:15:00 GMT</pubDate>
       <guid isPermaLink="false">ctiwwi9rqogop5t78n1ndatcb</guid>
       <author>noreply@localhost (Nintendo Life)</author>
     </item>
     <item>
       <title><![CDATA[玩家用 AI 为《最后生还者 第二部》PC 复刻版制作免费多人 Mod Twelve Weeks]]></title>
-      <link>https://qwerwanghao.github.io/gamehot-pages/items/eqrerzl3wi85b5oi97066m0b8</link>
-      <description><![CDATA[<p>Mod 作者 Kellie 发布免费开源 Mod Twelve Weeks，为 PC 版《最后生还者 第二部 复刻版》加入 4v4 团队多人模式，包含 Supply Raid、Interrogation 重制关卡、新武器、角色自定义与处决动作，可在 Nexus Mods 下载，开发中大量使用了 Claude code，美术用 Blender 制作。</p>
-<p>🔗 <a href="https://www.ign.com/articles/new-multiplayer-mod-for-the-last-of-us-part-2">阅读原文</a></p>
-<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/eqrerzl3wi85b5oi97066m0b8">https://qwerwanghao.github.io/gamehot-pages/items/eqrerzl3wi85b5oi97066m0b8</a></p>]]></description>
-      <category>更新与 DLC</category>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/eqrerzl3wi85b5oi97066m0b8/</link>
+      <description>&lt;p&gt;Mod &#x4f5c;&#x8005; Kellie &#x53d1;&#x5e03;&#x514d;&#x8d39;&#x5f00;&#x6e90; Mod Twelve Weeks&#xff0c;&#x4e3a; PC &#x7248;&#x300a;&#x6700;&#x540e;&#x751f;&#x8fd8;&#x8005; &#x7b2c;&#x4e8c;&#x90e8; &#x590d;&#x523b;&#x7248;&#x300b;&#x52a0;&#x5165; 4v4 &#x56e2;&#x961f;&#x591a;&#x4eba;&#x6a21;&#x5f0f;&#xff0c;&#x5305;&#x542b; Supply Raid&#x3001;Interrogation &#x91cd;&#x5236;&#x5173;&#x5361;&#x3001;&#x65b0;&#x6b66;&#x5668;&#x3001;&#x89d2;&#x8272;&#x81ea;&#x5b9a;&#x4e49;&#x4e0e;&#x5904;&#x51b3;&#x52a8;&#x4f5c;&#xff0c;&#x53ef;&#x5728; Nexus Mods &#x4e0b;&#x8f7d;&#xff0c;&#x5f00;&#x53d1;&#x4e2d;&#x5927;&#x91cf;&#x4f7f;&#x7528;&#x4e86; Claude code&#xff0c;&#x7f8e;&#x672f;&#x7528; Blender &#x5236;&#x4f5c;&#x3002;&lt;/p&gt;
+&lt;p&gt;&#x1f517; &lt;a href=&quot;https://www.ign.com/articles/new-multiplayer-mod-for-the-last-of-us-part-2&quot;&gt;&#x9605;&#x8bfb;&#x539f;&#x6587;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;via GAMEHOT &#xb7; &lt;a href=&quot;https://qwerwanghao.github.io/gamehot-pages/items/eqrerzl3wi85b5oi97066m0b8/&quot;&gt;https://qwerwanghao.github.io/gamehot-pages/items/eqrerzl3wi85b5oi97066m0b8/&lt;/a&gt;&lt;/p&gt;</description>
+      <category>&#x66f4;&#x65b0;&#x4e0e; DLC</category>
       <pubDate>Thu, 26 Nov 2026 11:00:06 GMT</pubDate>
       <guid isPermaLink="false">eqrerzl3wi85b5oi97066m0b8</guid>
       <author>noreply@localhost (IGN)</author>
     </item>
     <item>
       <title><![CDATA[《尤卡莱莉与不可能巢穴》最终版公布，跳过 Xbox Series X/S]]></title>
-      <link>https://qwerwanghao.github.io/gamehot-pages/items/n0m1pz0q1ira9end3vrpix2m8</link>
-      <description><![CDATA[<p>Playtonic Games 公布《尤卡莱莉与不可能巢穴》Definitive Edition，包含最高 4K 120FPS 强化画面、两张管弦乐配乐等，但仅登陆 PC、Switch 2 和 PS5，不含 Xbox Series X/S。Xbox 玩家在评论区表达不满，Playtonic 尚未说明缺席 Xbox 的原因；2019 年原版仍可在 Xbox 游玩。</p>
-<p>🔗 <a href="https://www.purexbox.com/news/2026/11/xbox-fans-make-their-feelings-known-in-response-to-yooka-laylee-upgrade-announcement">阅读原文</a></p>
-<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/n0m1pz0q1ira9end3vrpix2m8">https://qwerwanghao.github.io/gamehot-pages/items/n0m1pz0q1ira9end3vrpix2m8</a></p>]]></description>
-      <category>更新与 DLC</category>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/n0m1pz0q1ira9end3vrpix2m8/</link>
+      <description>&lt;p&gt;Playtonic Games &#x516c;&#x5e03;&#x300a;&#x5c24;&#x5361;&#x83b1;&#x8389;&#x4e0e;&#x4e0d;&#x53ef;&#x80fd;&#x5de2;&#x7a74;&#x300b;Definitive Edition&#xff0c;&#x5305;&#x542b;&#x6700;&#x9ad8; 4K 120FPS &#x5f3a;&#x5316;&#x753b;&#x9762;&#x3001;&#x4e24;&#x5f20;&#x7ba1;&#x5f26;&#x4e50;&#x914d;&#x4e50;&#x7b49;&#xff0c;&#x4f46;&#x4ec5;&#x767b;&#x9646; PC&#x3001;Switch 2 &#x548c; PS5&#xff0c;&#x4e0d;&#x542b; Xbox Series X/S&#x3002;Xbox &#x73a9;&#x5bb6;&#x5728;&#x8bc4;&#x8bba;&#x533a;&#x8868;&#x8fbe;&#x4e0d;&#x6ee1;&#xff0c;Playtonic &#x5c1a;&#x672a;&#x8bf4;&#x660e;&#x7f3a;&#x5e2d; Xbox &#x7684;&#x539f;&#x56e0;&#xff1b;2019 &#x5e74;&#x539f;&#x7248;&#x4ecd;&#x53ef;&#x5728; Xbox &#x6e38;&#x73a9;&#x3002;&lt;/p&gt;
+&lt;p&gt;&#x1f517; &lt;a href=&quot;https://www.purexbox.com/news/2026/11/xbox-fans-make-their-feelings-known-in-response-to-yooka-laylee-upgrade-announcement&quot;&gt;&#x9605;&#x8bfb;&#x539f;&#x6587;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;via GAMEHOT &#xb7; &lt;a href=&quot;https://qwerwanghao.github.io/gamehot-pages/items/n0m1pz0q1ira9end3vrpix2m8/&quot;&gt;https://qwerwanghao.github.io/gamehot-pages/items/n0m1pz0q1ira9end3vrpix2m8/&lt;/a&gt;&lt;/p&gt;</description>
+      <category>&#x66f4;&#x65b0;&#x4e0e; DLC</category>
       <pubDate>Thu, 26 Nov 2026 11:00:00 GMT</pubDate>
       <guid isPermaLink="false">n0m1pz0q1ira9end3vrpix2m8</guid>
       <author>noreply@localhost (Pure Xbox)</author>
     </item>
     <item>
       <title><![CDATA[《水上摩托车 蓝色风暴》11 月 24 日加入 Nintendo GameCube – Nintendo Classics 阵容]]></title>
-      <link>https://qwerwanghao.github.io/gamehot-pages/items/ezamg5zd7aowacppphl1huc3h</link>
-      <description><![CDATA[<p>任天堂于 11 月 24 日将 GameCube 竞速游戏《水上摩托车 蓝色风暴》加入 Nintendo GameCube – Nintendo Classics 阵容，订阅「Nintendo Switch Online + 扩充包」即可游玩。该阵容仅限 Nintendo Switch 2，另收录《超级马力欧阳光》《塞尔达传说 风之律动》《火焰纹章 苍炎之轨迹》等多款游戏。</p>
-<p>🔗 <a href="https://gnn.gamer.com.tw/detail.php?sn=315681">阅读原文</a></p>
-<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/ezamg5zd7aowacppphl1huc3h">https://qwerwanghao.github.io/gamehot-pages/items/ezamg5zd7aowacppphl1huc3h</a></p>]]></description>
-      <category>更新与 DLC</category>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/ezamg5zd7aowacppphl1huc3h/</link>
+      <description>&lt;p&gt;&#x4efb;&#x5929;&#x5802;&#x4e8e; 11 &#x6708; 24 &#x65e5;&#x5c06; GameCube &#x7ade;&#x901f;&#x6e38;&#x620f;&#x300a;&#x6c34;&#x4e0a;&#x6469;&#x6258;&#x8f66; &#x84dd;&#x8272;&#x98ce;&#x66b4;&#x300b;&#x52a0;&#x5165; Nintendo GameCube &#x2013; Nintendo Classics &#x9635;&#x5bb9;&#xff0c;&#x8ba2;&#x9605;&#x300c;Nintendo Switch Online + &#x6269;&#x5145;&#x5305;&#x300d;&#x5373;&#x53ef;&#x6e38;&#x73a9;&#x3002;&#x8be5;&#x9635;&#x5bb9;&#x4ec5;&#x9650; Nintendo Switch 2&#xff0c;&#x53e6;&#x6536;&#x5f55;&#x300a;&#x8d85;&#x7ea7;&#x9a6c;&#x529b;&#x6b27;&#x9633;&#x5149;&#x300b;&#x300a;&#x585e;&#x5c14;&#x8fbe;&#x4f20;&#x8bf4; &#x98ce;&#x4e4b;&#x5f8b;&#x52a8;&#x300b;&#x300a;&#x706b;&#x7130;&#x7eb9;&#x7ae0; &#x82cd;&#x708e;&#x4e4b;&#x8f68;&#x8ff9;&#x300b;&#x7b49;&#x591a;&#x6b3e;&#x6e38;&#x620f;&#x3002;&lt;/p&gt;
+&lt;p&gt;&#x1f517; &lt;a href=&quot;https://gnn.gamer.com.tw/detail.php?sn=315681&quot;&gt;&#x9605;&#x8bfb;&#x539f;&#x6587;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;via GAMEHOT &#xb7; &lt;a href=&quot;https://qwerwanghao.github.io/gamehot-pages/items/ezamg5zd7aowacppphl1huc3h/&quot;&gt;https://qwerwanghao.github.io/gamehot-pages/items/ezamg5zd7aowacppphl1huc3h/&lt;/a&gt;&lt;/p&gt;</description>
+      <category>&#x66f4;&#x65b0;&#x4e0e; DLC</category>
       <pubDate>Thu, 26 Nov 2026 10:55:55 GMT</pubDate>
       <guid isPermaLink="false">ezamg5zd7aowacppphl1huc3h</guid>
-      <author>noreply@localhost (巴哈姆特 GNN)</author>
+      <author>noreply@localhost (&#x5df4;&#x54c8;&#x59c6;&#x7279; GNN)</author>
     </item>
     <item>
       <title><![CDATA[《布丽的欢乐拍贴》PS5 与 Switch 盒装版发售，台湾定价 1,190 TWD]]></title>
-      <link>https://qwerwanghao.github.io/gamehot-pages/items/z1umwg1dr7lwbbkqz0dggke5e</link>
-      <description><![CDATA[<p>世雅宣布，Gameloft Brisbane 制作的冒险游戏《布丽的欢乐拍贴》PlayStation 5、Nintendo Switch 2 与 Switch 盒装版于 11 月 26 日发售，台湾售价 1,190 TWD、香港 308 HKD。</p>
-<p>🔗 <a href="https://gnn.gamer.com.tw/detail.php?sn=315680">阅读原文</a></p>
-<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/z1umwg1dr7lwbbkqz0dggke5e">https://qwerwanghao.github.io/gamehot-pages/items/z1umwg1dr7lwbbkqz0dggke5e</a></p>]]></description>
-      <category>新作与发售</category>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/z1umwg1dr7lwbbkqz0dggke5e/</link>
+      <description>&lt;p&gt;&#x4e16;&#x96c5;&#x5ba3;&#x5e03;&#xff0c;Gameloft Brisbane &#x5236;&#x4f5c;&#x7684;&#x5192;&#x9669;&#x6e38;&#x620f;&#x300a;&#x5e03;&#x4e3d;&#x7684;&#x6b22;&#x4e50;&#x62cd;&#x8d34;&#x300b;PlayStation 5&#x3001;Nintendo Switch 2 &#x4e0e; Switch &#x76d2;&#x88c5;&#x7248;&#x4e8e; 11 &#x6708; 26 &#x65e5;&#x53d1;&#x552e;&#xff0c;&#x53f0;&#x6e7e;&#x552e;&#x4ef7; 1,190 TWD&#x3001;&#x9999;&#x6e2f; 308 HKD&#x3002;&lt;/p&gt;
+&lt;p&gt;&#x1f517; &lt;a href=&quot;https://gnn.gamer.com.tw/detail.php?sn=315680&quot;&gt;&#x9605;&#x8bfb;&#x539f;&#x6587;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;via GAMEHOT &#xb7; &lt;a href=&quot;https://qwerwanghao.github.io/gamehot-pages/items/z1umwg1dr7lwbbkqz0dggke5e/&quot;&gt;https://qwerwanghao.github.io/gamehot-pages/items/z1umwg1dr7lwbbkqz0dggke5e/&lt;/a&gt;&lt;/p&gt;</description>
+      <category>&#x65b0;&#x4f5c;&#x4e0e;&#x53d1;&#x552e;</category>
       <pubDate>Thu, 26 Nov 2026 10:55:36 GMT</pubDate>
       <guid isPermaLink="false">z1umwg1dr7lwbbkqz0dggke5e</guid>
-      <author>noreply@localhost (巴哈姆特 GNN)</author>
+      <author>noreply@localhost (&#x5df4;&#x54c8;&#x59c6;&#x7279; GNN)</author>
     </item>
     <item>
       <title><![CDATA[《战锤40K：星际战士2》16.0 更新上线，扩展先锋职业并带来大幅平衡调整]]></title>
-      <link>https://qwerwanghao.github.io/gamehot-pages/items/r1e61fhvuf1qyc2ck4pm060gf</link>
-      <description><![CDATA[<p>《战锤40K：星际战士2》16.0 更新上线，大幅扩展先锋职业战斗能力，新增 Revenge 状态效果与 Wargear 2.3。Grapnel Launcher 可近距离使用，Bulwark 可装备斗篷，Chaos Siege 模式加入 Hive 地图第三部分，并改善加载时间、内存与连接性。</p>
-<p>🔗 <a href="https://www.ign.com/articles/warhammer-40000-space-marine-2-patch-160-goes-live-expands-vanguard-class-makes-big-balance-changes-and-much-more">阅读原文</a></p>
-<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/r1e61fhvuf1qyc2ck4pm060gf">https://qwerwanghao.github.io/gamehot-pages/items/r1e61fhvuf1qyc2ck4pm060gf</a></p>]]></description>
-      <category>更新与 DLC</category>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/r1e61fhvuf1qyc2ck4pm060gf/</link>
+      <description>&lt;p&gt;&#x300a;&#x6218;&#x9524;40K&#xff1a;&#x661f;&#x9645;&#x6218;&#x58eb;2&#x300b;16.0 &#x66f4;&#x65b0;&#x4e0a;&#x7ebf;&#xff0c;&#x5927;&#x5e45;&#x6269;&#x5c55;&#x5148;&#x950b;&#x804c;&#x4e1a;&#x6218;&#x6597;&#x80fd;&#x529b;&#xff0c;&#x65b0;&#x589e; Revenge &#x72b6;&#x6001;&#x6548;&#x679c;&#x4e0e; Wargear 2.3&#x3002;Grapnel Launcher &#x53ef;&#x8fd1;&#x8ddd;&#x79bb;&#x4f7f;&#x7528;&#xff0c;Bulwark &#x53ef;&#x88c5;&#x5907;&#x6597;&#x7bf7;&#xff0c;Chaos Siege &#x6a21;&#x5f0f;&#x52a0;&#x5165; Hive &#x5730;&#x56fe;&#x7b2c;&#x4e09;&#x90e8;&#x5206;&#xff0c;&#x5e76;&#x6539;&#x5584;&#x52a0;&#x8f7d;&#x65f6;&#x95f4;&#x3001;&#x5185;&#x5b58;&#x4e0e;&#x8fde;&#x63a5;&#x6027;&#x3002;&lt;/p&gt;
+&lt;p&gt;&#x1f517; &lt;a href=&quot;https://www.ign.com/articles/warhammer-40000-space-marine-2-patch-160-goes-live-expands-vanguard-class-makes-big-balance-changes-and-much-more&quot;&gt;&#x9605;&#x8bfb;&#x539f;&#x6587;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;via GAMEHOT &#xb7; &lt;a href=&quot;https://qwerwanghao.github.io/gamehot-pages/items/r1e61fhvuf1qyc2ck4pm060gf/&quot;&gt;https://qwerwanghao.github.io/gamehot-pages/items/r1e61fhvuf1qyc2ck4pm060gf/&lt;/a&gt;&lt;/p&gt;</description>
+      <category>&#x66f4;&#x65b0;&#x4e0e; DLC</category>
       <pubDate>Thu, 26 Nov 2026 10:47:20 GMT</pubDate>
       <guid isPermaLink="false">r1e61fhvuf1qyc2ck4pm060gf</guid>
       <author>noreply@localhost (IGN)</author>
     </item>
     <item>
       <title><![CDATA[《魔兽世界：永恒》奥山战场遭紧急调整，遏制玩家速刷声望]]></title>
-      <link>https://qwerwanghao.github.io/gamehot-pages/items/g5p00fcv4dd714z3q0vmx3ztj</link>
-      <description><![CDATA[<p>暴雪调整《魔兽世界：永恒》中奥特兰克山谷战场，大幅降低击杀双方将军获得的声望，转而提高击杀其他NPC和占领目标的收益。将军在开局20分钟内获得强力增益，每被摧毁一个塔楼或占领点即减弱。社区经理Kaivax称改动意在让对局更有意义，同时保持相近游玩时间的声望总量，但社区反应负面，认为速刷流被削弱，且抢先满级刷完的玩家不受影响。</p>
-<p>🔗 <a href="https://www.eurogamer.net/world-of-warcraft-forever-alterac-valley-battleground-patched">阅读原文</a></p>
-<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/g5p00fcv4dd714z3q0vmx3ztj">https://qwerwanghao.github.io/gamehot-pages/items/g5p00fcv4dd714z3q0vmx3ztj</a></p>]]></description>
-      <category>更新与 DLC</category>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/g5p00fcv4dd714z3q0vmx3ztj/</link>
+      <description>&lt;p&gt;&#x66b4;&#x96ea;&#x8c03;&#x6574;&#x300a;&#x9b54;&#x517d;&#x4e16;&#x754c;&#xff1a;&#x6c38;&#x6052;&#x300b;&#x4e2d;&#x5965;&#x7279;&#x5170;&#x514b;&#x5c71;&#x8c37;&#x6218;&#x573a;&#xff0c;&#x5927;&#x5e45;&#x964d;&#x4f4e;&#x51fb;&#x6740;&#x53cc;&#x65b9;&#x5c06;&#x519b;&#x83b7;&#x5f97;&#x7684;&#x58f0;&#x671b;&#xff0c;&#x8f6c;&#x800c;&#x63d0;&#x9ad8;&#x51fb;&#x6740;&#x5176;&#x4ed6;NPC&#x548c;&#x5360;&#x9886;&#x76ee;&#x6807;&#x7684;&#x6536;&#x76ca;&#x3002;&#x5c06;&#x519b;&#x5728;&#x5f00;&#x5c40;20&#x5206;&#x949f;&#x5185;&#x83b7;&#x5f97;&#x5f3a;&#x529b;&#x589e;&#x76ca;&#xff0c;&#x6bcf;&#x88ab;&#x6467;&#x6bc1;&#x4e00;&#x4e2a;&#x5854;&#x697c;&#x6216;&#x5360;&#x9886;&#x70b9;&#x5373;&#x51cf;&#x5f31;&#x3002;&#x793e;&#x533a;&#x7ecf;&#x7406;Kaivax&#x79f0;&#x6539;&#x52a8;&#x610f;&#x5728;&#x8ba9;&#x5bf9;&#x5c40;&#x66f4;&#x6709;&#x610f;&#x4e49;&#xff0c;&#x540c;&#x65f6;&#x4fdd;&#x6301;&#x76f8;&#x8fd1;&#x6e38;&#x73a9;&#x65f6;&#x95f4;&#x7684;&#x58f0;&#x671b;&#x603b;&#x91cf;&#xff0c;&#x4f46;&#x793e;&#x533a;&#x53cd;&#x5e94;&#x8d1f;&#x9762;&#xff0c;&#x8ba4;&#x4e3a;&#x901f;&#x5237;&#x6d41;&#x88ab;&#x524a;&#x5f31;&#xff0c;&#x4e14;&#x62a2;&#x5148;&#x6ee1;&#x7ea7;&#x5237;&#x5b8c;&#x7684;&#x73a9;&#x5bb6;&#x4e0d;&#x53d7;&#x5f71;&#x54cd;&#x3002;&lt;/p&gt;
+&lt;p&gt;&#x1f517; &lt;a href=&quot;https://www.eurogamer.net/world-of-warcraft-forever-alterac-valley-battleground-patched&quot;&gt;&#x9605;&#x8bfb;&#x539f;&#x6587;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;via GAMEHOT &#xb7; &lt;a href=&quot;https://qwerwanghao.github.io/gamehot-pages/items/g5p00fcv4dd714z3q0vmx3ztj/&quot;&gt;https://qwerwanghao.github.io/gamehot-pages/items/g5p00fcv4dd714z3q0vmx3ztj/&lt;/a&gt;&lt;/p&gt;</description>
+      <category>&#x66f4;&#x65b0;&#x4e0e; DLC</category>
       <pubDate>Thu, 26 Nov 2026 10:46:10 GMT</pubDate>
       <guid isPermaLink="false">g5p00fcv4dd714z3q0vmx3ztj</guid>
       <author>noreply@localhost (Eurogamer)</author>
     </item>
     <item>
       <title><![CDATA[2026三角洲行动烽火世界杯11月27日斯德哥尔摩开赛，12支战队争夺总冠军]]></title>
-      <link>https://qwerwanghao.github.io/gamehot-pages/items/bg9t8miw4e0sqirmv5zd9rh2u</link>
-      <description><![CDATA[<p>2026三角洲行动烽火世界杯（DFI 2026）将于11月27日在瑞典斯德哥尔摩DreamHack开赛，来自六大赛区的12支战队参加为期三天的角逐，中国大陆赛区由TES、RSG、IBG三队出征。这是该中国自研赛事体系首次以正式比赛项目登陆DreamHack，首个比赛日及总决赛均于北京时间19:00开启，观赛可获得枪械皮肤、专属动作等奖励。</p>
-<p>🔗 <a href="https://www.yystv.cn/p/14675">阅读原文</a></p>
-<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/bg9t8miw4e0sqirmv5zd9rh2u">https://qwerwanghao.github.io/gamehot-pages/items/bg9t8miw4e0sqirmv5zd9rh2u</a></p>]]></description>
-      <category>行业动态</category>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/bg9t8miw4e0sqirmv5zd9rh2u/</link>
+      <description>&lt;p&gt;2026&#x4e09;&#x89d2;&#x6d32;&#x884c;&#x52a8;&#x70fd;&#x706b;&#x4e16;&#x754c;&#x676f;&#xff08;DFI 2026&#xff09;&#x5c06;&#x4e8e;11&#x6708;27&#x65e5;&#x5728;&#x745e;&#x5178;&#x65af;&#x5fb7;&#x54e5;&#x5c14;&#x6469;DreamHack&#x5f00;&#x8d5b;&#xff0c;&#x6765;&#x81ea;&#x516d;&#x5927;&#x8d5b;&#x533a;&#x7684;12&#x652f;&#x6218;&#x961f;&#x53c2;&#x52a0;&#x4e3a;&#x671f;&#x4e09;&#x5929;&#x7684;&#x89d2;&#x9010;&#xff0c;&#x4e2d;&#x56fd;&#x5927;&#x9646;&#x8d5b;&#x533a;&#x7531;TES&#x3001;RSG&#x3001;IBG&#x4e09;&#x961f;&#x51fa;&#x5f81;&#x3002;&#x8fd9;&#x662f;&#x8be5;&#x4e2d;&#x56fd;&#x81ea;&#x7814;&#x8d5b;&#x4e8b;&#x4f53;&#x7cfb;&#x9996;&#x6b21;&#x4ee5;&#x6b63;&#x5f0f;&#x6bd4;&#x8d5b;&#x9879;&#x76ee;&#x767b;&#x9646;DreamHack&#xff0c;&#x9996;&#x4e2a;&#x6bd4;&#x8d5b;&#x65e5;&#x53ca;&#x603b;&#x51b3;&#x8d5b;&#x5747;&#x4e8e;&#x5317;&#x4eac;&#x65f6;&#x95f4;19:00&#x5f00;&#x542f;&#xff0c;&#x89c2;&#x8d5b;&#x53ef;&#x83b7;&#x5f97;&#x67aa;&#x68b0;&#x76ae;&#x80a4;&#x3001;&#x4e13;&#x5c5e;&#x52a8;&#x4f5c;&#x7b49;&#x5956;&#x52b1;&#x3002;&lt;/p&gt;
+&lt;p&gt;&#x1f517; &lt;a href=&quot;https://www.yystv.cn/p/14675&quot;&gt;&#x9605;&#x8bfb;&#x539f;&#x6587;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;via GAMEHOT &#xb7; &lt;a href=&quot;https://qwerwanghao.github.io/gamehot-pages/items/bg9t8miw4e0sqirmv5zd9rh2u/&quot;&gt;https://qwerwanghao.github.io/gamehot-pages/items/bg9t8miw4e0sqirmv5zd9rh2u/&lt;/a&gt;&lt;/p&gt;</description>
+      <category>&#x884c;&#x4e1a;&#x52a8;&#x6001;</category>
       <pubDate>Thu, 26 Nov 2026 10:45:00 GMT</pubDate>
       <guid isPermaLink="false">bg9t8miw4e0sqirmv5zd9rh2u</guid>
-      <author>noreply@localhost (游研社)</author>
+      <author>noreply@localhost (&#x6e38;&#x7814;&#x793e;)</author>
     </item>
     <item>
       <title><![CDATA[Rockstar 公布《GTA 6》雷欧奈达官方全地图，陆地面积约 113.75 平方公里]]></title>
-      <link>https://qwerwanghao.github.io/gamehot-pages/items/e060oyq7x8tognd0fx2d7w1op</link>
-      <description><![CDATA[<p>Rockstar 在官网公布《GTA 6》雷欧奈达全地图供玩家下载，该地图以佛罗里达州打造。纯陆地估算约 113.75 平方公里，约为《GTA 5》洛圣都与布雷恩郡总面积的 2 倍、《碧血狂杀2》可游玩范围的 3 倍；地图分辨率为 2805*3840、300dpi，另有可印接近 B2 尺寸的印刷用规格，并附同尺寸封面美术图下载。</p>
-<p>🔗 <a href="https://www.4gamers.com.tw/news/detail/83534/rockstar-reveals-official-gta-6-leonida-map">阅读原文</a></p>
-<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/e060oyq7x8tognd0fx2d7w1op">https://qwerwanghao.github.io/gamehot-pages/items/e060oyq7x8tognd0fx2d7w1op</a></p>]]></description>
-      <category>新作与发售</category>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/e060oyq7x8tognd0fx2d7w1op/</link>
+      <description>&lt;p&gt;Rockstar &#x5728;&#x5b98;&#x7f51;&#x516c;&#x5e03;&#x300a;GTA 6&#x300b;&#x96f7;&#x6b27;&#x5948;&#x8fbe;&#x5168;&#x5730;&#x56fe;&#x4f9b;&#x73a9;&#x5bb6;&#x4e0b;&#x8f7d;&#xff0c;&#x8be5;&#x5730;&#x56fe;&#x4ee5;&#x4f5b;&#x7f57;&#x91cc;&#x8fbe;&#x5dde;&#x6253;&#x9020;&#x3002;&#x7eaf;&#x9646;&#x5730;&#x4f30;&#x7b97;&#x7ea6; 113.75 &#x5e73;&#x65b9;&#x516c;&#x91cc;&#xff0c;&#x7ea6;&#x4e3a;&#x300a;GTA 5&#x300b;&#x6d1b;&#x5723;&#x90fd;&#x4e0e;&#x5e03;&#x96f7;&#x6069;&#x90e1;&#x603b;&#x9762;&#x79ef;&#x7684; 2 &#x500d;&#x3001;&#x300a;&#x78a7;&#x8840;&#x72c2;&#x6740;2&#x300b;&#x53ef;&#x6e38;&#x73a9;&#x8303;&#x56f4;&#x7684; 3 &#x500d;&#xff1b;&#x5730;&#x56fe;&#x5206;&#x8fa8;&#x7387;&#x4e3a; 2805*3840&#x3001;300dpi&#xff0c;&#x53e6;&#x6709;&#x53ef;&#x5370;&#x63a5;&#x8fd1; B2 &#x5c3a;&#x5bf8;&#x7684;&#x5370;&#x5237;&#x7528;&#x89c4;&#x683c;&#xff0c;&#x5e76;&#x9644;&#x540c;&#x5c3a;&#x5bf8;&#x5c01;&#x9762;&#x7f8e;&#x672f;&#x56fe;&#x4e0b;&#x8f7d;&#x3002;&lt;/p&gt;
+&lt;p&gt;&#x1f517; &lt;a href=&quot;https://www.4gamers.com.tw/news/detail/83534/rockstar-reveals-official-gta-6-leonida-map&quot;&gt;&#x9605;&#x8bfb;&#x539f;&#x6587;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;via GAMEHOT &#xb7; &lt;a href=&quot;https://qwerwanghao.github.io/gamehot-pages/items/e060oyq7x8tognd0fx2d7w1op/&quot;&gt;https://qwerwanghao.github.io/gamehot-pages/items/e060oyq7x8tognd0fx2d7w1op/&lt;/a&gt;&lt;/p&gt;</description>
+      <category>&#x65b0;&#x4f5c;&#x4e0e;&#x53d1;&#x552e;</category>
       <pubDate>Thu, 26 Nov 2026 10:42:03 GMT</pubDate>
       <guid isPermaLink="false">e060oyq7x8tognd0fx2d7w1op</guid>
       <author>noreply@localhost (4Gamers)</author>
     </item>
     <item>
       <title><![CDATA[《菇菇》系列 15 周年纪念家用主机新作《菇菇好天气》正式发表]]></title>
-      <link>https://qwerwanghao.github.io/gamehot-pages/items/hruosy7dwggq0d4mub5e46h03</link>
-      <description><![CDATA[<p>SUCCESS 于 11 月 26 日宣布，为纪念《菇菇》系列 15 周年，将推出家用主机最新作《菇菇好天气》（暂译），并公开前导预告片。该系列 2011 年以免费手机 App《触摸侦探 菇菇栽培研究室》形式登场，今年 8 月迎来诞生 15 周年。目前官方尚未公开制作平台与上市时程等信息。</p>
-<p>🔗 <a href="https://gnn.gamer.com.tw/detail.php?sn=315678">阅读原文</a></p>
-<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/hruosy7dwggq0d4mub5e46h03">https://qwerwanghao.github.io/gamehot-pages/items/hruosy7dwggq0d4mub5e46h03</a></p>]]></description>
-      <category>新作与发售</category>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/hruosy7dwggq0d4mub5e46h03/</link>
+      <description>&lt;p&gt;SUCCESS &#x4e8e; 11 &#x6708; 26 &#x65e5;&#x5ba3;&#x5e03;&#xff0c;&#x4e3a;&#x7eaa;&#x5ff5;&#x300a;&#x83c7;&#x83c7;&#x300b;&#x7cfb;&#x5217; 15 &#x5468;&#x5e74;&#xff0c;&#x5c06;&#x63a8;&#x51fa;&#x5bb6;&#x7528;&#x4e3b;&#x673a;&#x6700;&#x65b0;&#x4f5c;&#x300a;&#x83c7;&#x83c7;&#x597d;&#x5929;&#x6c14;&#x300b;&#xff08;&#x6682;&#x8bd1;&#xff09;&#xff0c;&#x5e76;&#x516c;&#x5f00;&#x524d;&#x5bfc;&#x9884;&#x544a;&#x7247;&#x3002;&#x8be5;&#x7cfb;&#x5217; 2011 &#x5e74;&#x4ee5;&#x514d;&#x8d39;&#x624b;&#x673a; App&#x300a;&#x89e6;&#x6478;&#x4fa6;&#x63a2; &#x83c7;&#x83c7;&#x683d;&#x57f9;&#x7814;&#x7a76;&#x5ba4;&#x300b;&#x5f62;&#x5f0f;&#x767b;&#x573a;&#xff0c;&#x4eca;&#x5e74; 8 &#x6708;&#x8fce;&#x6765;&#x8bde;&#x751f; 15 &#x5468;&#x5e74;&#x3002;&#x76ee;&#x524d;&#x5b98;&#x65b9;&#x5c1a;&#x672a;&#x516c;&#x5f00;&#x5236;&#x4f5c;&#x5e73;&#x53f0;&#x4e0e;&#x4e0a;&#x5e02;&#x65f6;&#x7a0b;&#x7b49;&#x4fe1;&#x606f;&#x3002;&lt;/p&gt;
+&lt;p&gt;&#x1f517; &lt;a href=&quot;https://gnn.gamer.com.tw/detail.php?sn=315678&quot;&gt;&#x9605;&#x8bfb;&#x539f;&#x6587;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;via GAMEHOT &#xb7; &lt;a href=&quot;https://qwerwanghao.github.io/gamehot-pages/items/hruosy7dwggq0d4mub5e46h03/&quot;&gt;https://qwerwanghao.github.io/gamehot-pages/items/hruosy7dwggq0d4mub5e46h03/&lt;/a&gt;&lt;/p&gt;</description>
+      <category>&#x65b0;&#x4f5c;&#x4e0e;&#x53d1;&#x552e;</category>
       <pubDate>Thu, 26 Nov 2026 10:39:39 GMT</pubDate>
       <guid isPermaLink="false">hruosy7dwggq0d4mub5e46h03</guid>
-      <author>noreply@localhost (巴哈姆特 GNN)</author>
+      <author>noreply@localhost (&#x5df4;&#x54c8;&#x59c6;&#x7279; GNN)</author>
     </item>
     <item>
       <title><![CDATA[《蓝色星原：旅谣》正式开启公测，玩家发现卡视角BUG可看到角色裙底]]></title>
-      <link>https://qwerwanghao.github.io/gamehot-pages/items/qit3x99zgix30baiazp4riktl</link>
-      <description><![CDATA[<p>蛮啾网络制作、NIJIGEN 代理的奇幻大世界 RPG《蓝色星原：旅谣》已于11月26日正式开启公测，支持 PC、Android、iOS 版。游戏上线后，角色物理晃动效果受到玩家讨论，另有玩家发现卡视角BUG会让视角停留在角色臀部后方角度，触发原因不明，官方暂未表态是否会修正。</p>
-<p>🔗 <a href="https://www.4gamers.com.tw/news/detail/83526/azur-promilia-release">阅读原文</a></p>
-<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/qit3x99zgix30baiazp4riktl">https://qwerwanghao.github.io/gamehot-pages/items/qit3x99zgix30baiazp4riktl</a></p>]]></description>
-      <category>新作与发售</category>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/qit3x99zgix30baiazp4riktl/</link>
+      <description>&lt;p&gt;&#x86ee;&#x557e;&#x7f51;&#x7edc;&#x5236;&#x4f5c;&#x3001;NIJIGEN &#x4ee3;&#x7406;&#x7684;&#x5947;&#x5e7b;&#x5927;&#x4e16;&#x754c; RPG&#x300a;&#x84dd;&#x8272;&#x661f;&#x539f;&#xff1a;&#x65c5;&#x8c23;&#x300b;&#x5df2;&#x4e8e;11&#x6708;26&#x65e5;&#x6b63;&#x5f0f;&#x5f00;&#x542f;&#x516c;&#x6d4b;&#xff0c;&#x652f;&#x6301; PC&#x3001;Android&#x3001;iOS &#x7248;&#x3002;&#x6e38;&#x620f;&#x4e0a;&#x7ebf;&#x540e;&#xff0c;&#x89d2;&#x8272;&#x7269;&#x7406;&#x6643;&#x52a8;&#x6548;&#x679c;&#x53d7;&#x5230;&#x73a9;&#x5bb6;&#x8ba8;&#x8bba;&#xff0c;&#x53e6;&#x6709;&#x73a9;&#x5bb6;&#x53d1;&#x73b0;&#x5361;&#x89c6;&#x89d2;BUG&#x4f1a;&#x8ba9;&#x89c6;&#x89d2;&#x505c;&#x7559;&#x5728;&#x89d2;&#x8272;&#x81c0;&#x90e8;&#x540e;&#x65b9;&#x89d2;&#x5ea6;&#xff0c;&#x89e6;&#x53d1;&#x539f;&#x56e0;&#x4e0d;&#x660e;&#xff0c;&#x5b98;&#x65b9;&#x6682;&#x672a;&#x8868;&#x6001;&#x662f;&#x5426;&#x4f1a;&#x4fee;&#x6b63;&#x3002;&lt;/p&gt;
+&lt;p&gt;&#x1f517; &lt;a href=&quot;https://www.4gamers.com.tw/news/detail/83526/azur-promilia-release&quot;&gt;&#x9605;&#x8bfb;&#x539f;&#x6587;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;via GAMEHOT &#xb7; &lt;a href=&quot;https://qwerwanghao.github.io/gamehot-pages/items/qit3x99zgix30baiazp4riktl/&quot;&gt;https://qwerwanghao.github.io/gamehot-pages/items/qit3x99zgix30baiazp4riktl/&lt;/a&gt;&lt;/p&gt;</description>
+      <category>&#x65b0;&#x4f5c;&#x4e0e;&#x53d1;&#x552e;</category>
       <pubDate>Thu, 26 Nov 2026 10:27:33 GMT</pubDate>
       <guid isPermaLink="false">qit3x99zgix30baiazp4riktl</guid>
       <author>noreply@localhost (4Gamers)</author>
     </item>
     <item>
       <title><![CDATA[恐怖×喜剧新作《恐应研式 恐惧诊断》12 月 1 日登陆 Steam，按诊断结果生成专属关卡]]></title>
-      <link>https://qwerwanghao.github.io/gamehot-pages/items/kfchp7aw0r29dhibinkdw2otx</link>
-      <description><![CDATA[<p>日本独立开发者 Hinan Games 的恐怖×喜剧游戏《恐应研式 恐惧诊断》（AFT Fear Diagnosis）将于 2026 年 12 月 1 日 17:00（台港时间）在 Steam 上市，支持 Windows／Mac。</p>
-<p>🔗 <a href="https://gnn.gamer.com.tw/detail.php?sn=315677">阅读原文</a></p>
-<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/kfchp7aw0r29dhibinkdw2otx">https://qwerwanghao.github.io/gamehot-pages/items/kfchp7aw0r29dhibinkdw2otx</a></p>]]></description>
-      <category>新作与发售</category>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/kfchp7aw0r29dhibinkdw2otx/</link>
+      <description>&lt;p&gt;&#x65e5;&#x672c;&#x72ec;&#x7acb;&#x5f00;&#x53d1;&#x8005; Hinan Games &#x7684;&#x6050;&#x6016;&#xd7;&#x559c;&#x5267;&#x6e38;&#x620f;&#x300a;&#x6050;&#x5e94;&#x7814;&#x5f0f; &#x6050;&#x60e7;&#x8bca;&#x65ad;&#x300b;&#xff08;AFT Fear Diagnosis&#xff09;&#x5c06;&#x4e8e; 2026 &#x5e74; 12 &#x6708; 1 &#x65e5; 17:00&#xff08;&#x53f0;&#x6e2f;&#x65f6;&#x95f4;&#xff09;&#x5728; Steam &#x4e0a;&#x5e02;&#xff0c;&#x652f;&#x6301; Windows&#xff0f;Mac&#x3002;&lt;/p&gt;
+&lt;p&gt;&#x1f517; &lt;a href=&quot;https://gnn.gamer.com.tw/detail.php?sn=315677&quot;&gt;&#x9605;&#x8bfb;&#x539f;&#x6587;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;via GAMEHOT &#xb7; &lt;a href=&quot;https://qwerwanghao.github.io/gamehot-pages/items/kfchp7aw0r29dhibinkdw2otx/&quot;&gt;https://qwerwanghao.github.io/gamehot-pages/items/kfchp7aw0r29dhibinkdw2otx/&lt;/a&gt;&lt;/p&gt;</description>
+      <category>&#x65b0;&#x4f5c;&#x4e0e;&#x53d1;&#x552e;</category>
       <pubDate>Thu, 26 Nov 2026 10:26:50 GMT</pubDate>
       <guid isPermaLink="false">kfchp7aw0r29dhibinkdw2otx</guid>
-      <author>noreply@localhost (巴哈姆特 GNN)</author>
+      <author>noreply@localhost (&#x5df4;&#x54c8;&#x59c6;&#x7279; GNN)</author>
     </item>
     <item>
       <title><![CDATA[Steam免费塔防游戏《I Missed the Apocalypse》2027年1月12日转付费]]></title>
-      <link>https://qwerwanghao.github.io/gamehot-pages/items/y20mnuzle9qpyn59o19n3z9ax</link>
-      <description><![CDATA[<p>像素塔防游戏《I Missed the Apocalypse》（暂译，睡过头的末日）推出最终大型更新，并宣布2027年1月12日起由免费改为付费贩售。开发者Bork One表示，转付费前加入Steam收藏库的玩家之后可继续免费游玩并获得所有更新；本作今年8月免费登陆Steam后获大多好评，续作《I Missed the Apocalypse 2》已在开发中。</p>
-<p>🔗 <a href="https://www.4gamers.com.tw/news/detail/83531/steam-i-missed-the-apocalypse-free-to-paid-january-2027-base-building-survival">阅读原文</a></p>
-<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/y20mnuzle9qpyn59o19n3z9ax">https://qwerwanghao.github.io/gamehot-pages/items/y20mnuzle9qpyn59o19n3z9ax</a></p>]]></description>
-      <category>更新与 DLC</category>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/y20mnuzle9qpyn59o19n3z9ax/</link>
+      <description>&lt;p&gt;&#x50cf;&#x7d20;&#x5854;&#x9632;&#x6e38;&#x620f;&#x300a;I Missed the Apocalypse&#x300b;&#xff08;&#x6682;&#x8bd1;&#xff0c;&#x7761;&#x8fc7;&#x5934;&#x7684;&#x672b;&#x65e5;&#xff09;&#x63a8;&#x51fa;&#x6700;&#x7ec8;&#x5927;&#x578b;&#x66f4;&#x65b0;&#xff0c;&#x5e76;&#x5ba3;&#x5e03;2027&#x5e74;1&#x6708;12&#x65e5;&#x8d77;&#x7531;&#x514d;&#x8d39;&#x6539;&#x4e3a;&#x4ed8;&#x8d39;&#x8d29;&#x552e;&#x3002;&#x5f00;&#x53d1;&#x8005;Bork One&#x8868;&#x793a;&#xff0c;&#x8f6c;&#x4ed8;&#x8d39;&#x524d;&#x52a0;&#x5165;Steam&#x6536;&#x85cf;&#x5e93;&#x7684;&#x73a9;&#x5bb6;&#x4e4b;&#x540e;&#x53ef;&#x7ee7;&#x7eed;&#x514d;&#x8d39;&#x6e38;&#x73a9;&#x5e76;&#x83b7;&#x5f97;&#x6240;&#x6709;&#x66f4;&#x65b0;&#xff1b;&#x672c;&#x4f5c;&#x4eca;&#x5e74;8&#x6708;&#x514d;&#x8d39;&#x767b;&#x9646;Steam&#x540e;&#x83b7;&#x5927;&#x591a;&#x597d;&#x8bc4;&#xff0c;&#x7eed;&#x4f5c;&#x300a;I Missed the Apocalypse 2&#x300b;&#x5df2;&#x5728;&#x5f00;&#x53d1;&#x4e2d;&#x3002;&lt;/p&gt;
+&lt;p&gt;&#x1f517; &lt;a href=&quot;https://www.4gamers.com.tw/news/detail/83531/steam-i-missed-the-apocalypse-free-to-paid-january-2027-base-building-survival&quot;&gt;&#x9605;&#x8bfb;&#x539f;&#x6587;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;via GAMEHOT &#xb7; &lt;a href=&quot;https://qwerwanghao.github.io/gamehot-pages/items/y20mnuzle9qpyn59o19n3z9ax/&quot;&gt;https://qwerwanghao.github.io/gamehot-pages/items/y20mnuzle9qpyn59o19n3z9ax/&lt;/a&gt;&lt;/p&gt;</description>
+      <category>&#x66f4;&#x65b0;&#x4e0e; DLC</category>
       <pubDate>Thu, 26 Nov 2026 10:18:57 GMT</pubDate>
       <guid isPermaLink="false">y20mnuzle9qpyn59o19n3z9ax</guid>
       <author>noreply@localhost (4Gamers)</author>
     </item>
     <item>
       <title><![CDATA[《異於天堂》抢先试玩：左右独立攻防战斗与秀场经营体验，1 月 15 日发售]]></title>
-      <link>https://qwerwanghao.github.io/gamehot-pages/items/a5xe7wxgupld2baw8y4h339pr</link>
-      <description><![CDATA[<p>4Gamers 在 SEGA 举办的抢先体验会上试玩了人中之龙工作室新作《異於天堂》，从 1915 年序章到 1943 年大阪玩了约三小时。战斗采用左右半身由肩键独立控制的攻防系统，节奏接近格斗游戏的立回而非系列惯用的乱斗，并可在轻松玩模式下简化操作。</p>
-<p>🔗 <a href="https://www.4gamers.com.tw/news/detail/83521/stranger-than-heaven-hands-on-preview-combat-music">阅读原文</a></p>
-<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/a5xe7wxgupld2baw8y4h339pr">https://qwerwanghao.github.io/gamehot-pages/items/a5xe7wxgupld2baw8y4h339pr</a></p>]]></description>
-      <category>评测与分析</category>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/a5xe7wxgupld2baw8y4h339pr/</link>
+      <description>&lt;p&gt;4Gamers &#x5728; SEGA &#x4e3e;&#x529e;&#x7684;&#x62a2;&#x5148;&#x4f53;&#x9a8c;&#x4f1a;&#x4e0a;&#x8bd5;&#x73a9;&#x4e86;&#x4eba;&#x4e2d;&#x4e4b;&#x9f99;&#x5de5;&#x4f5c;&#x5ba4;&#x65b0;&#x4f5c;&#x300a;&#x7570;&#x65bc;&#x5929;&#x5802;&#x300b;&#xff0c;&#x4ece; 1915 &#x5e74;&#x5e8f;&#x7ae0;&#x5230; 1943 &#x5e74;&#x5927;&#x962a;&#x73a9;&#x4e86;&#x7ea6;&#x4e09;&#x5c0f;&#x65f6;&#x3002;&#x6218;&#x6597;&#x91c7;&#x7528;&#x5de6;&#x53f3;&#x534a;&#x8eab;&#x7531;&#x80a9;&#x952e;&#x72ec;&#x7acb;&#x63a7;&#x5236;&#x7684;&#x653b;&#x9632;&#x7cfb;&#x7edf;&#xff0c;&#x8282;&#x594f;&#x63a5;&#x8fd1;&#x683c;&#x6597;&#x6e38;&#x620f;&#x7684;&#x7acb;&#x56de;&#x800c;&#x975e;&#x7cfb;&#x5217;&#x60ef;&#x7528;&#x7684;&#x4e71;&#x6597;&#xff0c;&#x5e76;&#x53ef;&#x5728;&#x8f7b;&#x677e;&#x73a9;&#x6a21;&#x5f0f;&#x4e0b;&#x7b80;&#x5316;&#x64cd;&#x4f5c;&#x3002;&lt;/p&gt;
+&lt;p&gt;&#x1f517; &lt;a href=&quot;https://www.4gamers.com.tw/news/detail/83521/stranger-than-heaven-hands-on-preview-combat-music&quot;&gt;&#x9605;&#x8bfb;&#x539f;&#x6587;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;via GAMEHOT &#xb7; &lt;a href=&quot;https://qwerwanghao.github.io/gamehot-pages/items/a5xe7wxgupld2baw8y4h339pr/&quot;&gt;https://qwerwanghao.github.io/gamehot-pages/items/a5xe7wxgupld2baw8y4h339pr/&lt;/a&gt;&lt;/p&gt;</description>
+      <category>&#x8bc4;&#x6d4b;&#x4e0e;&#x5206;&#x6790;</category>
       <pubDate>Thu, 26 Nov 2026 10:18:52 GMT</pubDate>
       <guid isPermaLink="false">a5xe7wxgupld2baw8y4h339pr</guid>
       <author>noreply@localhost (4Gamers)</author>
     </item>
     <item>
       <title><![CDATA[《FreeStyle 2 Classic》台服事前预约开启 卡牌系统仅保留「经典传说卡」]]></title>
-      <link>https://qwerwanghao.github.io/gamehot-pages/items/um9skzzgmdmvolnd283cdtn0p</link>
-      <description><![CDATA[<p>街头篮球游戏《FreeStyle 2 Classic：Street Basketball》今日正式启动台服事前预约。经典服移除「全明星卡」，仅保留「经典传说卡」并将属性由三条精简为两条，另导入「洗卡保底机制」，同时优化角色平衡并剔除过强的花式动作。玩家于官方页面完成预约，开服时可获得花式动作卡、经验值兑换券及台服专属称号，邀请好友预约还有机会抽取游戏好礼与实体大奖。</p>
-<p>🔗 <a href="https://gnn.gamer.com.tw/detail.php?sn=315675">阅读原文</a></p>
-<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/um9skzzgmdmvolnd283cdtn0p">https://qwerwanghao.github.io/gamehot-pages/items/um9skzzgmdmvolnd283cdtn0p</a></p>]]></description>
-      <category>新作与发售</category>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/um9skzzgmdmvolnd283cdtn0p/</link>
+      <description>&lt;p&gt;&#x8857;&#x5934;&#x7bee;&#x7403;&#x6e38;&#x620f;&#x300a;FreeStyle 2 Classic&#xff1a;Street Basketball&#x300b;&#x4eca;&#x65e5;&#x6b63;&#x5f0f;&#x542f;&#x52a8;&#x53f0;&#x670d;&#x4e8b;&#x524d;&#x9884;&#x7ea6;&#x3002;&#x7ecf;&#x5178;&#x670d;&#x79fb;&#x9664;&#x300c;&#x5168;&#x660e;&#x661f;&#x5361;&#x300d;&#xff0c;&#x4ec5;&#x4fdd;&#x7559;&#x300c;&#x7ecf;&#x5178;&#x4f20;&#x8bf4;&#x5361;&#x300d;&#x5e76;&#x5c06;&#x5c5e;&#x6027;&#x7531;&#x4e09;&#x6761;&#x7cbe;&#x7b80;&#x4e3a;&#x4e24;&#x6761;&#xff0c;&#x53e6;&#x5bfc;&#x5165;&#x300c;&#x6d17;&#x5361;&#x4fdd;&#x5e95;&#x673a;&#x5236;&#x300d;&#xff0c;&#x540c;&#x65f6;&#x4f18;&#x5316;&#x89d2;&#x8272;&#x5e73;&#x8861;&#x5e76;&#x5254;&#x9664;&#x8fc7;&#x5f3a;&#x7684;&#x82b1;&#x5f0f;&#x52a8;&#x4f5c;&#x3002;&#x73a9;&#x5bb6;&#x4e8e;&#x5b98;&#x65b9;&#x9875;&#x9762;&#x5b8c;&#x6210;&#x9884;&#x7ea6;&#xff0c;&#x5f00;&#x670d;&#x65f6;&#x53ef;&#x83b7;&#x5f97;&#x82b1;&#x5f0f;&#x52a8;&#x4f5c;&#x5361;&#x3001;&#x7ecf;&#x9a8c;&#x503c;&#x5151;&#x6362;&#x5238;&#x53ca;&#x53f0;&#x670d;&#x4e13;&#x5c5e;&#x79f0;&#x53f7;&#xff0c;&#x9080;&#x8bf7;&#x597d;&#x53cb;&#x9884;&#x7ea6;&#x8fd8;&#x6709;&#x673a;&#x4f1a;&#x62bd;&#x53d6;&#x6e38;&#x620f;&#x597d;&#x793c;&#x4e0e;&#x5b9e;&#x4f53;&#x5927;&#x5956;&#x3002;&lt;/p&gt;
+&lt;p&gt;&#x1f517; &lt;a href=&quot;https://gnn.gamer.com.tw/detail.php?sn=315675&quot;&gt;&#x9605;&#x8bfb;&#x539f;&#x6587;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;via GAMEHOT &#xb7; &lt;a href=&quot;https://qwerwanghao.github.io/gamehot-pages/items/um9skzzgmdmvolnd283cdtn0p/&quot;&gt;https://qwerwanghao.github.io/gamehot-pages/items/um9skzzgmdmvolnd283cdtn0p/&lt;/a&gt;&lt;/p&gt;</description>
+      <category>&#x65b0;&#x4f5c;&#x4e0e;&#x53d1;&#x552e;</category>
       <pubDate>Thu, 26 Nov 2026 10:17:32 GMT</pubDate>
       <guid isPermaLink="false">um9skzzgmdmvolnd283cdtn0p</guid>
-      <author>noreply@localhost (巴哈姆特 GNN)</author>
+      <author>noreply@localhost (&#x5df4;&#x54c8;&#x59c6;&#x7279; GNN)</author>
     </item>
     <item>
       <title><![CDATA[NVIDIA 621.40 驱动仍未修复《决胜时刻：现代战争4》掉帧问题，实测建议回退 617.42]]></title>
-      <link>https://qwerwanghao.github.io/gamehot-pages/items/xpm7wmo6cqu1q64v8wttrw0m6</link>
-      <description><![CDATA[<p>NVIDIA 为修复 SSD 大量写入 Bug 推出的 621.14、621.24 及后续驱动被实测发现导致游戏帧数下降。</p>
-<p>🔗 <a href="https://www.4gamers.com.tw/news/detail/83532/nvidia-ssd-bug-cause-game-performance-drop">阅读原文</a></p>
-<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/xpm7wmo6cqu1q64v8wttrw0m6">https://qwerwanghao.github.io/gamehot-pages/items/xpm7wmo6cqu1q64v8wttrw0m6</a></p>]]></description>
-      <category>评测与分析</category>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/xpm7wmo6cqu1q64v8wttrw0m6/</link>
+      <description>&lt;p&gt;NVIDIA &#x4e3a;&#x4fee;&#x590d; SSD &#x5927;&#x91cf;&#x5199;&#x5165; Bug &#x63a8;&#x51fa;&#x7684; 621.14&#x3001;621.24 &#x53ca;&#x540e;&#x7eed;&#x9a71;&#x52a8;&#x88ab;&#x5b9e;&#x6d4b;&#x53d1;&#x73b0;&#x5bfc;&#x81f4;&#x6e38;&#x620f;&#x5e27;&#x6570;&#x4e0b;&#x964d;&#x3002;&lt;/p&gt;
+&lt;p&gt;&#x1f517; &lt;a href=&quot;https://www.4gamers.com.tw/news/detail/83532/nvidia-ssd-bug-cause-game-performance-drop&quot;&gt;&#x9605;&#x8bfb;&#x539f;&#x6587;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;via GAMEHOT &#xb7; &lt;a href=&quot;https://qwerwanghao.github.io/gamehot-pages/items/xpm7wmo6cqu1q64v8wttrw0m6/&quot;&gt;https://qwerwanghao.github.io/gamehot-pages/items/xpm7wmo6cqu1q64v8wttrw0m6/&lt;/a&gt;&lt;/p&gt;</description>
+      <category>&#x8bc4;&#x6d4b;&#x4e0e;&#x5206;&#x6790;</category>
       <pubDate>Thu, 26 Nov 2026 10:15:23 GMT</pubDate>
       <guid isPermaLink="false">xpm7wmo6cqu1q64v8wttrw0m6</guid>
       <author>noreply@localhost (4Gamers)</author>
     </item>
     <item>
       <title><![CDATA[报道称 Ubisoft 员工提报项目时需说明为何不使用生成式 AI]]></title>
-      <link>https://qwerwanghao.github.io/gamehot-pages/items/i31h0loupzlr5macadny0ytpp</link>
-      <description><![CDATA[<p>据 Vertical Slice 报道，Ubisoft 要求内部团队在提报新项目时说明如何利用生成式 AI 加速制作，不打算使用 AI 的员工须解释理由，否则项目可能无法通过。消息人士称公司并非强制使用，但对 AI 态度“全面投入”，认为其“不可避免”。此事发生在 Ubisoft 关闭工作室和裁员期间，最近裁员 166 人并关闭了 Trials 系列开发商 RedLynx。</p>
-<p>🔗 <a href="https://www.nintendolife.com/news/2026/11/ubisoft-employees-reportedly-need-to-justify-not-using-ai-when-pitching-projects">阅读原文</a></p>
-<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/i31h0loupzlr5macadny0ytpp">https://qwerwanghao.github.io/gamehot-pages/items/i31h0loupzlr5macadny0ytpp</a></p>]]></description>
-      <category>行业动态</category>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/i31h0loupzlr5macadny0ytpp/</link>
+      <description>&lt;p&gt;&#x636e; Vertical Slice &#x62a5;&#x9053;&#xff0c;Ubisoft &#x8981;&#x6c42;&#x5185;&#x90e8;&#x56e2;&#x961f;&#x5728;&#x63d0;&#x62a5;&#x65b0;&#x9879;&#x76ee;&#x65f6;&#x8bf4;&#x660e;&#x5982;&#x4f55;&#x5229;&#x7528;&#x751f;&#x6210;&#x5f0f; AI &#x52a0;&#x901f;&#x5236;&#x4f5c;&#xff0c;&#x4e0d;&#x6253;&#x7b97;&#x4f7f;&#x7528; AI &#x7684;&#x5458;&#x5de5;&#x987b;&#x89e3;&#x91ca;&#x7406;&#x7531;&#xff0c;&#x5426;&#x5219;&#x9879;&#x76ee;&#x53ef;&#x80fd;&#x65e0;&#x6cd5;&#x901a;&#x8fc7;&#x3002;&#x6d88;&#x606f;&#x4eba;&#x58eb;&#x79f0;&#x516c;&#x53f8;&#x5e76;&#x975e;&#x5f3a;&#x5236;&#x4f7f;&#x7528;&#xff0c;&#x4f46;&#x5bf9; AI &#x6001;&#x5ea6;&#x201c;&#x5168;&#x9762;&#x6295;&#x5165;&#x201d;&#xff0c;&#x8ba4;&#x4e3a;&#x5176;&#x201c;&#x4e0d;&#x53ef;&#x907f;&#x514d;&#x201d;&#x3002;&#x6b64;&#x4e8b;&#x53d1;&#x751f;&#x5728; Ubisoft &#x5173;&#x95ed;&#x5de5;&#x4f5c;&#x5ba4;&#x548c;&#x88c1;&#x5458;&#x671f;&#x95f4;&#xff0c;&#x6700;&#x8fd1;&#x88c1;&#x5458; 166 &#x4eba;&#x5e76;&#x5173;&#x95ed;&#x4e86; Trials &#x7cfb;&#x5217;&#x5f00;&#x53d1;&#x5546; RedLynx&#x3002;&lt;/p&gt;
+&lt;p&gt;&#x1f517; &lt;a href=&quot;https://www.nintendolife.com/news/2026/11/ubisoft-employees-reportedly-need-to-justify-not-using-ai-when-pitching-projects&quot;&gt;&#x9605;&#x8bfb;&#x539f;&#x6587;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;via GAMEHOT &#xb7; &lt;a href=&quot;https://qwerwanghao.github.io/gamehot-pages/items/i31h0loupzlr5macadny0ytpp/&quot;&gt;https://qwerwanghao.github.io/gamehot-pages/items/i31h0loupzlr5macadny0ytpp/&lt;/a&gt;&lt;/p&gt;</description>
+      <category>&#x884c;&#x4e1a;&#x52a8;&#x6001;</category>
       <pubDate>Thu, 26 Nov 2026 10:15:00 GMT</pubDate>
       <guid isPermaLink="false">i31h0loupzlr5macadny0ytpp</guid>
       <author>noreply@localhost (Nintendo Life)</author>
     </item>
     <item>
       <title><![CDATA[《漫威争锋》11月26日不停服更新：新地图入侵点、争锋节周年庆与黑五折扣]]></title>
-      <link>https://qwerwanghao.github.io/gamehot-pages/items/y7t7uu9i6gxcmqrzzlrimf6g2</link>
-      <description><![CDATA[<p>《漫威争锋》于2026年11月26日17:00以不停服方式放出更新补丁，加入新地图入侵点，对应18V18时空歼灭模式，PS4因性能限制暂无法开启该玩法。同期开启争锋节2026周年庆与恶灵电玩厅六款街机小游戏，商城上架洛基、猩红女巫、月光骑士等同捆包，黑色星期五折扣活动低至六折，持续至12月1日16:00。</p>
-<p>🔗 <a href="https://store.steampowered.com/news/app/2767030/view/703286102818030278">阅读原文</a></p>
-<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/y7t7uu9i6gxcmqrzzlrimf6g2">https://qwerwanghao.github.io/gamehot-pages/items/y7t7uu9i6gxcmqrzzlrimf6g2</a></p>]]></description>
-      <category>更新与 DLC</category>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/y7t7uu9i6gxcmqrzzlrimf6g2/</link>
+      <description>&lt;p&gt;&#x300a;&#x6f2b;&#x5a01;&#x4e89;&#x950b;&#x300b;&#x4e8e;2026&#x5e74;11&#x6708;26&#x65e5;17:00&#x4ee5;&#x4e0d;&#x505c;&#x670d;&#x65b9;&#x5f0f;&#x653e;&#x51fa;&#x66f4;&#x65b0;&#x8865;&#x4e01;&#xff0c;&#x52a0;&#x5165;&#x65b0;&#x5730;&#x56fe;&#x5165;&#x4fb5;&#x70b9;&#xff0c;&#x5bf9;&#x5e94;18V18&#x65f6;&#x7a7a;&#x6b7c;&#x706d;&#x6a21;&#x5f0f;&#xff0c;PS4&#x56e0;&#x6027;&#x80fd;&#x9650;&#x5236;&#x6682;&#x65e0;&#x6cd5;&#x5f00;&#x542f;&#x8be5;&#x73a9;&#x6cd5;&#x3002;&#x540c;&#x671f;&#x5f00;&#x542f;&#x4e89;&#x950b;&#x8282;2026&#x5468;&#x5e74;&#x5e86;&#x4e0e;&#x6076;&#x7075;&#x7535;&#x73a9;&#x5385;&#x516d;&#x6b3e;&#x8857;&#x673a;&#x5c0f;&#x6e38;&#x620f;&#xff0c;&#x5546;&#x57ce;&#x4e0a;&#x67b6;&#x6d1b;&#x57fa;&#x3001;&#x7329;&#x7ea2;&#x5973;&#x5deb;&#x3001;&#x6708;&#x5149;&#x9a91;&#x58eb;&#x7b49;&#x540c;&#x6346;&#x5305;&#xff0c;&#x9ed1;&#x8272;&#x661f;&#x671f;&#x4e94;&#x6298;&#x6263;&#x6d3b;&#x52a8;&#x4f4e;&#x81f3;&#x516d;&#x6298;&#xff0c;&#x6301;&#x7eed;&#x81f3;12&#x6708;1&#x65e5;16:00&#x3002;&lt;/p&gt;
+&lt;p&gt;&#x1f517; &lt;a href=&quot;https://store.steampowered.com/news/app/2767030/view/703286102818030278&quot;&gt;&#x9605;&#x8bfb;&#x539f;&#x6587;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;via GAMEHOT &#xb7; &lt;a href=&quot;https://qwerwanghao.github.io/gamehot-pages/items/y7t7uu9i6gxcmqrzzlrimf6g2/&quot;&gt;https://qwerwanghao.github.io/gamehot-pages/items/y7t7uu9i6gxcmqrzzlrimf6g2/&lt;/a&gt;&lt;/p&gt;</description>
+      <category>&#x66f4;&#x65b0;&#x4e0e; DLC</category>
       <pubDate>Thu, 26 Nov 2026 10:14:05 GMT</pubDate>
       <guid isPermaLink="false">y7t7uu9i6gxcmqrzzlrimf6g2</guid>
-      <author>noreply@localhost (漫威争锋 官方公告)</author>
+      <author>noreply@localhost (&#x6f2b;&#x5a01;&#x4e89;&#x950b; &#x5b98;&#x65b9;&#x516c;&#x544a;)</author>
     </item>
     <item>
       <title><![CDATA[NEWNORMAL SOFT 公开桌面放置 RPG《AEX: AFK 魅影再临》Steam 页面]]></title>
-      <link>https://qwerwanghao.github.io/gamehot-pages/items/qtuw3osidms6az246g4oq1cd4</link>
-      <description><![CDATA[<p>韩国开发商 NEWNORMAL SOFT 公布了以《魅影再临》世界观打造的桌面放置型回合制 RPG《AEX: AFK 魅影再临》，现已公开 Steam 页面。游戏可放置在屏幕任意角落自动战斗和收集战利品，支持牌组策略、Steam 社群市集交易，还有公会副本和全球竞技场等内容。本作沿用前作主角泽翁与爱丽丝的冒险篇章，采用免费游玩模式。</p>
-<p>🔗 <a href="https://gnn.gamer.com.tw/detail.php?sn=315673">阅读原文</a></p>
-<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/qtuw3osidms6az246g4oq1cd4">https://qwerwanghao.github.io/gamehot-pages/items/qtuw3osidms6az246g4oq1cd4</a></p>]]></description>
-      <category>新作与发售</category>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/qtuw3osidms6az246g4oq1cd4/</link>
+      <description>&lt;p&gt;&#x97e9;&#x56fd;&#x5f00;&#x53d1;&#x5546; NEWNORMAL SOFT &#x516c;&#x5e03;&#x4e86;&#x4ee5;&#x300a;&#x9b45;&#x5f71;&#x518d;&#x4e34;&#x300b;&#x4e16;&#x754c;&#x89c2;&#x6253;&#x9020;&#x7684;&#x684c;&#x9762;&#x653e;&#x7f6e;&#x578b;&#x56de;&#x5408;&#x5236; RPG&#x300a;AEX: AFK &#x9b45;&#x5f71;&#x518d;&#x4e34;&#x300b;&#xff0c;&#x73b0;&#x5df2;&#x516c;&#x5f00; Steam &#x9875;&#x9762;&#x3002;&#x6e38;&#x620f;&#x53ef;&#x653e;&#x7f6e;&#x5728;&#x5c4f;&#x5e55;&#x4efb;&#x610f;&#x89d2;&#x843d;&#x81ea;&#x52a8;&#x6218;&#x6597;&#x548c;&#x6536;&#x96c6;&#x6218;&#x5229;&#x54c1;&#xff0c;&#x652f;&#x6301;&#x724c;&#x7ec4;&#x7b56;&#x7565;&#x3001;Steam &#x793e;&#x7fa4;&#x5e02;&#x96c6;&#x4ea4;&#x6613;&#xff0c;&#x8fd8;&#x6709;&#x516c;&#x4f1a;&#x526f;&#x672c;&#x548c;&#x5168;&#x7403;&#x7ade;&#x6280;&#x573a;&#x7b49;&#x5185;&#x5bb9;&#x3002;&#x672c;&#x4f5c;&#x6cbf;&#x7528;&#x524d;&#x4f5c;&#x4e3b;&#x89d2;&#x6cfd;&#x7fc1;&#x4e0e;&#x7231;&#x4e3d;&#x4e1d;&#x7684;&#x5192;&#x9669;&#x7bc7;&#x7ae0;&#xff0c;&#x91c7;&#x7528;&#x514d;&#x8d39;&#x6e38;&#x73a9;&#x6a21;&#x5f0f;&#x3002;&lt;/p&gt;
+&lt;p&gt;&#x1f517; &lt;a href=&quot;https://gnn.gamer.com.tw/detail.php?sn=315673&quot;&gt;&#x9605;&#x8bfb;&#x539f;&#x6587;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;via GAMEHOT &#xb7; &lt;a href=&quot;https://qwerwanghao.github.io/gamehot-pages/items/qtuw3osidms6az246g4oq1cd4/&quot;&gt;https://qwerwanghao.github.io/gamehot-pages/items/qtuw3osidms6az246g4oq1cd4/&lt;/a&gt;&lt;/p&gt;</description>
+      <category>&#x65b0;&#x4f5c;&#x4e0e;&#x53d1;&#x552e;</category>
       <pubDate>Thu, 26 Nov 2026 10:08:20 GMT</pubDate>
       <guid isPermaLink="false">qtuw3osidms6az246g4oq1cd4</guid>
-      <author>noreply@localhost (巴哈姆特 GNN)</author>
+      <author>noreply@localhost (&#x5df4;&#x54c8;&#x59c6;&#x7279; GNN)</author>
     </item>
     <item>
       <title><![CDATA[AppMagic数据：GTA 6发售一周带动系列手游移植版合计230万下载]]></title>
-      <link>https://qwerwanghao.github.io/gamehot-pages/items/nqmqt7mbde00268cx123vzp6l</link>
-      <description><![CDATA[<p>据AppMagic数据（经PocketGamer），GTA 6破纪录发售后，系列手游移植版在11月16日至22日的合计下载量从59万升至230万，其中GTA: Vice City – Definitive Edition安装量超110万居首。</p>
-<p>🔗 <a href="https://www.gamesindustry.biz/gta-6-launch-drives-combined-23m-downloads-of-franchises-mobile-ports-according-to-appmagic">阅读原文</a></p>
-<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/nqmqt7mbde00268cx123vzp6l">https://qwerwanghao.github.io/gamehot-pages/items/nqmqt7mbde00268cx123vzp6l</a></p>]]></description>
-      <category>评测与分析</category>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/nqmqt7mbde00268cx123vzp6l/</link>
+      <description>&lt;p&gt;&#x636e;AppMagic&#x6570;&#x636e;&#xff08;&#x7ecf;PocketGamer&#xff09;&#xff0c;GTA 6&#x7834;&#x7eaa;&#x5f55;&#x53d1;&#x552e;&#x540e;&#xff0c;&#x7cfb;&#x5217;&#x624b;&#x6e38;&#x79fb;&#x690d;&#x7248;&#x5728;11&#x6708;16&#x65e5;&#x81f3;22&#x65e5;&#x7684;&#x5408;&#x8ba1;&#x4e0b;&#x8f7d;&#x91cf;&#x4ece;59&#x4e07;&#x5347;&#x81f3;230&#x4e07;&#xff0c;&#x5176;&#x4e2d;GTA: Vice City &#x2013; Definitive Edition&#x5b89;&#x88c5;&#x91cf;&#x8d85;110&#x4e07;&#x5c45;&#x9996;&#x3002;&lt;/p&gt;
+&lt;p&gt;&#x1f517; &lt;a href=&quot;https://www.gamesindustry.biz/gta-6-launch-drives-combined-23m-downloads-of-franchises-mobile-ports-according-to-appmagic&quot;&gt;&#x9605;&#x8bfb;&#x539f;&#x6587;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;via GAMEHOT &#xb7; &lt;a href=&quot;https://qwerwanghao.github.io/gamehot-pages/items/nqmqt7mbde00268cx123vzp6l/&quot;&gt;https://qwerwanghao.github.io/gamehot-pages/items/nqmqt7mbde00268cx123vzp6l/&lt;/a&gt;&lt;/p&gt;</description>
+      <category>&#x8bc4;&#x6d4b;&#x4e0e;&#x5206;&#x6790;</category>
       <pubDate>Thu, 26 Nov 2026 10:07:50 GMT</pubDate>
       <guid isPermaLink="false">nqmqt7mbde00268cx123vzp6l</guid>
       <author>noreply@localhost (GamesIndustry.biz)</author>
     </item>
     <item>
       <title><![CDATA[《信喵之野望 天下布喵》公开实机影片并启动台湾地区 Android 封测招募]]></title>
-      <link>https://qwerwanghao.github.io/gamehot-pages/items/qrjz5epdojgoiixlugn7cgxp7</link>
-      <description><![CDATA[<p>Syncjoy Games 公布获 KOEI TECMO GAMES《信喵之野望》IP 授权的手游《信喵之野望 天下布喵》首支实机影片，并开启封测招募网站。测试将于 12 月在台湾地区 Android 平台举行，为限量计费删档测试，每服务器 1500 人额满为止，玩家可通过官网提交邮箱报名。</p>
-<p>🔗 <a href="https://gnn.gamer.com.tw/detail.php?sn=315671">阅读原文</a></p>
-<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/qrjz5epdojgoiixlugn7cgxp7">https://qwerwanghao.github.io/gamehot-pages/items/qrjz5epdojgoiixlugn7cgxp7</a></p>]]></description>
-      <category>新作与发售</category>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/qrjz5epdojgoiixlugn7cgxp7/</link>
+      <description>&lt;p&gt;Syncjoy Games &#x516c;&#x5e03;&#x83b7; KOEI TECMO GAMES&#x300a;&#x4fe1;&#x55b5;&#x4e4b;&#x91ce;&#x671b;&#x300b;IP &#x6388;&#x6743;&#x7684;&#x624b;&#x6e38;&#x300a;&#x4fe1;&#x55b5;&#x4e4b;&#x91ce;&#x671b; &#x5929;&#x4e0b;&#x5e03;&#x55b5;&#x300b;&#x9996;&#x652f;&#x5b9e;&#x673a;&#x5f71;&#x7247;&#xff0c;&#x5e76;&#x5f00;&#x542f;&#x5c01;&#x6d4b;&#x62db;&#x52df;&#x7f51;&#x7ad9;&#x3002;&#x6d4b;&#x8bd5;&#x5c06;&#x4e8e; 12 &#x6708;&#x5728;&#x53f0;&#x6e7e;&#x5730;&#x533a; Android &#x5e73;&#x53f0;&#x4e3e;&#x884c;&#xff0c;&#x4e3a;&#x9650;&#x91cf;&#x8ba1;&#x8d39;&#x5220;&#x6863;&#x6d4b;&#x8bd5;&#xff0c;&#x6bcf;&#x670d;&#x52a1;&#x5668; 1500 &#x4eba;&#x989d;&#x6ee1;&#x4e3a;&#x6b62;&#xff0c;&#x73a9;&#x5bb6;&#x53ef;&#x901a;&#x8fc7;&#x5b98;&#x7f51;&#x63d0;&#x4ea4;&#x90ae;&#x7bb1;&#x62a5;&#x540d;&#x3002;&lt;/p&gt;
+&lt;p&gt;&#x1f517; &lt;a href=&quot;https://gnn.gamer.com.tw/detail.php?sn=315671&quot;&gt;&#x9605;&#x8bfb;&#x539f;&#x6587;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;via GAMEHOT &#xb7; &lt;a href=&quot;https://qwerwanghao.github.io/gamehot-pages/items/qrjz5epdojgoiixlugn7cgxp7/&quot;&gt;https://qwerwanghao.github.io/gamehot-pages/items/qrjz5epdojgoiixlugn7cgxp7/&lt;/a&gt;&lt;/p&gt;</description>
+      <category>&#x65b0;&#x4f5c;&#x4e0e;&#x53d1;&#x552e;</category>
       <pubDate>Thu, 26 Nov 2026 10:02:16 GMT</pubDate>
       <guid isPermaLink="false">qrjz5epdojgoiixlugn7cgxp7</guid>
-      <author>noreply@localhost (巴哈姆特 GNN)</author>
+      <author>noreply@localhost (&#x5df4;&#x54c8;&#x59c6;&#x7279; GNN)</author>
     </item>
     <item>
       <title><![CDATA[NEXON《無冕之燼》公布第四职业「暗夜追踪者」，12 月 4 日开启第二次 Steam 测试]]></title>
-      <link>https://qwerwanghao.github.io/gamehot-pages/items/ein0nyemx8nyfrf6m86ntg3or</link>
-      <description><![CDATA[<p>NEXON 于 11 月 26 日发布《無冕之燼》开发者展示影片，公布 2026 年 12 月 4 日至 12 月 11 日举行第二次 Steam 测试的内容。</p>
-<p>🔗 <a href="https://gnn.gamer.com.tw/detail.php?sn=315668">阅读原文</a></p>
-<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/ein0nyemx8nyfrf6m86ntg3or">https://qwerwanghao.github.io/gamehot-pages/items/ein0nyemx8nyfrf6m86ntg3or</a></p>]]></description>
-      <category>新作与发售</category>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/ein0nyemx8nyfrf6m86ntg3or/</link>
+      <description>&lt;p&gt;NEXON &#x4e8e; 11 &#x6708; 26 &#x65e5;&#x53d1;&#x5e03;&#x300a;&#x7121;&#x5195;&#x4e4b;&#x71fc;&#x300b;&#x5f00;&#x53d1;&#x8005;&#x5c55;&#x793a;&#x5f71;&#x7247;&#xff0c;&#x516c;&#x5e03; 2026 &#x5e74; 12 &#x6708; 4 &#x65e5;&#x81f3; 12 &#x6708; 11 &#x65e5;&#x4e3e;&#x884c;&#x7b2c;&#x4e8c;&#x6b21; Steam &#x6d4b;&#x8bd5;&#x7684;&#x5185;&#x5bb9;&#x3002;&lt;/p&gt;
+&lt;p&gt;&#x1f517; &lt;a href=&quot;https://gnn.gamer.com.tw/detail.php?sn=315668&quot;&gt;&#x9605;&#x8bfb;&#x539f;&#x6587;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;via GAMEHOT &#xb7; &lt;a href=&quot;https://qwerwanghao.github.io/gamehot-pages/items/ein0nyemx8nyfrf6m86ntg3or/&quot;&gt;https://qwerwanghao.github.io/gamehot-pages/items/ein0nyemx8nyfrf6m86ntg3or/&lt;/a&gt;&lt;/p&gt;</description>
+      <category>&#x65b0;&#x4f5c;&#x4e0e;&#x53d1;&#x552e;</category>
       <pubDate>Thu, 26 Nov 2026 09:49:47 GMT</pubDate>
       <guid isPermaLink="false">ein0nyemx8nyfrf6m86ntg3or</guid>
-      <author>noreply@localhost (巴哈姆特 GNN)</author>
+      <author>noreply@localhost (&#x5df4;&#x54c8;&#x59c6;&#x7279; GNN)</author>
     </item>
     <item>
       <title><![CDATA[GTA 6 发售前美国 PS5 销量同比增2.4倍，Xbox 系列主机增2.3倍]]></title>
-      <link>https://qwerwanghao.github.io/gamehot-pages/items/e8ltl8wl3tfd29mjz6szfg06j</link>
-      <description><![CDATA[<p>据 Circana 分析师 Mat Piscatella 的零售追踪数据，在截至11月14日的一周，美国 PS5 主机销量同比去年同期增长2.4倍，Xbox Series S/X 增长2.3倍，均远高于当前更高定价下的平日水平。</p>
-<p>🔗 <a href="https://www.eurogamer.net/playstation-5-xbox-series-s-x-console-hardware-sales-gta-6">阅读原文</a></p>
-<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/e8ltl8wl3tfd29mjz6szfg06j">https://qwerwanghao.github.io/gamehot-pages/items/e8ltl8wl3tfd29mjz6szfg06j</a></p>]]></description>
-      <category>行业动态</category>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/e8ltl8wl3tfd29mjz6szfg06j/</link>
+      <description>&lt;p&gt;&#x636e; Circana &#x5206;&#x6790;&#x5e08; Mat Piscatella &#x7684;&#x96f6;&#x552e;&#x8ffd;&#x8e2a;&#x6570;&#x636e;&#xff0c;&#x5728;&#x622a;&#x81f3;11&#x6708;14&#x65e5;&#x7684;&#x4e00;&#x5468;&#xff0c;&#x7f8e;&#x56fd; PS5 &#x4e3b;&#x673a;&#x9500;&#x91cf;&#x540c;&#x6bd4;&#x53bb;&#x5e74;&#x540c;&#x671f;&#x589e;&#x957f;2.4&#x500d;&#xff0c;Xbox Series S/X &#x589e;&#x957f;2.3&#x500d;&#xff0c;&#x5747;&#x8fdc;&#x9ad8;&#x4e8e;&#x5f53;&#x524d;&#x66f4;&#x9ad8;&#x5b9a;&#x4ef7;&#x4e0b;&#x7684;&#x5e73;&#x65e5;&#x6c34;&#x5e73;&#x3002;&lt;/p&gt;
+&lt;p&gt;&#x1f517; &lt;a href=&quot;https://www.eurogamer.net/playstation-5-xbox-series-s-x-console-hardware-sales-gta-6&quot;&gt;&#x9605;&#x8bfb;&#x539f;&#x6587;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;via GAMEHOT &#xb7; &lt;a href=&quot;https://qwerwanghao.github.io/gamehot-pages/items/e8ltl8wl3tfd29mjz6szfg06j/&quot;&gt;https://qwerwanghao.github.io/gamehot-pages/items/e8ltl8wl3tfd29mjz6szfg06j/&lt;/a&gt;&lt;/p&gt;</description>
+      <category>&#x884c;&#x4e1a;&#x52a8;&#x6001;</category>
       <pubDate>Thu, 26 Nov 2026 09:40:10 GMT</pubDate>
       <guid isPermaLink="false">e8ltl8wl3tfd29mjz6szfg06j</guid>
       <author>noreply@localhost (Eurogamer)</author>
     </item>
     <item>
       <title><![CDATA[《决胜时刻：现代战争 4》加入黑色星期五优惠 宝库版与标准版限时 85 折]]></title>
-      <link>https://qwerwanghao.github.io/gamehot-pages/items/b3946w2etoke6b08p357fj8pp</link>
-      <description><![CDATA[<p>《决胜时刻：现代战争 4》即日起至 12 月 2 日凌晨 2 时推出黑色星期五优惠，宝库版与标准版以 85 折发售。优惠涵盖 Xbox Series X|S、Xbox PC 版、PlayStation 5、Battle.net、Steam 和 Nintendo Switch 2 平台。宝库版额外包含敌对同盟组合包、5 款独家武器、1 个赛季的黑影部队战争通行证及 DMZ 部署奖励等内容。</p>
-<p>🔗 <a href="https://gnn.gamer.com.tw/detail.php?sn=315666">阅读原文</a></p>
-<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/b3946w2etoke6b08p357fj8pp">https://qwerwanghao.github.io/gamehot-pages/items/b3946w2etoke6b08p357fj8pp</a></p>]]></description>
-      <category>平台与硬件</category>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/b3946w2etoke6b08p357fj8pp/</link>
+      <description>&lt;p&gt;&#x300a;&#x51b3;&#x80dc;&#x65f6;&#x523b;&#xff1a;&#x73b0;&#x4ee3;&#x6218;&#x4e89; 4&#x300b;&#x5373;&#x65e5;&#x8d77;&#x81f3; 12 &#x6708; 2 &#x65e5;&#x51cc;&#x6668; 2 &#x65f6;&#x63a8;&#x51fa;&#x9ed1;&#x8272;&#x661f;&#x671f;&#x4e94;&#x4f18;&#x60e0;&#xff0c;&#x5b9d;&#x5e93;&#x7248;&#x4e0e;&#x6807;&#x51c6;&#x7248;&#x4ee5; 85 &#x6298;&#x53d1;&#x552e;&#x3002;&#x4f18;&#x60e0;&#x6db5;&#x76d6; Xbox Series X|S&#x3001;Xbox PC &#x7248;&#x3001;PlayStation 5&#x3001;Battle.net&#x3001;Steam &#x548c; Nintendo Switch 2 &#x5e73;&#x53f0;&#x3002;&#x5b9d;&#x5e93;&#x7248;&#x989d;&#x5916;&#x5305;&#x542b;&#x654c;&#x5bf9;&#x540c;&#x76df;&#x7ec4;&#x5408;&#x5305;&#x3001;5 &#x6b3e;&#x72ec;&#x5bb6;&#x6b66;&#x5668;&#x3001;1 &#x4e2a;&#x8d5b;&#x5b63;&#x7684;&#x9ed1;&#x5f71;&#x90e8;&#x961f;&#x6218;&#x4e89;&#x901a;&#x884c;&#x8bc1;&#x53ca; DMZ &#x90e8;&#x7f72;&#x5956;&#x52b1;&#x7b49;&#x5185;&#x5bb9;&#x3002;&lt;/p&gt;
+&lt;p&gt;&#x1f517; &lt;a href=&quot;https://gnn.gamer.com.tw/detail.php?sn=315666&quot;&gt;&#x9605;&#x8bfb;&#x539f;&#x6587;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;via GAMEHOT &#xb7; &lt;a href=&quot;https://qwerwanghao.github.io/gamehot-pages/items/b3946w2etoke6b08p357fj8pp/&quot;&gt;https://qwerwanghao.github.io/gamehot-pages/items/b3946w2etoke6b08p357fj8pp/&lt;/a&gt;&lt;/p&gt;</description>
+      <category>&#x5e73;&#x53f0;&#x4e0e;&#x786c;&#x4ef6;</category>
       <pubDate>Thu, 26 Nov 2026 09:36:57 GMT</pubDate>
       <guid isPermaLink="false">b3946w2etoke6b08p357fj8pp</guid>
-      <author>noreply@localhost (巴哈姆特 GNN)</author>
+      <author>noreply@localhost (&#x5df4;&#x54c8;&#x59c6;&#x7279; GNN)</author>
     </item>
     <item>
       <title><![CDATA[《龍族拼圖》×《魔法少女小圓》聯動明日展開 穿上人氣怪獸服裝的鹿目圓、曉美焰登場]]></title>
-      <link>https://qwerwanghao.github.io/gamehot-pages/items/s1rplcdxdyc6kp3knhq7nqwag</link>
-      <description><![CDATA[<p>GungHo 宣布《龍族拼圖》（iOS / Android）与《魔法少女小圆》联动将于 2026 年 11 月 27 日 10:00 至 12 月 5 日 9:59（UTC+9）展开。</p>
-<p>🔗 <a href="https://gnn.gamer.com.tw/detail.php?sn=315665">阅读原文</a></p>
-<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/s1rplcdxdyc6kp3knhq7nqwag">https://qwerwanghao.github.io/gamehot-pages/items/s1rplcdxdyc6kp3knhq7nqwag</a></p>]]></description>
-      <category>更新与 DLC</category>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/s1rplcdxdyc6kp3knhq7nqwag/</link>
+      <description>&lt;p&gt;GungHo &#x5ba3;&#x5e03;&#x300a;&#x9f8d;&#x65cf;&#x62fc;&#x5716;&#x300b;&#xff08;iOS / Android&#xff09;&#x4e0e;&#x300a;&#x9b54;&#x6cd5;&#x5c11;&#x5973;&#x5c0f;&#x5706;&#x300b;&#x8054;&#x52a8;&#x5c06;&#x4e8e; 2026 &#x5e74; 11 &#x6708; 27 &#x65e5; 10:00 &#x81f3; 12 &#x6708; 5 &#x65e5; 9:59&#xff08;UTC+9&#xff09;&#x5c55;&#x5f00;&#x3002;&lt;/p&gt;
+&lt;p&gt;&#x1f517; &lt;a href=&quot;https://gnn.gamer.com.tw/detail.php?sn=315665&quot;&gt;&#x9605;&#x8bfb;&#x539f;&#x6587;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;via GAMEHOT &#xb7; &lt;a href=&quot;https://qwerwanghao.github.io/gamehot-pages/items/s1rplcdxdyc6kp3knhq7nqwag/&quot;&gt;https://qwerwanghao.github.io/gamehot-pages/items/s1rplcdxdyc6kp3knhq7nqwag/&lt;/a&gt;&lt;/p&gt;</description>
+      <category>&#x66f4;&#x65b0;&#x4e0e; DLC</category>
       <pubDate>Thu, 26 Nov 2026 09:36:15 GMT</pubDate>
       <guid isPermaLink="false">s1rplcdxdyc6kp3knhq7nqwag</guid>
-      <author>noreply@localhost (巴哈姆特 GNN)</author>
+      <author>noreply@localhost (&#x5df4;&#x54c8;&#x59c6;&#x7279; GNN)</author>
     </item>
     <item>
       <title><![CDATA[《奥丁：神叛》海姆达尔伺服器据点占领战开放，黑色星期五庆典与黑铁锻造活动登场]]></title>
-      <link>https://qwerwanghao.github.io/gamehot-pages/items/l221gb1q4z09x6ihl1gbhk98h</link>
-      <description><![CDATA[<p>Kakao Games 旗下 MMORPG《奥丁：神叛》今日推出多项活动。全新伺服器「海姆达尔」已于 11 月 19 日开放据点占领战，公会将争夺约顿海姆等多个大陆的据点，每月 1 日重置赛季；「黑铁的锻造炉」21 日签到与「矮人的铁匠铺」兑换于 11 月 26 日至 12 月 24 日进行。</p>
-<p>🔗 <a href="https://gnn.gamer.com.tw/detail.php?sn=315664">阅读原文</a></p>
-<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/l221gb1q4z09x6ihl1gbhk98h">https://qwerwanghao.github.io/gamehot-pages/items/l221gb1q4z09x6ihl1gbhk98h</a></p>]]></description>
-      <category>更新与 DLC</category>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/l221gb1q4z09x6ihl1gbhk98h/</link>
+      <description>&lt;p&gt;Kakao Games &#x65d7;&#x4e0b; MMORPG&#x300a;&#x5965;&#x4e01;&#xff1a;&#x795e;&#x53db;&#x300b;&#x4eca;&#x65e5;&#x63a8;&#x51fa;&#x591a;&#x9879;&#x6d3b;&#x52a8;&#x3002;&#x5168;&#x65b0;&#x4f3a;&#x670d;&#x5668;&#x300c;&#x6d77;&#x59c6;&#x8fbe;&#x5c14;&#x300d;&#x5df2;&#x4e8e; 11 &#x6708; 19 &#x65e5;&#x5f00;&#x653e;&#x636e;&#x70b9;&#x5360;&#x9886;&#x6218;&#xff0c;&#x516c;&#x4f1a;&#x5c06;&#x4e89;&#x593a;&#x7ea6;&#x987f;&#x6d77;&#x59c6;&#x7b49;&#x591a;&#x4e2a;&#x5927;&#x9646;&#x7684;&#x636e;&#x70b9;&#xff0c;&#x6bcf;&#x6708; 1 &#x65e5;&#x91cd;&#x7f6e;&#x8d5b;&#x5b63;&#xff1b;&#x300c;&#x9ed1;&#x94c1;&#x7684;&#x953b;&#x9020;&#x7089;&#x300d;21 &#x65e5;&#x7b7e;&#x5230;&#x4e0e;&#x300c;&#x77ee;&#x4eba;&#x7684;&#x94c1;&#x5320;&#x94fa;&#x300d;&#x5151;&#x6362;&#x4e8e; 11 &#x6708; 26 &#x65e5;&#x81f3; 12 &#x6708; 24 &#x65e5;&#x8fdb;&#x884c;&#x3002;&lt;/p&gt;
+&lt;p&gt;&#x1f517; &lt;a href=&quot;https://gnn.gamer.com.tw/detail.php?sn=315664&quot;&gt;&#x9605;&#x8bfb;&#x539f;&#x6587;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;via GAMEHOT &#xb7; &lt;a href=&quot;https://qwerwanghao.github.io/gamehot-pages/items/l221gb1q4z09x6ihl1gbhk98h/&quot;&gt;https://qwerwanghao.github.io/gamehot-pages/items/l221gb1q4z09x6ihl1gbhk98h/&lt;/a&gt;&lt;/p&gt;</description>
+      <category>&#x66f4;&#x65b0;&#x4e0e; DLC</category>
       <pubDate>Thu, 26 Nov 2026 09:33:41 GMT</pubDate>
       <guid isPermaLink="false">l221gb1q4z09x6ihl1gbhk98h</guid>
-      <author>noreply@localhost (巴哈姆特 GNN)</author>
+      <author>noreply@localhost (&#x5df4;&#x54c8;&#x59c6;&#x7279; GNN)</author>
     </item>
     <item>
       <title><![CDATA[《勇者鬥惡龍 怪物仙境 4》公开最终宣传影片 12 月 3 日多平台发售]]></title>
-      <link>https://qwerwanghao.github.io/gamehot-pages/items/sodyrcomhwr8uc4kwr4vkw4z0</link>
-      <description><![CDATA[<p>SQUARE ENIX 为预定 12 月 3 日发售的《勇者鬥惡龍 怪物仙境 4 枯木國的碧安卡與芙蘿拉》公开最终宣传影片，Steam 版则预定 12 月 4 日发售。游戏登陆 Nintendo Switch、PS5、Xbox Series X|S、Xbox on PC 与 Steam，并提供多种版本及追加 DLC，巴哈姆特商店中文一般版预购价 NT$1490。</p>
-<p>🔗 <a href="https://gnn.gamer.com.tw/detail.php?sn=315662">阅读原文</a></p>
-<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/sodyrcomhwr8uc4kwr4vkw4z0">https://qwerwanghao.github.io/gamehot-pages/items/sodyrcomhwr8uc4kwr4vkw4z0</a></p>]]></description>
-      <category>新作与发售</category>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/sodyrcomhwr8uc4kwr4vkw4z0/</link>
+      <description>&lt;p&gt;SQUARE ENIX &#x4e3a;&#x9884;&#x5b9a; 12 &#x6708; 3 &#x65e5;&#x53d1;&#x552e;&#x7684;&#x300a;&#x52c7;&#x8005;&#x9b25;&#x60e1;&#x9f8d; &#x602a;&#x7269;&#x4ed9;&#x5883; 4 &#x67af;&#x6728;&#x570b;&#x7684;&#x78a7;&#x5b89;&#x5361;&#x8207;&#x8299;&#x863f;&#x62c9;&#x300b;&#x516c;&#x5f00;&#x6700;&#x7ec8;&#x5ba3;&#x4f20;&#x5f71;&#x7247;&#xff0c;Steam &#x7248;&#x5219;&#x9884;&#x5b9a; 12 &#x6708; 4 &#x65e5;&#x53d1;&#x552e;&#x3002;&#x6e38;&#x620f;&#x767b;&#x9646; Nintendo Switch&#x3001;PS5&#x3001;Xbox Series X|S&#x3001;Xbox on PC &#x4e0e; Steam&#xff0c;&#x5e76;&#x63d0;&#x4f9b;&#x591a;&#x79cd;&#x7248;&#x672c;&#x53ca;&#x8ffd;&#x52a0; DLC&#xff0c;&#x5df4;&#x54c8;&#x59c6;&#x7279;&#x5546;&#x5e97;&#x4e2d;&#x6587;&#x4e00;&#x822c;&#x7248;&#x9884;&#x8d2d;&#x4ef7; NT&#x24;1490&#x3002;&lt;/p&gt;
+&lt;p&gt;&#x1f517; &lt;a href=&quot;https://gnn.gamer.com.tw/detail.php?sn=315662&quot;&gt;&#x9605;&#x8bfb;&#x539f;&#x6587;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;via GAMEHOT &#xb7; &lt;a href=&quot;https://qwerwanghao.github.io/gamehot-pages/items/sodyrcomhwr8uc4kwr4vkw4z0/&quot;&gt;https://qwerwanghao.github.io/gamehot-pages/items/sodyrcomhwr8uc4kwr4vkw4z0/&lt;/a&gt;&lt;/p&gt;</description>
+      <category>&#x65b0;&#x4f5c;&#x4e0e;&#x53d1;&#x552e;</category>
       <pubDate>Thu, 26 Nov 2026 09:27:09 GMT</pubDate>
       <guid isPermaLink="false">sodyrcomhwr8uc4kwr4vkw4z0</guid>
-      <author>noreply@localhost (巴哈姆特 GNN)</author>
+      <author>noreply@localhost (&#x5df4;&#x54c8;&#x59c6;&#x7279; GNN)</author>
     </item>
     <item>
       <title><![CDATA[《Ruins to Fortress》预告12月15日脱离抢先体验转付费，限期领取可永久免费]]></title>
-      <link>https://qwerwanghao.github.io/gamehot-pages/items/xo1k9aqkssmmi64t2bf52jfdo</link>
-      <description><![CDATA[<p>两名独立开发者打造的2D像素开放世界生存游戏《Ruins to Fortress》预告12月15日推出1.0正式版并从免费转为付费，支持简体中文，期限前领取的玩家可继续免费游玩，外观DLC「Survivor&apos;s Pack」维持独立贩售。</p>
-<p>🔗 <a href="https://www.4gamers.com.tw/news/detail/83530/steam-ruins-to-fortress-leaves-early-access-free-to-paid-1-0-release">阅读原文</a></p>
-<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/xo1k9aqkssmmi64t2bf52jfdo">https://qwerwanghao.github.io/gamehot-pages/items/xo1k9aqkssmmi64t2bf52jfdo</a></p>]]></description>
-      <category>新作与发售</category>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/xo1k9aqkssmmi64t2bf52jfdo/</link>
+      <description>&lt;p&gt;&#x4e24;&#x540d;&#x72ec;&#x7acb;&#x5f00;&#x53d1;&#x8005;&#x6253;&#x9020;&#x7684;2D&#x50cf;&#x7d20;&#x5f00;&#x653e;&#x4e16;&#x754c;&#x751f;&#x5b58;&#x6e38;&#x620f;&#x300a;Ruins to Fortress&#x300b;&#x9884;&#x544a;12&#x6708;15&#x65e5;&#x63a8;&#x51fa;1.0&#x6b63;&#x5f0f;&#x7248;&#x5e76;&#x4ece;&#x514d;&#x8d39;&#x8f6c;&#x4e3a;&#x4ed8;&#x8d39;&#xff0c;&#x652f;&#x6301;&#x7b80;&#x4f53;&#x4e2d;&#x6587;&#xff0c;&#x671f;&#x9650;&#x524d;&#x9886;&#x53d6;&#x7684;&#x73a9;&#x5bb6;&#x53ef;&#x7ee7;&#x7eed;&#x514d;&#x8d39;&#x6e38;&#x73a9;&#xff0c;&#x5916;&#x89c2;DLC&#x300c;Survivor&apos;s Pack&#x300d;&#x7ef4;&#x6301;&#x72ec;&#x7acb;&#x8d29;&#x552e;&#x3002;&lt;/p&gt;
+&lt;p&gt;&#x1f517; &lt;a href=&quot;https://www.4gamers.com.tw/news/detail/83530/steam-ruins-to-fortress-leaves-early-access-free-to-paid-1-0-release&quot;&gt;&#x9605;&#x8bfb;&#x539f;&#x6587;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;via GAMEHOT &#xb7; &lt;a href=&quot;https://qwerwanghao.github.io/gamehot-pages/items/xo1k9aqkssmmi64t2bf52jfdo/&quot;&gt;https://qwerwanghao.github.io/gamehot-pages/items/xo1k9aqkssmmi64t2bf52jfdo/&lt;/a&gt;&lt;/p&gt;</description>
+      <category>&#x65b0;&#x4f5c;&#x4e0e;&#x53d1;&#x552e;</category>
       <pubDate>Thu, 26 Nov 2026 09:24:34 GMT</pubDate>
       <guid isPermaLink="false">xo1k9aqkssmmi64t2bf52jfdo</guid>
       <author>noreply@localhost (4Gamers)</author>
     </item>
     <item>
       <title><![CDATA[《永恒之光》宣布 12 月 4 日发售不再延期，可能与《空洞骑士：丝之歌》DLC「悲伤之海」撞期]]></title>
-      <link>https://qwerwanghao.github.io/gamehot-pages/items/iwzsm0itfe2znvm5xhxz6b8om</link>
-      <description><![CDATA[<p>开发商 Aeternum Game Studios 发幽默声明，确认《永恒之光》将按原计划于 12 月 4 日发售，不再因《空洞骑士：丝之歌》延期。该作去年曾为避开《丝之歌》而推迟上市，如今《丝之歌》新内容「悲伤之海」预告即将揭露，团队表示若撞期，赢家将是类银河战士恶魔城粉丝。</p>
-<p>🔗 <a href="https://gnn.gamer.com.tw/detail.php?sn=315659">阅读原文</a></p>
-<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/iwzsm0itfe2znvm5xhxz6b8om">https://qwerwanghao.github.io/gamehot-pages/items/iwzsm0itfe2znvm5xhxz6b8om</a></p>]]></description>
-      <category>新作与发售</category>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/iwzsm0itfe2znvm5xhxz6b8om/</link>
+      <description>&lt;p&gt;&#x5f00;&#x53d1;&#x5546; Aeternum Game Studios &#x53d1;&#x5e7d;&#x9ed8;&#x58f0;&#x660e;&#xff0c;&#x786e;&#x8ba4;&#x300a;&#x6c38;&#x6052;&#x4e4b;&#x5149;&#x300b;&#x5c06;&#x6309;&#x539f;&#x8ba1;&#x5212;&#x4e8e; 12 &#x6708; 4 &#x65e5;&#x53d1;&#x552e;&#xff0c;&#x4e0d;&#x518d;&#x56e0;&#x300a;&#x7a7a;&#x6d1e;&#x9a91;&#x58eb;&#xff1a;&#x4e1d;&#x4e4b;&#x6b4c;&#x300b;&#x5ef6;&#x671f;&#x3002;&#x8be5;&#x4f5c;&#x53bb;&#x5e74;&#x66fe;&#x4e3a;&#x907f;&#x5f00;&#x300a;&#x4e1d;&#x4e4b;&#x6b4c;&#x300b;&#x800c;&#x63a8;&#x8fdf;&#x4e0a;&#x5e02;&#xff0c;&#x5982;&#x4eca;&#x300a;&#x4e1d;&#x4e4b;&#x6b4c;&#x300b;&#x65b0;&#x5185;&#x5bb9;&#x300c;&#x60b2;&#x4f24;&#x4e4b;&#x6d77;&#x300d;&#x9884;&#x544a;&#x5373;&#x5c06;&#x63ed;&#x9732;&#xff0c;&#x56e2;&#x961f;&#x8868;&#x793a;&#x82e5;&#x649e;&#x671f;&#xff0c;&#x8d62;&#x5bb6;&#x5c06;&#x662f;&#x7c7b;&#x94f6;&#x6cb3;&#x6218;&#x58eb;&#x6076;&#x9b54;&#x57ce;&#x7c89;&#x4e1d;&#x3002;&lt;/p&gt;
+&lt;p&gt;&#x1f517; &lt;a href=&quot;https://gnn.gamer.com.tw/detail.php?sn=315659&quot;&gt;&#x9605;&#x8bfb;&#x539f;&#x6587;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;via GAMEHOT &#xb7; &lt;a href=&quot;https://qwerwanghao.github.io/gamehot-pages/items/iwzsm0itfe2znvm5xhxz6b8om/&quot;&gt;https://qwerwanghao.github.io/gamehot-pages/items/iwzsm0itfe2znvm5xhxz6b8om/&lt;/a&gt;&lt;/p&gt;</description>
+      <category>&#x65b0;&#x4f5c;&#x4e0e;&#x53d1;&#x552e;</category>
       <pubDate>Thu, 26 Nov 2026 09:18:07 GMT</pubDate>
       <guid isPermaLink="false">iwzsm0itfe2znvm5xhxz6b8om</guid>
-      <author>noreply@localhost (巴哈姆特 GNN)</author>
+      <author>noreply@localhost (&#x5df4;&#x54c8;&#x59c6;&#x7279; GNN)</author>
     </item>
     <item>
       <title><![CDATA[《瑪利歐賽車世界》发布 Ver.1.9.0 免费更新，新增8条重编排赛道与2条生存赛路线]]></title>
-      <link>https://qwerwanghao.github.io/gamehot-pages/items/fubfsvv8j22m7v73dq8m7gm8c</link>
-      <description><![CDATA[<p>任天堂为 Nintendo Switch 2 游戏《瑪利歐賽車世界》发布 Ver.1.9.0 免费更新，包含8条重新编排的既有赛道，如「瑪利歐兄弟 賽道 2」「DK 雪山 2」「嘿呵嘉年華 2」等。生存赛新增「羽毛拉力賽」和「招財貓拉力賽」2条路线，通过任一拉力赛即可选择新路线上；菜单画面还新增「重播」功能，可保存并重温最近的比赛或对战记录，超出存储上限会从最旧记录开始删除。</p>
-<p>🔗 <a href="https://gnn.gamer.com.tw/detail.php?sn=315658">阅读原文</a></p>
-<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/fubfsvv8j22m7v73dq8m7gm8c">https://qwerwanghao.github.io/gamehot-pages/items/fubfsvv8j22m7v73dq8m7gm8c</a></p>]]></description>
-      <category>更新与 DLC</category>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/fubfsvv8j22m7v73dq8m7gm8c/</link>
+      <description>&lt;p&gt;&#x4efb;&#x5929;&#x5802;&#x4e3a; Nintendo Switch 2 &#x6e38;&#x620f;&#x300a;&#x746a;&#x5229;&#x6b50;&#x8cfd;&#x8eca;&#x4e16;&#x754c;&#x300b;&#x53d1;&#x5e03; Ver.1.9.0 &#x514d;&#x8d39;&#x66f4;&#x65b0;&#xff0c;&#x5305;&#x542b;8&#x6761;&#x91cd;&#x65b0;&#x7f16;&#x6392;&#x7684;&#x65e2;&#x6709;&#x8d5b;&#x9053;&#xff0c;&#x5982;&#x300c;&#x746a;&#x5229;&#x6b50;&#x5144;&#x5f1f; &#x8cfd;&#x9053; 2&#x300d;&#x300c;DK &#x96ea;&#x5c71; 2&#x300d;&#x300c;&#x563f;&#x5475;&#x5609;&#x5e74;&#x83ef; 2&#x300d;&#x7b49;&#x3002;&#x751f;&#x5b58;&#x8d5b;&#x65b0;&#x589e;&#x300c;&#x7fbd;&#x6bdb;&#x62c9;&#x529b;&#x8cfd;&#x300d;&#x548c;&#x300c;&#x62db;&#x8ca1;&#x8c93;&#x62c9;&#x529b;&#x8cfd;&#x300d;2&#x6761;&#x8def;&#x7ebf;&#xff0c;&#x901a;&#x8fc7;&#x4efb;&#x4e00;&#x62c9;&#x529b;&#x8d5b;&#x5373;&#x53ef;&#x9009;&#x62e9;&#x65b0;&#x8def;&#x7ebf;&#x4e0a;&#xff1b;&#x83dc;&#x5355;&#x753b;&#x9762;&#x8fd8;&#x65b0;&#x589e;&#x300c;&#x91cd;&#x64ad;&#x300d;&#x529f;&#x80fd;&#xff0c;&#x53ef;&#x4fdd;&#x5b58;&#x5e76;&#x91cd;&#x6e29;&#x6700;&#x8fd1;&#x7684;&#x6bd4;&#x8d5b;&#x6216;&#x5bf9;&#x6218;&#x8bb0;&#x5f55;&#xff0c;&#x8d85;&#x51fa;&#x5b58;&#x50a8;&#x4e0a;&#x9650;&#x4f1a;&#x4ece;&#x6700;&#x65e7;&#x8bb0;&#x5f55;&#x5f00;&#x59cb;&#x5220;&#x9664;&#x3002;&lt;/p&gt;
+&lt;p&gt;&#x1f517; &lt;a href=&quot;https://gnn.gamer.com.tw/detail.php?sn=315658&quot;&gt;&#x9605;&#x8bfb;&#x539f;&#x6587;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;via GAMEHOT &#xb7; &lt;a href=&quot;https://qwerwanghao.github.io/gamehot-pages/items/fubfsvv8j22m7v73dq8m7gm8c/&quot;&gt;https://qwerwanghao.github.io/gamehot-pages/items/fubfsvv8j22m7v73dq8m7gm8c/&lt;/a&gt;&lt;/p&gt;</description>
+      <category>&#x66f4;&#x65b0;&#x4e0e; DLC</category>
       <pubDate>Thu, 26 Nov 2026 09:16:17 GMT</pubDate>
       <guid isPermaLink="false">fubfsvv8j22m7v73dq8m7gm8c</guid>
-      <author>noreply@localhost (巴哈姆特 GNN)</author>
+      <author>noreply@localhost (&#x5df4;&#x54c8;&#x59c6;&#x7279; GNN)</author>
     </item>
     <item>
       <title><![CDATA[《晶核》感恩节版本上线 团本「永罚霜狱」传奇模式开启并推出雪域风行时装]]></title>
-      <link>https://qwerwanghao.github.io/gamehot-pages/items/uhge68h4gimu82xt2c0u21onx</link>
-      <description><![CDATA[<p>《晶核》于11月26日维护后开启感恩节版本，80级团本「永罚霜狱」新增传奇模式，敌人强度全面升级，通关者可按用时登上本服或互通服排行榜。竞速活动「焚罪净火」同步开放至12月17日05:59，排行榜前120名可获称号「渎焰圣裁」，前16名进入荣誉殿堂。</p>
-<p>🔗 <a href="https://gnn.gamer.com.tw/detail.php?sn=315657">阅读原文</a></p>
-<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/uhge68h4gimu82xt2c0u21onx">https://qwerwanghao.github.io/gamehot-pages/items/uhge68h4gimu82xt2c0u21onx</a></p>]]></description>
-      <category>更新与 DLC</category>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/uhge68h4gimu82xt2c0u21onx/</link>
+      <description>&lt;p&gt;&#x300a;&#x6676;&#x6838;&#x300b;&#x4e8e;11&#x6708;26&#x65e5;&#x7ef4;&#x62a4;&#x540e;&#x5f00;&#x542f;&#x611f;&#x6069;&#x8282;&#x7248;&#x672c;&#xff0c;80&#x7ea7;&#x56e2;&#x672c;&#x300c;&#x6c38;&#x7f5a;&#x971c;&#x72f1;&#x300d;&#x65b0;&#x589e;&#x4f20;&#x5947;&#x6a21;&#x5f0f;&#xff0c;&#x654c;&#x4eba;&#x5f3a;&#x5ea6;&#x5168;&#x9762;&#x5347;&#x7ea7;&#xff0c;&#x901a;&#x5173;&#x8005;&#x53ef;&#x6309;&#x7528;&#x65f6;&#x767b;&#x4e0a;&#x672c;&#x670d;&#x6216;&#x4e92;&#x901a;&#x670d;&#x6392;&#x884c;&#x699c;&#x3002;&#x7ade;&#x901f;&#x6d3b;&#x52a8;&#x300c;&#x711a;&#x7f6a;&#x51c0;&#x706b;&#x300d;&#x540c;&#x6b65;&#x5f00;&#x653e;&#x81f3;12&#x6708;17&#x65e5;05:59&#xff0c;&#x6392;&#x884c;&#x699c;&#x524d;120&#x540d;&#x53ef;&#x83b7;&#x79f0;&#x53f7;&#x300c;&#x6e0e;&#x7130;&#x5723;&#x88c1;&#x300d;&#xff0c;&#x524d;16&#x540d;&#x8fdb;&#x5165;&#x8363;&#x8a89;&#x6bbf;&#x5802;&#x3002;&lt;/p&gt;
+&lt;p&gt;&#x1f517; &lt;a href=&quot;https://gnn.gamer.com.tw/detail.php?sn=315657&quot;&gt;&#x9605;&#x8bfb;&#x539f;&#x6587;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;via GAMEHOT &#xb7; &lt;a href=&quot;https://qwerwanghao.github.io/gamehot-pages/items/uhge68h4gimu82xt2c0u21onx/&quot;&gt;https://qwerwanghao.github.io/gamehot-pages/items/uhge68h4gimu82xt2c0u21onx/&lt;/a&gt;&lt;/p&gt;</description>
+      <category>&#x66f4;&#x65b0;&#x4e0e; DLC</category>
       <pubDate>Thu, 26 Nov 2026 09:09:09 GMT</pubDate>
       <guid isPermaLink="false">uhge68h4gimu82xt2c0u21onx</guid>
-      <author>noreply@localhost (巴哈姆特 GNN)</author>
+      <author>noreply@localhost (&#x5df4;&#x54c8;&#x59c6;&#x7279; GNN)</author>
     </item>
     <item>
       <title><![CDATA[VR 机甲游戏《IRON REBELLION》12月14日推出免费 PvE 战役更新]]></title>
-      <link>https://qwerwanghao.github.io/gamehot-pages/items/zjivsg28kwt0ak47u66rvjcpb</link>
-      <description><![CDATA[<p>Black Beach Studio 宣布 VR 机甲游戏《IRON REBELLION》将于12月14日推出免费单人 PvE 战役更新 Faction Wars Campaign Mode。游戏此前仅有在线 PvP，新战役以两周为周期，玩家在 War Room 的银河地图上争夺领土、收集资源；原 Arena Mode 保留。</p>
-<p>🔗 <a href="https://www.gamingonlinux.com/2026/11/vr-mech-game-iron-rebellion-gets-a-big-pve-campaign-update-on-december-14/">阅读原文</a></p>
-<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/zjivsg28kwt0ak47u66rvjcpb">https://qwerwanghao.github.io/gamehot-pages/items/zjivsg28kwt0ak47u66rvjcpb</a></p>]]></description>
-      <category>更新与 DLC</category>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/zjivsg28kwt0ak47u66rvjcpb/</link>
+      <description>&lt;p&gt;Black Beach Studio &#x5ba3;&#x5e03; VR &#x673a;&#x7532;&#x6e38;&#x620f;&#x300a;IRON REBELLION&#x300b;&#x5c06;&#x4e8e;12&#x6708;14&#x65e5;&#x63a8;&#x51fa;&#x514d;&#x8d39;&#x5355;&#x4eba; PvE &#x6218;&#x5f79;&#x66f4;&#x65b0; Faction Wars Campaign Mode&#x3002;&#x6e38;&#x620f;&#x6b64;&#x524d;&#x4ec5;&#x6709;&#x5728;&#x7ebf; PvP&#xff0c;&#x65b0;&#x6218;&#x5f79;&#x4ee5;&#x4e24;&#x5468;&#x4e3a;&#x5468;&#x671f;&#xff0c;&#x73a9;&#x5bb6;&#x5728; War Room &#x7684;&#x94f6;&#x6cb3;&#x5730;&#x56fe;&#x4e0a;&#x4e89;&#x593a;&#x9886;&#x571f;&#x3001;&#x6536;&#x96c6;&#x8d44;&#x6e90;&#xff1b;&#x539f; Arena Mode &#x4fdd;&#x7559;&#x3002;&lt;/p&gt;
+&lt;p&gt;&#x1f517; &lt;a href=&quot;https://www.gamingonlinux.com/2026/11/vr-mech-game-iron-rebellion-gets-a-big-pve-campaign-update-on-december-14/&quot;&gt;&#x9605;&#x8bfb;&#x539f;&#x6587;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;via GAMEHOT &#xb7; &lt;a href=&quot;https://qwerwanghao.github.io/gamehot-pages/items/zjivsg28kwt0ak47u66rvjcpb/&quot;&gt;https://qwerwanghao.github.io/gamehot-pages/items/zjivsg28kwt0ak47u66rvjcpb/&lt;/a&gt;&lt;/p&gt;</description>
+      <category>&#x66f4;&#x65b0;&#x4e0e; DLC</category>
       <pubDate>Thu, 26 Nov 2026 09:07:04 GMT</pubDate>
       <guid isPermaLink="false">zjivsg28kwt0ak47u66rvjcpb</guid>
       <author>noreply@localhost (GamingOnLinux)</author>
     </item>
     <item>
       <title><![CDATA[《七骑士 Re:BIRTH》推出1.5周年庆祝更新，新英雄芭艾儿与肉鸽PvE玩法「迴廊」登场]]></title>
-      <link>https://qwerwanghao.github.io/gamehot-pages/items/ic8oj7xi5dntcksvauhs8tjch</link>
-      <description><![CDATA[<p>网石宣布《七骑士 Re:BIRTH》推出「Re:BIRTH Day」更新，延续1.5周年庆祝活动，加入新英雄、新玩法和多项活动。新魔法型英雄「芭艾儿」擅长伪装、伤害无效化与复活，其成长活动持续至12月10日；七天签到可获100张召唤券并保证至少一名（旧）七骑士英雄。</p>
-<p>🔗 <a href="https://gnn.gamer.com.tw/detail.php?sn=315656">阅读原文</a></p>
-<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/ic8oj7xi5dntcksvauhs8tjch">https://qwerwanghao.github.io/gamehot-pages/items/ic8oj7xi5dntcksvauhs8tjch</a></p>]]></description>
-      <category>更新与 DLC</category>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/ic8oj7xi5dntcksvauhs8tjch/</link>
+      <description>&lt;p&gt;&#x7f51;&#x77f3;&#x5ba3;&#x5e03;&#x300a;&#x4e03;&#x9a91;&#x58eb; Re:BIRTH&#x300b;&#x63a8;&#x51fa;&#x300c;Re:BIRTH Day&#x300d;&#x66f4;&#x65b0;&#xff0c;&#x5ef6;&#x7eed;1.5&#x5468;&#x5e74;&#x5e86;&#x795d;&#x6d3b;&#x52a8;&#xff0c;&#x52a0;&#x5165;&#x65b0;&#x82f1;&#x96c4;&#x3001;&#x65b0;&#x73a9;&#x6cd5;&#x548c;&#x591a;&#x9879;&#x6d3b;&#x52a8;&#x3002;&#x65b0;&#x9b54;&#x6cd5;&#x578b;&#x82f1;&#x96c4;&#x300c;&#x82ad;&#x827e;&#x513f;&#x300d;&#x64c5;&#x957f;&#x4f2a;&#x88c5;&#x3001;&#x4f24;&#x5bb3;&#x65e0;&#x6548;&#x5316;&#x4e0e;&#x590d;&#x6d3b;&#xff0c;&#x5176;&#x6210;&#x957f;&#x6d3b;&#x52a8;&#x6301;&#x7eed;&#x81f3;12&#x6708;10&#x65e5;&#xff1b;&#x4e03;&#x5929;&#x7b7e;&#x5230;&#x53ef;&#x83b7;100&#x5f20;&#x53ec;&#x5524;&#x5238;&#x5e76;&#x4fdd;&#x8bc1;&#x81f3;&#x5c11;&#x4e00;&#x540d;&#xff08;&#x65e7;&#xff09;&#x4e03;&#x9a91;&#x58eb;&#x82f1;&#x96c4;&#x3002;&lt;/p&gt;
+&lt;p&gt;&#x1f517; &lt;a href=&quot;https://gnn.gamer.com.tw/detail.php?sn=315656&quot;&gt;&#x9605;&#x8bfb;&#x539f;&#x6587;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;via GAMEHOT &#xb7; &lt;a href=&quot;https://qwerwanghao.github.io/gamehot-pages/items/ic8oj7xi5dntcksvauhs8tjch/&quot;&gt;https://qwerwanghao.github.io/gamehot-pages/items/ic8oj7xi5dntcksvauhs8tjch/&lt;/a&gt;&lt;/p&gt;</description>
+      <category>&#x66f4;&#x65b0;&#x4e0e; DLC</category>
       <pubDate>Thu, 26 Nov 2026 09:01:37 GMT</pubDate>
       <guid isPermaLink="false">ic8oj7xi5dntcksvauhs8tjch</guid>
-      <author>noreply@localhost (巴哈姆特 GNN)</author>
+      <author>noreply@localhost (&#x5df4;&#x54c8;&#x59c6;&#x7279; GNN)</author>
     </item>
     <item>
       <title><![CDATA[《最強王圖鑑 爆裂對戰王》今日正式登陆 Nintendo Switch 2 平台发售]]></title>
-      <link>https://qwerwanghao.github.io/gamehot-pages/items/fp3nodc5bxjj5sdmiv3lm413t</link>
-      <description><![CDATA[<p>以人气儿童IP「最強王圖鑑」为原作的对战动作游戏新作《最強王圖鑑 爆裂對戰王》于今（26）日正式登陆 Nintendo Switch 2 发售。游戏包含最多 4 人同乐的「對戰」模式与攻略全部 50 个舞台的单人「挑戰對戰」模式，玩家可操控昆虫、恐龙、灭绝动物及巨龙等生物对战。游戏支援透过「遊戲分享」以 1 份软体与附近或远方最多 4 人对战。</p>
-<p>🔗 <a href="https://gnn.gamer.com.tw/detail.php?sn=315653">阅读原文</a></p>
-<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/fp3nodc5bxjj5sdmiv3lm413t">https://qwerwanghao.github.io/gamehot-pages/items/fp3nodc5bxjj5sdmiv3lm413t</a></p>]]></description>
-      <category>新作与发售</category>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/fp3nodc5bxjj5sdmiv3lm413t/</link>
+      <description>&lt;p&gt;&#x4ee5;&#x4eba;&#x6c14;&#x513f;&#x7ae5;IP&#x300c;&#x6700;&#x5f37;&#x738b;&#x5716;&#x9451;&#x300d;&#x4e3a;&#x539f;&#x4f5c;&#x7684;&#x5bf9;&#x6218;&#x52a8;&#x4f5c;&#x6e38;&#x620f;&#x65b0;&#x4f5c;&#x300a;&#x6700;&#x5f37;&#x738b;&#x5716;&#x9451; &#x7206;&#x88c2;&#x5c0d;&#x6230;&#x738b;&#x300b;&#x4e8e;&#x4eca;&#xff08;26&#xff09;&#x65e5;&#x6b63;&#x5f0f;&#x767b;&#x9646; Nintendo Switch 2 &#x53d1;&#x552e;&#x3002;&#x6e38;&#x620f;&#x5305;&#x542b;&#x6700;&#x591a; 4 &#x4eba;&#x540c;&#x4e50;&#x7684;&#x300c;&#x5c0d;&#x6230;&#x300d;&#x6a21;&#x5f0f;&#x4e0e;&#x653b;&#x7565;&#x5168;&#x90e8; 50 &#x4e2a;&#x821e;&#x53f0;&#x7684;&#x5355;&#x4eba;&#x300c;&#x6311;&#x6230;&#x5c0d;&#x6230;&#x300d;&#x6a21;&#x5f0f;&#xff0c;&#x73a9;&#x5bb6;&#x53ef;&#x64cd;&#x63a7;&#x6606;&#x866b;&#x3001;&#x6050;&#x9f99;&#x3001;&#x706d;&#x7edd;&#x52a8;&#x7269;&#x53ca;&#x5de8;&#x9f99;&#x7b49;&#x751f;&#x7269;&#x5bf9;&#x6218;&#x3002;&#x6e38;&#x620f;&#x652f;&#x63f4;&#x900f;&#x8fc7;&#x300c;&#x904a;&#x6232;&#x5206;&#x4eab;&#x300d;&#x4ee5; 1 &#x4efd;&#x8f6f;&#x4f53;&#x4e0e;&#x9644;&#x8fd1;&#x6216;&#x8fdc;&#x65b9;&#x6700;&#x591a; 4 &#x4eba;&#x5bf9;&#x6218;&#x3002;&lt;/p&gt;
+&lt;p&gt;&#x1f517; &lt;a href=&quot;https://gnn.gamer.com.tw/detail.php?sn=315653&quot;&gt;&#x9605;&#x8bfb;&#x539f;&#x6587;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;via GAMEHOT &#xb7; &lt;a href=&quot;https://qwerwanghao.github.io/gamehot-pages/items/fp3nodc5bxjj5sdmiv3lm413t/&quot;&gt;https://qwerwanghao.github.io/gamehot-pages/items/fp3nodc5bxjj5sdmiv3lm413t/&lt;/a&gt;&lt;/p&gt;</description>
+      <category>&#x65b0;&#x4f5c;&#x4e0e;&#x53d1;&#x552e;</category>
       <pubDate>Thu, 26 Nov 2026 08:56:41 GMT</pubDate>
       <guid isPermaLink="false">fp3nodc5bxjj5sdmiv3lm413t</guid>
-      <author>noreply@localhost (巴哈姆特 GNN)</author>
+      <author>noreply@localhost (&#x5df4;&#x54c8;&#x59c6;&#x7279; GNN)</author>
     </item>
     <item>
       <title><![CDATA[《THE KING OF FIGHTERS AFK》新格鬥家「瓊 (KOF XIII 風格)」參戰 黑色星期五活動同步進行中]]></title>
-      <link>https://qwerwanghao.github.io/gamehot-pages/items/lult6p1lgnzbsohxx76sr4gg0</link>
-      <description><![CDATA[<p>《THE KING OF FIGHTERS AFK》推出新格鬥家「瓊 (KOF XIII 風格)」，玩家可於 11 月 26 日至 12 月 10 日的參戰活動中獲得該角色。</p>
-<p>🔗 <a href="https://gnn.gamer.com.tw/detail.php?sn=315652">阅读原文</a></p>
-<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/lult6p1lgnzbsohxx76sr4gg0">https://qwerwanghao.github.io/gamehot-pages/items/lult6p1lgnzbsohxx76sr4gg0</a></p>]]></description>
-      <category>更新与 DLC</category>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/lult6p1lgnzbsohxx76sr4gg0/</link>
+      <description>&lt;p&gt;&#x300a;THE KING OF FIGHTERS AFK&#x300b;&#x63a8;&#x51fa;&#x65b0;&#x683c;&#x9b25;&#x5bb6;&#x300c;&#x74ca; (KOF XIII &#x98a8;&#x683c;)&#x300d;&#xff0c;&#x73a9;&#x5bb6;&#x53ef;&#x65bc; 11 &#x6708; 26 &#x65e5;&#x81f3; 12 &#x6708; 10 &#x65e5;&#x7684;&#x53c3;&#x6230;&#x6d3b;&#x52d5;&#x4e2d;&#x7372;&#x5f97;&#x8a72;&#x89d2;&#x8272;&#x3002;&lt;/p&gt;
+&lt;p&gt;&#x1f517; &lt;a href=&quot;https://gnn.gamer.com.tw/detail.php?sn=315652&quot;&gt;&#x9605;&#x8bfb;&#x539f;&#x6587;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;via GAMEHOT &#xb7; &lt;a href=&quot;https://qwerwanghao.github.io/gamehot-pages/items/lult6p1lgnzbsohxx76sr4gg0/&quot;&gt;https://qwerwanghao.github.io/gamehot-pages/items/lult6p1lgnzbsohxx76sr4gg0/&lt;/a&gt;&lt;/p&gt;</description>
+      <category>&#x66f4;&#x65b0;&#x4e0e; DLC</category>
       <pubDate>Thu, 26 Nov 2026 08:55:02 GMT</pubDate>
       <guid isPermaLink="false">lult6p1lgnzbsohxx76sr4gg0</guid>
-      <author>noreply@localhost (巴哈姆特 GNN)</author>
+      <author>noreply@localhost (&#x5df4;&#x54c8;&#x59c6;&#x7279; GNN)</author>
     </item>
     <item>
       <title><![CDATA[开源项目 OpenD2K 重构《沙丘 2000》，支持原生 Linux 与移动端]]></title>
-      <link>https://qwerwanghao.github.io/gamehot-pages/items/atth86jpeba8cnkp1l7fqr6bw</link>
-      <description><![CDATA[<p>开源项目 OpenD2K 旨在忠实重构《沙丘 2000》原版游戏，需自备游戏拷贝，支持 Linux、macOS、Windows、Android 和 iOS，原版单人战役已完整可玩。项目提供忠实原版、Enhanced 2D 和 3D 三种画面模式，支持三种战役、遭遇战、自定义存档与 Gruntmods 社区战役，非原版功能均可关闭。项目开发大量借助 Claude Code 等 AI 完成。</p>
-<p>🔗 <a href="https://www.gamingonlinux.com/2026/11/opend2k-is-an-open-source-modern-rebuild-of-dune-2000/">阅读原文</a></p>
-<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/atth86jpeba8cnkp1l7fqr6bw">https://qwerwanghao.github.io/gamehot-pages/items/atth86jpeba8cnkp1l7fqr6bw</a></p>]]></description>
-      <category>新作与发售</category>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/atth86jpeba8cnkp1l7fqr6bw/</link>
+      <description>&lt;p&gt;&#x5f00;&#x6e90;&#x9879;&#x76ee; OpenD2K &#x65e8;&#x5728;&#x5fe0;&#x5b9e;&#x91cd;&#x6784;&#x300a;&#x6c99;&#x4e18; 2000&#x300b;&#x539f;&#x7248;&#x6e38;&#x620f;&#xff0c;&#x9700;&#x81ea;&#x5907;&#x6e38;&#x620f;&#x62f7;&#x8d1d;&#xff0c;&#x652f;&#x6301; Linux&#x3001;macOS&#x3001;Windows&#x3001;Android &#x548c; iOS&#xff0c;&#x539f;&#x7248;&#x5355;&#x4eba;&#x6218;&#x5f79;&#x5df2;&#x5b8c;&#x6574;&#x53ef;&#x73a9;&#x3002;&#x9879;&#x76ee;&#x63d0;&#x4f9b;&#x5fe0;&#x5b9e;&#x539f;&#x7248;&#x3001;Enhanced 2D &#x548c; 3D &#x4e09;&#x79cd;&#x753b;&#x9762;&#x6a21;&#x5f0f;&#xff0c;&#x652f;&#x6301;&#x4e09;&#x79cd;&#x6218;&#x5f79;&#x3001;&#x906d;&#x9047;&#x6218;&#x3001;&#x81ea;&#x5b9a;&#x4e49;&#x5b58;&#x6863;&#x4e0e; Gruntmods &#x793e;&#x533a;&#x6218;&#x5f79;&#xff0c;&#x975e;&#x539f;&#x7248;&#x529f;&#x80fd;&#x5747;&#x53ef;&#x5173;&#x95ed;&#x3002;&#x9879;&#x76ee;&#x5f00;&#x53d1;&#x5927;&#x91cf;&#x501f;&#x52a9; Claude Code &#x7b49; AI &#x5b8c;&#x6210;&#x3002;&lt;/p&gt;
+&lt;p&gt;&#x1f517; &lt;a href=&quot;https://www.gamingonlinux.com/2026/11/opend2k-is-an-open-source-modern-rebuild-of-dune-2000/&quot;&gt;&#x9605;&#x8bfb;&#x539f;&#x6587;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;via GAMEHOT &#xb7; &lt;a href=&quot;https://qwerwanghao.github.io/gamehot-pages/items/atth86jpeba8cnkp1l7fqr6bw/&quot;&gt;https://qwerwanghao.github.io/gamehot-pages/items/atth86jpeba8cnkp1l7fqr6bw/&lt;/a&gt;&lt;/p&gt;</description>
+      <category>&#x65b0;&#x4f5c;&#x4e0e;&#x53d1;&#x552e;</category>
       <pubDate>Thu, 26 Nov 2026 08:53:47 GMT</pubDate>
       <guid isPermaLink="false">atth86jpeba8cnkp1l7fqr6bw</guid>
       <author>noreply@localhost (GamingOnLinux)</author>
     </item>
     <item>
       <title><![CDATA[《楓之谷：放置冒險記》新增 3 款傳說遺物，1 週年活動与新村莊「忍耐之林」同步推出]]></title>
-      <link>https://qwerwanghao.github.io/gamehot-pages/items/xrzpow53yqms862pl2t6pgwp0</link>
-      <description><![CDATA[<p>NEXON 与 Able Games 开发的手机放置型 RPG《楓之谷：放置冒險記》更新推出 3 款全新傳說遺物：「封印甕」、夥伴特化的「閃閃發光的腕錶」及「木乃伊犬的繃帶」。12 月 16 日前举办「遺物挖掘探險隊！」活动，同期展开公会合作任务、图章任务等 1 周年纪念活动，并新增由 3 个阶段构成的村莊「忍耐之林」与「冰壺」「彈棋」2 款小游戏。</p>
-<p>🔗 <a href="https://gnn.gamer.com.tw/detail.php?sn=315649">阅读原文</a></p>
-<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/xrzpow53yqms862pl2t6pgwp0">https://qwerwanghao.github.io/gamehot-pages/items/xrzpow53yqms862pl2t6pgwp0</a></p>]]></description>
-      <category>更新与 DLC</category>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/xrzpow53yqms862pl2t6pgwp0/</link>
+      <description>&lt;p&gt;NEXON &#x4e0e; Able Games &#x5f00;&#x53d1;&#x7684;&#x624b;&#x673a;&#x653e;&#x7f6e;&#x578b; RPG&#x300a;&#x6953;&#x4e4b;&#x8c37;&#xff1a;&#x653e;&#x7f6e;&#x5192;&#x96aa;&#x8a18;&#x300b;&#x66f4;&#x65b0;&#x63a8;&#x51fa; 3 &#x6b3e;&#x5168;&#x65b0;&#x50b3;&#x8aaa;&#x907a;&#x7269;&#xff1a;&#x300c;&#x5c01;&#x5370;&#x7515;&#x300d;&#x3001;&#x5925;&#x4f34;&#x7279;&#x5316;&#x7684;&#x300c;&#x9583;&#x9583;&#x767c;&#x5149;&#x7684;&#x8155;&#x9336;&#x300d;&#x53ca;&#x300c;&#x6728;&#x4e43;&#x4f0a;&#x72ac;&#x7684;&#x7e43;&#x5e36;&#x300d;&#x3002;12 &#x6708; 16 &#x65e5;&#x524d;&#x4e3e;&#x529e;&#x300c;&#x907a;&#x7269;&#x6316;&#x6398;&#x63a2;&#x96aa;&#x968a;&#xff01;&#x300d;&#x6d3b;&#x52a8;&#xff0c;&#x540c;&#x671f;&#x5c55;&#x5f00;&#x516c;&#x4f1a;&#x5408;&#x4f5c;&#x4efb;&#x52a1;&#x3001;&#x56fe;&#x7ae0;&#x4efb;&#x52a1;&#x7b49; 1 &#x5468;&#x5e74;&#x7eaa;&#x5ff5;&#x6d3b;&#x52a8;&#xff0c;&#x5e76;&#x65b0;&#x589e;&#x7531; 3 &#x4e2a;&#x9636;&#x6bb5;&#x6784;&#x6210;&#x7684;&#x6751;&#x838a;&#x300c;&#x5fcd;&#x8010;&#x4e4b;&#x6797;&#x300d;&#x4e0e;&#x300c;&#x51b0;&#x58fa;&#x300d;&#x300c;&#x5f48;&#x68cb;&#x300d;2 &#x6b3e;&#x5c0f;&#x6e38;&#x620f;&#x3002;&lt;/p&gt;
+&lt;p&gt;&#x1f517; &lt;a href=&quot;https://gnn.gamer.com.tw/detail.php?sn=315649&quot;&gt;&#x9605;&#x8bfb;&#x539f;&#x6587;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;via GAMEHOT &#xb7; &lt;a href=&quot;https://qwerwanghao.github.io/gamehot-pages/items/xrzpow53yqms862pl2t6pgwp0/&quot;&gt;https://qwerwanghao.github.io/gamehot-pages/items/xrzpow53yqms862pl2t6pgwp0/&lt;/a&gt;&lt;/p&gt;</description>
+      <category>&#x66f4;&#x65b0;&#x4e0e; DLC</category>
       <pubDate>Thu, 26 Nov 2026 08:31:15 GMT</pubDate>
       <guid isPermaLink="false">xrzpow53yqms862pl2t6pgwp0</guid>
-      <author>noreply@localhost (巴哈姆特 GNN)</author>
+      <author>noreply@localhost (&#x5df4;&#x54c8;&#x59c6;&#x7279; GNN)</author>
     </item>
     <item>
       <title><![CDATA[《月姬格斗 逝血之战：TWI-LUMINA》公布 2027 年 4 月 22 日发售，弓冢五月参战并支持跨平台对战]]></title>
-      <link>https://qwerwanghao.github.io/gamehot-pages/items/utq26nt24qz3ngj24flims4ay</link>
-      <description><![CDATA[<p>Aniplex 公布 2D 对战格斗游戏《月姬格斗 逝血之战：TWI-LUMINA》主视觉图与宣传影片，宣布「弓冢五月」作为全新可操作角色参战，游戏定于 2027 年 4 月 22 日发售。</p>
-<p>🔗 <a href="https://gnn.gamer.com.tw/detail.php?sn=315648">阅读原文</a></p>
-<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/utq26nt24qz3ngj24flims4ay">https://qwerwanghao.github.io/gamehot-pages/items/utq26nt24qz3ngj24flims4ay</a></p>]]></description>
-      <category>新作与发售</category>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/utq26nt24qz3ngj24flims4ay/</link>
+      <description>&lt;p&gt;Aniplex &#x516c;&#x5e03; 2D &#x5bf9;&#x6218;&#x683c;&#x6597;&#x6e38;&#x620f;&#x300a;&#x6708;&#x59ec;&#x683c;&#x6597; &#x901d;&#x8840;&#x4e4b;&#x6218;&#xff1a;TWI-LUMINA&#x300b;&#x4e3b;&#x89c6;&#x89c9;&#x56fe;&#x4e0e;&#x5ba3;&#x4f20;&#x5f71;&#x7247;&#xff0c;&#x5ba3;&#x5e03;&#x300c;&#x5f13;&#x51a2;&#x4e94;&#x6708;&#x300d;&#x4f5c;&#x4e3a;&#x5168;&#x65b0;&#x53ef;&#x64cd;&#x4f5c;&#x89d2;&#x8272;&#x53c2;&#x6218;&#xff0c;&#x6e38;&#x620f;&#x5b9a;&#x4e8e; 2027 &#x5e74; 4 &#x6708; 22 &#x65e5;&#x53d1;&#x552e;&#x3002;&lt;/p&gt;
+&lt;p&gt;&#x1f517; &lt;a href=&quot;https://gnn.gamer.com.tw/detail.php?sn=315648&quot;&gt;&#x9605;&#x8bfb;&#x539f;&#x6587;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;via GAMEHOT &#xb7; &lt;a href=&quot;https://qwerwanghao.github.io/gamehot-pages/items/utq26nt24qz3ngj24flims4ay/&quot;&gt;https://qwerwanghao.github.io/gamehot-pages/items/utq26nt24qz3ngj24flims4ay/&lt;/a&gt;&lt;/p&gt;</description>
+      <category>&#x65b0;&#x4f5c;&#x4e0e;&#x53d1;&#x552e;</category>
       <pubDate>Thu, 26 Nov 2026 08:29:41 GMT</pubDate>
       <guid isPermaLink="false">utq26nt24qz3ngj24flims4ay</guid>
-      <author>noreply@localhost (巴哈姆特 GNN)</author>
+      <author>noreply@localhost (&#x5df4;&#x54c8;&#x59c6;&#x7279; GNN)</author>
     </item>
     <item>
       <title><![CDATA[《恋与制作人》八周年更新：限定 SSR 羁绊、陪伴系统与线下主题店同步推出]]></title>
-      <link>https://qwerwanghao.github.io/gamehot-pages/items/g4pxep62qfbqnd8olccn7h6vt</link>
-      <description><![CDATA[<p>《恋与制作人》于 11 月 26 日更新后开启八周年庆典，推出「相爱万岁」限定 SSR 羁绊活动与「恋与瞬息宇宙」特别活动，均持续至 12 月 13 日 23:59。新版本上线「泡澡陪伴」与「生理期记录」系统，登录福利可累计获得星河许愿券×10 和钻石×950，另有 12 月 3 日起在台北凯岩咖啡的主题店等多场线下活动。</p>
-<p>🔗 <a href="https://gnn.gamer.com.tw/detail.php?sn=315645">阅读原文</a></p>
-<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/g4pxep62qfbqnd8olccn7h6vt">https://qwerwanghao.github.io/gamehot-pages/items/g4pxep62qfbqnd8olccn7h6vt</a></p>]]></description>
-      <category>更新与 DLC</category>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/g4pxep62qfbqnd8olccn7h6vt/</link>
+      <description>&lt;p&gt;&#x300a;&#x604b;&#x4e0e;&#x5236;&#x4f5c;&#x4eba;&#x300b;&#x4e8e; 11 &#x6708; 26 &#x65e5;&#x66f4;&#x65b0;&#x540e;&#x5f00;&#x542f;&#x516b;&#x5468;&#x5e74;&#x5e86;&#x5178;&#xff0c;&#x63a8;&#x51fa;&#x300c;&#x76f8;&#x7231;&#x4e07;&#x5c81;&#x300d;&#x9650;&#x5b9a; SSR &#x7f81;&#x7eca;&#x6d3b;&#x52a8;&#x4e0e;&#x300c;&#x604b;&#x4e0e;&#x77ac;&#x606f;&#x5b87;&#x5b99;&#x300d;&#x7279;&#x522b;&#x6d3b;&#x52a8;&#xff0c;&#x5747;&#x6301;&#x7eed;&#x81f3; 12 &#x6708; 13 &#x65e5; 23:59&#x3002;&#x65b0;&#x7248;&#x672c;&#x4e0a;&#x7ebf;&#x300c;&#x6ce1;&#x6fa1;&#x966a;&#x4f34;&#x300d;&#x4e0e;&#x300c;&#x751f;&#x7406;&#x671f;&#x8bb0;&#x5f55;&#x300d;&#x7cfb;&#x7edf;&#xff0c;&#x767b;&#x5f55;&#x798f;&#x5229;&#x53ef;&#x7d2f;&#x8ba1;&#x83b7;&#x5f97;&#x661f;&#x6cb3;&#x8bb8;&#x613f;&#x5238;&#xd7;10 &#x548c;&#x94bb;&#x77f3;&#xd7;950&#xff0c;&#x53e6;&#x6709; 12 &#x6708; 3 &#x65e5;&#x8d77;&#x5728;&#x53f0;&#x5317;&#x51ef;&#x5ca9;&#x5496;&#x5561;&#x7684;&#x4e3b;&#x9898;&#x5e97;&#x7b49;&#x591a;&#x573a;&#x7ebf;&#x4e0b;&#x6d3b;&#x52a8;&#x3002;&lt;/p&gt;
+&lt;p&gt;&#x1f517; &lt;a href=&quot;https://gnn.gamer.com.tw/detail.php?sn=315645&quot;&gt;&#x9605;&#x8bfb;&#x539f;&#x6587;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;via GAMEHOT &#xb7; &lt;a href=&quot;https://qwerwanghao.github.io/gamehot-pages/items/g4pxep62qfbqnd8olccn7h6vt/&quot;&gt;https://qwerwanghao.github.io/gamehot-pages/items/g4pxep62qfbqnd8olccn7h6vt/&lt;/a&gt;&lt;/p&gt;</description>
+      <category>&#x66f4;&#x65b0;&#x4e0e; DLC</category>
       <pubDate>Thu, 26 Nov 2026 08:24:26 GMT</pubDate>
       <guid isPermaLink="false">g4pxep62qfbqnd8olccn7h6vt</guid>
-      <author>noreply@localhost (巴哈姆特 GNN)</author>
+      <author>noreply@localhost (&#x5df4;&#x54c8;&#x59c6;&#x7279; GNN)</author>
     </item>
     <item>
       <title><![CDATA[短篇恐怖游戏 The Temple 以免费独立 Half-Life 2 模组形式登陆 Steam]]></title>
-      <link>https://qwerwanghao.github.io/gamehot-pages/items/kqmy3jif4m1ufozb9eezhm3xf</link>
-      <description><![CDATA[<p>短篇第一人称恐怖游戏 The Temple 已于 11 月 24 日登陆 Steam，作为基于 Source 引擎的免费独立 Half-Life 2 模组发布。游戏源自 2020 年和 2024 年 Map Labs 关卡设计比赛的两张地图，经改进并新增第三张，基于 Mapbase 制作。玩家在水生星球的废弃殖民地探索，可驾驶潜艇、飞艇和穿梭机三种载具，共三章约两小时内容。</p>
-<p>🔗 <a href="https://www.gamingonlinux.com/2026/11/the-temple-is-a-short-atmospheric-horror-game-built-as-a-free-standalone-half-life-2-mod/">阅读原文</a></p>
-<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/kqmy3jif4m1ufozb9eezhm3xf">https://qwerwanghao.github.io/gamehot-pages/items/kqmy3jif4m1ufozb9eezhm3xf</a></p>]]></description>
-      <category>新作与发售</category>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/kqmy3jif4m1ufozb9eezhm3xf/</link>
+      <description>&lt;p&gt;&#x77ed;&#x7bc7;&#x7b2c;&#x4e00;&#x4eba;&#x79f0;&#x6050;&#x6016;&#x6e38;&#x620f; The Temple &#x5df2;&#x4e8e; 11 &#x6708; 24 &#x65e5;&#x767b;&#x9646; Steam&#xff0c;&#x4f5c;&#x4e3a;&#x57fa;&#x4e8e; Source &#x5f15;&#x64ce;&#x7684;&#x514d;&#x8d39;&#x72ec;&#x7acb; Half-Life 2 &#x6a21;&#x7ec4;&#x53d1;&#x5e03;&#x3002;&#x6e38;&#x620f;&#x6e90;&#x81ea; 2020 &#x5e74;&#x548c; 2024 &#x5e74; Map Labs &#x5173;&#x5361;&#x8bbe;&#x8ba1;&#x6bd4;&#x8d5b;&#x7684;&#x4e24;&#x5f20;&#x5730;&#x56fe;&#xff0c;&#x7ecf;&#x6539;&#x8fdb;&#x5e76;&#x65b0;&#x589e;&#x7b2c;&#x4e09;&#x5f20;&#xff0c;&#x57fa;&#x4e8e; Mapbase &#x5236;&#x4f5c;&#x3002;&#x73a9;&#x5bb6;&#x5728;&#x6c34;&#x751f;&#x661f;&#x7403;&#x7684;&#x5e9f;&#x5f03;&#x6b96;&#x6c11;&#x5730;&#x63a2;&#x7d22;&#xff0c;&#x53ef;&#x9a7e;&#x9a76;&#x6f5c;&#x8247;&#x3001;&#x98de;&#x8247;&#x548c;&#x7a7f;&#x68ad;&#x673a;&#x4e09;&#x79cd;&#x8f7d;&#x5177;&#xff0c;&#x5171;&#x4e09;&#x7ae0;&#x7ea6;&#x4e24;&#x5c0f;&#x65f6;&#x5185;&#x5bb9;&#x3002;&lt;/p&gt;
+&lt;p&gt;&#x1f517; &lt;a href=&quot;https://www.gamingonlinux.com/2026/11/the-temple-is-a-short-atmospheric-horror-game-built-as-a-free-standalone-half-life-2-mod/&quot;&gt;&#x9605;&#x8bfb;&#x539f;&#x6587;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;via GAMEHOT &#xb7; &lt;a href=&quot;https://qwerwanghao.github.io/gamehot-pages/items/kqmy3jif4m1ufozb9eezhm3xf/&quot;&gt;https://qwerwanghao.github.io/gamehot-pages/items/kqmy3jif4m1ufozb9eezhm3xf/&lt;/a&gt;&lt;/p&gt;</description>
+      <category>&#x65b0;&#x4f5c;&#x4e0e;&#x53d1;&#x552e;</category>
       <pubDate>Thu, 26 Nov 2026 08:23:33 GMT</pubDate>
       <guid isPermaLink="false">kqmy3jif4m1ufozb9eezhm3xf</guid>
       <author>noreply@localhost (GamingOnLinux)</author>
     </item>
     <item>
       <title><![CDATA[《模擬倉庫獵人》登陸 PS5 与 Xbox Series X|S，《概不退款版》同步发售]]></title>
-      <link>https://qwerwanghao.github.io/gamehot-pages/items/iqb467bwwa4spsyq0fhn3jqqy</link>
-      <description><![CDATA[<p>Racoons Studios 开发、astragon Entertainment 发行的《模擬倉庫獵人》（Storage Hunter Simulator）现已登陆 PlayStation 5 和 Xbox Series X|S 平台。</p>
-<p>🔗 <a href="https://gnn.gamer.com.tw/detail.php?sn=315644">阅读原文</a></p>
-<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/iqb467bwwa4spsyq0fhn3jqqy">https://qwerwanghao.github.io/gamehot-pages/items/iqb467bwwa4spsyq0fhn3jqqy</a></p>]]></description>
-      <category>新作与发售</category>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/iqb467bwwa4spsyq0fhn3jqqy/</link>
+      <description>&lt;p&gt;Racoons Studios &#x5f00;&#x53d1;&#x3001;astragon Entertainment &#x53d1;&#x884c;&#x7684;&#x300a;&#x6a21;&#x64ec;&#x5009;&#x5eab;&#x7375;&#x4eba;&#x300b;&#xff08;Storage Hunter Simulator&#xff09;&#x73b0;&#x5df2;&#x767b;&#x9646; PlayStation 5 &#x548c; Xbox Series X|S &#x5e73;&#x53f0;&#x3002;&lt;/p&gt;
+&lt;p&gt;&#x1f517; &lt;a href=&quot;https://gnn.gamer.com.tw/detail.php?sn=315644&quot;&gt;&#x9605;&#x8bfb;&#x539f;&#x6587;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;via GAMEHOT &#xb7; &lt;a href=&quot;https://qwerwanghao.github.io/gamehot-pages/items/iqb467bwwa4spsyq0fhn3jqqy/&quot;&gt;https://qwerwanghao.github.io/gamehot-pages/items/iqb467bwwa4spsyq0fhn3jqqy/&lt;/a&gt;&lt;/p&gt;</description>
+      <category>&#x65b0;&#x4f5c;&#x4e0e;&#x53d1;&#x552e;</category>
       <pubDate>Thu, 26 Nov 2026 08:20:57 GMT</pubDate>
       <guid isPermaLink="false">iqb467bwwa4spsyq0fhn3jqqy</guid>
-      <author>noreply@localhost (巴哈姆特 GNN)</author>
+      <author>noreply@localhost (&#x5df4;&#x54c8;&#x59c6;&#x7279; GNN)</author>
     </item>
     <item>
       <title><![CDATA[《三国观沧海》「洛川惊梦」版本上线 新主将甄宓登场]]></title>
-      <link>https://qwerwanghao.github.io/gamehot-pages/items/u6otyd017uqns2pi0y4v4c2tk</link>
-      <description><![CDATA[<p>三国水墨风策略战棋游戏《三国观沧海》于2026年11月26日上线「洛川惊梦」版本，推出全新「超」级别主将甄宓及专属造型「甄宓·洛川惊梦」。</p>
-<p>🔗 <a href="https://gnn.gamer.com.tw/detail.php?sn=315643">阅读原文</a></p>
-<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/u6otyd017uqns2pi0y4v4c2tk">https://qwerwanghao.github.io/gamehot-pages/items/u6otyd017uqns2pi0y4v4c2tk</a></p>]]></description>
-      <category>更新与 DLC</category>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/u6otyd017uqns2pi0y4v4c2tk/</link>
+      <description>&lt;p&gt;&#x4e09;&#x56fd;&#x6c34;&#x58a8;&#x98ce;&#x7b56;&#x7565;&#x6218;&#x68cb;&#x6e38;&#x620f;&#x300a;&#x4e09;&#x56fd;&#x89c2;&#x6ca7;&#x6d77;&#x300b;&#x4e8e;2026&#x5e74;11&#x6708;26&#x65e5;&#x4e0a;&#x7ebf;&#x300c;&#x6d1b;&#x5ddd;&#x60ca;&#x68a6;&#x300d;&#x7248;&#x672c;&#xff0c;&#x63a8;&#x51fa;&#x5168;&#x65b0;&#x300c;&#x8d85;&#x300d;&#x7ea7;&#x522b;&#x4e3b;&#x5c06;&#x7504;&#x5b93;&#x53ca;&#x4e13;&#x5c5e;&#x9020;&#x578b;&#x300c;&#x7504;&#x5b93;&#xb7;&#x6d1b;&#x5ddd;&#x60ca;&#x68a6;&#x300d;&#x3002;&lt;/p&gt;
+&lt;p&gt;&#x1f517; &lt;a href=&quot;https://gnn.gamer.com.tw/detail.php?sn=315643&quot;&gt;&#x9605;&#x8bfb;&#x539f;&#x6587;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;via GAMEHOT &#xb7; &lt;a href=&quot;https://qwerwanghao.github.io/gamehot-pages/items/u6otyd017uqns2pi0y4v4c2tk/&quot;&gt;https://qwerwanghao.github.io/gamehot-pages/items/u6otyd017uqns2pi0y4v4c2tk/&lt;/a&gt;&lt;/p&gt;</description>
+      <category>&#x66f4;&#x65b0;&#x4e0e; DLC</category>
       <pubDate>Thu, 26 Nov 2026 08:18:48 GMT</pubDate>
       <guid isPermaLink="false">u6otyd017uqns2pi0y4v4c2tk</guid>
-      <author>noreply@localhost (巴哈姆特 GNN)</author>
-    </item>
-    <item>
-      <title><![CDATA[3DMark 手机版新增 CPU 效能测试项目 CPU Rumble，可免费使用]]></title>
-      <link>https://qwerwanghao.github.io/gamehot-pages/items/wfixg392l53bimo5zphe4sdtu</link>
-      <description><![CDATA[<p>UL Benchmark 于美国时间 2026 年 11 月 25 日宣布，在 3DMark 的 Android 及 iOS/iPadOS 版本新增游戏 CPU 效能测试 CPU Rumble，更新至最新版本即可免费使用。</p>
-<p>🔗 <a href="https://gnn.gamer.com.tw/detail.php?sn=315642">阅读原文</a></p>
-<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/wfixg392l53bimo5zphe4sdtu">https://qwerwanghao.github.io/gamehot-pages/items/wfixg392l53bimo5zphe4sdtu</a></p>]]></description>
-      <category>行业动态</category>
-      <pubDate>Thu, 26 Nov 2026 08:13:40 GMT</pubDate>
-      <guid isPermaLink="false">wfixg392l53bimo5zphe4sdtu</guid>
-      <author>noreply@localhost (巴哈姆特 GNN)</author>
-    </item>
-    <item>
-      <title><![CDATA[Linux 游戏管理器 Lutris v0.5.23 发布，改进 GOG、Humble Store 和 Epic Games 支持]]></title>
-      <link>https://qwerwanghao.github.io/gamehot-pages/items/gzgbkwy9ddzusuvp8ii3q809c</link>
-      <description><![CDATA[<p>Lutris v0.5.23 发布，带来大量改进，包括 GOG 云存档同步、基于 depot 的下载与增量更新，以及 Epic Games Store 令牌自动刷新和库同步提速。本次还新增 GameJolt 和 DLsite 游戏源、实验性 AppImage 打包，修复多项崩溃与安装问题，并新增瑞典语、加利西亚语和繁体中文翻译。</p>
-<p>🔗 <a href="https://www.gamingonlinux.com/2026/11/game-manager-lutris-v0-5-23-is-out-with-lots-improvements-for-gog-humble-store-epic-games-and-more/">阅读原文</a></p>
-<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/gzgbkwy9ddzusuvp8ii3q809c">https://qwerwanghao.github.io/gamehot-pages/items/gzgbkwy9ddzusuvp8ii3q809c</a></p>]]></description>
-      <category>更新与 DLC</category>
-      <pubDate>Thu, 26 Nov 2026 08:13:09 GMT</pubDate>
-      <guid isPermaLink="false">gzgbkwy9ddzusuvp8ii3q809c</guid>
-      <author>noreply@localhost (GamingOnLinux)</author>
+      <author>noreply@localhost (&#x5df4;&#x54c8;&#x59c6;&#x7279; GNN)</author>
     </item>
   </channel>
 </rss>
