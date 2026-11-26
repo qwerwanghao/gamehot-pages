@@ -9,6 +9,17 @@
     <ttl>30</ttl>
     <generator>GAMEHOT (https://qwerwanghao.github.io/gamehot-pages/agent)</generator>
     <item>
+      <title><![CDATA[维修工程师实测《GTA 6》致PS5过热关机，峰值功耗达274.2W]]></title>
+      <link>https://qwerwanghao.github.io/gamehot-pages/items/e6ub4t1rwu5pbjvupfyj36xel</link>
+      <description><![CDATA[<p>维修工程师 @Modyfikator89 因收到多起PS5游玩《GTA 6》时过热当机甚至烧毁的送修案例而进行测试，实测峰值功耗达274.2W，高于多数3A大作的200至220W，关闭游戏后降至67W。出现CE-108255-1报错并整机关机可能触发过热保护，其一台测试机APU温度达100.9°C并记录15次热关机。作者建议拆开外壳清理风扇与集尘孔灰尘，并将主机横放在通风处。</p>
+<p>🔗 <a href="https://www.4gamers.com.tw/news/detail/83520/gta-6-take-over-270w-on-ps5">阅读原文</a></p>
+<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/e6ub4t1rwu5pbjvupfyj36xel">https://qwerwanghao.github.io/gamehot-pages/items/e6ub4t1rwu5pbjvupfyj36xel</a></p>]]></description>
+      <category>攻略</category>
+      <pubDate>Thu, 26 Nov 2026 04:44:30 GMT</pubDate>
+      <guid isPermaLink="false">e6ub4t1rwu5pbjvupfyj36xel</guid>
+      <author>noreply@localhost (4Gamers)</author>
+    </item>
+    <item>
       <title><![CDATA[《Digimon Alysion》手机版全球上线 万代数码宝贝卡牌游戏 App 于183个国家和地区推出]]></title>
       <link>https://qwerwanghao.github.io/gamehot-pages/items/mqhew7l0l7pkvjsgpi24ltra4</link>
       <description><![CDATA[<p>万代宣布数码宝贝集换式卡牌游戏手机 App《Digimon Alysion》于11月25日在全球183个国家和地区上线，支持日英简繁中文和韩文，基本免费（部分道具付费）。</p>
@@ -546,17 +557,6 @@
       <pubDate>Tue, 24 Nov 2026 23:00:47 GMT</pubDate>
       <guid isPermaLink="false">zmfm6evu5hoh9ql9n2csjlvh3</guid>
       <author>noreply@localhost (IGN 中国)</author>
-    </item>
-    <item>
-      <title><![CDATA[Take-Two 发起 DMCA 下架 GTA VI PC 重编译项目 Leonida]]></title>
-      <link>https://qwerwanghao.github.io/gamehot-pages/items/gczxrh399r6xrh55je0dzdlz4</link>
-      <description><![CDATA[<p>Take-Two 向粉丝项目 Leonida 的主 GitHub 仓库及其超过 2900 个 fork 发出 DMCA 下架通知，该项目由 15 岁开发者 NotRexed 制作，旨在将泄露的 GTA VI Xbox 版转换为 Windows 原生运行。</p>
-<p>🔗 <a href="https://www.theverge.com/news/1041690/grand-theft-auto-6-pc-recompilation-project-leonida-takedown-take-two">阅读原文</a></p>
-<p>via GAMEHOT · <a href="https://qwerwanghao.github.io/gamehot-pages/items/gczxrh399r6xrh55je0dzdlz4">https://qwerwanghao.github.io/gamehot-pages/items/gczxrh399r6xrh55je0dzdlz4</a></p>]]></description>
-      <category>行业动态</category>
-      <pubDate>Tue, 24 Nov 2026 21:39:14 GMT</pubDate>
-      <guid isPermaLink="false">gczxrh399r6xrh55je0dzdlz4</guid>
-      <author>noreply@localhost (The Verge 游戏)</author>
     </item>
   </channel>
 </rss>
