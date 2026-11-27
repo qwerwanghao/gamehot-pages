@@ -13,10 +13,25 @@ function isImmutable(url) {
   return url.pathname.startsWith(ASSETS_PREFIX) && HASHED_ASSET.test(url.pathname) && !url.search;
 }
 
-async function trimCache(cache) {
-  const keys = await cache.keys();
-  const excess = keys.length - MAX_ENTRIES;
-  for (let i = 0; i < excess; i++) await cache.delete(keys[i]);
+let trimming = null;
+let trimPending = false;
+
+function trimCache(cache) {
+  if (trimming) {
+    trimPending = true;
+    return trimming;
+  }
+  trimming = (async () => {
+    do {
+      trimPending = false;
+      const keys = await cache.keys();
+      const excess = keys.length - MAX_ENTRIES;
+      for (let i = 0; i < excess; i++) await cache.delete(keys[i]);
+    } while (trimPending);
+  })().finally(() => {
+    trimming = null;
+  });
+  return trimming;
 }
 
 self.addEventListener("install", (event) => {
@@ -30,6 +45,7 @@ self.addEventListener("activate", (event) => {
         names.filter((name) => name.startsWith("gamehot-immutable-") && name !== CACHE_NAME)
           .map((name) => caches.delete(name)),
       ))
+      .catch(() => {})
       .then(() => self.clients.claim()),
   );
 });
@@ -40,8 +56,9 @@ self.addEventListener("fetch", (event) => {
   try { url = new URL(event.request.url); } catch { return; }
   if (!isImmutable(url)) return;
   event.respondWith(
-    caches.open(CACHE_NAME).then(async (cache) => {
-      const hit = await cache.match(event.request);
+    caches.open(CACHE_NAME).catch(() => null).then(async (cache) => {
+      if (!cache) return fetch(event.request);
+      const hit = await cache.match(event.request).catch(() => undefined);
       if (hit) return hit;
       const response = await fetch(event.request);
       if (response.ok && response.type === "basic") {
